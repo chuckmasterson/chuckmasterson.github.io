@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <p class="post-date">
+      <time datetime="{{ page.date | date_to_xmlschema }}" 
+          itemprop="datePublished">
+          {{ page.date | date: "%b %-d, %Y" }}
+      </time>
+  </p>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">
+        {{ page.title | escape | markdownify }}
+    </h1>
+    {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% include comments.html %}
+
+</article>
