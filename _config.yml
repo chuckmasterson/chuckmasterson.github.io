@@ -18,7 +18,7 @@ email: WhyWouldIWantYouToBeAbleTo@Email.Me
 description: >
   “What news! how much more important to learn what that is which was never old!” —Thoreau
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.chuckmasterson.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.chuckmasterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 imageroot: "/assets/images"
 imagelarge: "/lg/"
 imagesmall: "/sm/"
@@ -32,6 +32,7 @@ markdown: kramdown
 # theme: forest
 gems:
   - jekyll-feed
+  - github-pages
 exclude:
   - Gemfile
   - Gemfile.lock
