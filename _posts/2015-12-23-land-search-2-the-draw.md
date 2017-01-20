@@ -59,7 +59,7 @@ convincing, and that’s how we ended up, one day in early December, driving up
 to the northern tip of Wisconsin. 
 
 
-{% include fig.html src="allpurposetemp.JPG" caption="Up toward that little
+{% include fig.html src="Draw-map.jpg" caption="Up toward that little
 gray pushpin in a circle." %}
 
 
