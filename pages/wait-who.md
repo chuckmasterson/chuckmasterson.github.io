@@ -1,7 +1,7 @@
 ---
 title: Wait Who
 layout: page
-permalink: /wait-who/
+permalink: /about/
 ---
 
 Chuck Masterson is not my real name. I use that name here for reasons never fully explained.
