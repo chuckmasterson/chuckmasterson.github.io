@@ -1,4 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
-assets/images
+assets/images/lg
+assets/images/sm
