@@ -16,7 +16,7 @@
 title: Chuck Masterson’s Actual Blog
 email: WhyWouldIWantYouToBeAbleTo@Email.Me
 description: >
-  “What news! how much more important to learn what that is which was never old!” —Thoreau
+    *“What news! how much more important to know what that is which was never old!”* —Thoreau
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.chuckmasterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 imageroot: "/assets/images"
@@ -24,8 +24,21 @@ imagelarge: "/lg/"
 imagesmall: "/sm/"
 # todo: change this structure and fig.html so fig only has liquid in the URLs, nothing hard-coded
 github_username: chuckmasterson
+repository: chuckmasterson/chuckmasterson.github.io
 jquery_version: 3.1.1
 author: Chuck
+
+topnav:
+  - title: Blog
+    url: /blog/
+  - title: Wait Who
+    url: /about/
+  - title: Creativity
+    url: /creativity/
+  - title: Misc.
+    url: /misc/
+  - title: The Brain
+    url: /the-brain/
 
 # Build settings
 markdown: kramdown
