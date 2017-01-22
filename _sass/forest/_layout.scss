@@ -2,87 +2,105 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
+  text-align: center;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  font-size: 26px;
-  font-weight: 300;
-  line-height: 56px;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left;
+  background-color: $background-color;
+  border-bottom: $green-border;
+  padding: 10px 0;
+  z-index: 1;
+  position: relative;
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
+  .tagline {
+    color: $grey-color;
+    font-size: $small-font-size;
+  }
+
+  h1 {
+    font-family: $fancy-font-family;
+    font-feature-settings: "smcp" 1;
+    letter-spacing: 2px;
+    font-size: 28.8px; // yes, exactly 28.8
+    font-weight: 300;
+    line-height: 28.8px;
+    margin-bottom: 0;
+
+    a {
+      color: $grey-color-light;
+      &:hover {
+        text-decoration: none;
+      }
+    }
   }
 }
 
 .site-nav {
-  float: right;
-  line-height: 56px;
+  font-family: $title-font-family;
 
   .menu-icon {
     display: none;
   }
 
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
+  .page-list {
+    margin-top: -2px;
+    padding-bottom: 6px; // allows box-shadow to be visible below
+    overflow: hidden;    // stops box-shadow from leaking above
+  }
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+  .page-link {
+    //list-style-type: none;
+    display: inline-block;
+    color: $grey-color-light;
+    line-height: $base-font-size;
+    margin: 0 5px;
+    padding: 9px 15px;
+    box-shadow: 0 1px 5px #111;
+    border: $green-border;
+    background-color: $dark-background-color;
+    border-radius: 0 0 10px 10px;
+    border-top: none;
+    position: relative;
+
+    &.active {
+      font-color: white;
+      z-index: 2;
+      background-color: $background-color;
     }
   }
 
   @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
 
-    .menu-icon {
+    .page-list {
+      display: none;
+      margin-top: 0;
+    }
+    .page-list.palm-show {
       display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
+    }
+    .menu-icon, .page-link {
+      display: block;
+      width: 100%;
+      padding: 8px;
       text-align: center;
+      margin: 0;
+      box-shadow: none;
+      border: none;
+      border-bottom: $green-border;
+      background-color: $background-color;
+      line-height: 14px;
+      border-radius: 0;
 
       > svg path {
-        fill: $grey-color-dark;
+        fill: $grey-color;
       }
     }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
+    .page-link.active {
+        background-color: $dark-background-color;
     }
   }
 }
@@ -194,14 +212,43 @@
 /**
  * Posts
  */
+article.post {
+  border: $brown-border;
+  background-color: $brown-color;
+  box-shadow: 0 0 5px #000;
+  border-radius: 10px 10px 0 0;
+
+  p {
+    margin: 0;
+    text-indent: 15px;
+  }
+  // todo: make this more complicated
+}
+.post-container {
+  background-color: $background-color;
+  padding: 0 40px;
+}
+.post-date {
+  margin: 3px 0;
+  text-align: center;
+  font-family: $title-font-family;
+  color: $grey-color-light;
+  letter-spacing: 1.5px;
+  text-shadow: -1px 1px #111;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
 }
 
 .post-title {
-  font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1;
+  font: normal normal 26px $title-font-family;
+  padding: 40px;
+  text-align: center;
+  color: $pop-color;
+  text-shadow: 3px 3px 2px #000;
+
+  p { margin: 0 auto; }
 
   @include media-query($on-laptop) {
     font-size: 36px;
@@ -235,6 +282,10 @@
     }
   }
 }
+
+/**
+ * _includes/fig.html
+ */
 .image-fig a {
   display: inline-block;
   position: relative; }
