@@ -1,5 +1,5 @@
 ---
-title: 'Still Alive: Denver | Sole Regret'
+title: 'Still Alive: Denver · Sole Regret'
 date: 2013-11-07T07:19:00+00:00
 author: Chuck
 layout: post
