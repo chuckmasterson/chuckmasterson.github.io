@@ -18,6 +18,13 @@
   {% endif %}
   <script src="/assets/js/jquery.fitvids.js"></script>
   <script src="/assets/js/jquery.magnific-popup.js"></script>
+  <script>
+  $(document).ready(function(){
+      $(".menu-icon").click(function(){
+        $(".page-list").toggleClass("palm-show");
+      });
+  });
+  </script>
   {% include magnific-init.html %}
   {% include staticman-comments.html %}
 
