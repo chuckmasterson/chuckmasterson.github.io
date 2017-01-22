@@ -9,7 +9,8 @@ blogger_blog:
 blogger_permalink:
   - /2012/02/se-asia-vi-transit-phnom-penh.html 
 categories:
-  - adventure tags:
+  - adventure
+tags:
   - Laos
   - Cambodia
 
@@ -35,7 +36,7 @@ which the Lao think highly enough of that its picture is on almost all their
 money. It’s a sort of big temple-monument thing:
 
 
-{% include fig.html src="SEAsia%2B196.jpg" %}
+{% include fig.html src="SEAsia 196.jpg" %}
 
 
 It takes about two minutes to walk around it, and you can’t go in.  It’s
@@ -71,7 +72,7 @@ tuk-tuk, one run by locals for locals. They filled it *up* with people. There
 was barely room to turn your head.
 
 
-{% include fig.html src="SEAsia%2B204.jpg" %}
+{% include fig.html src="SEAsia 204.jpg" %}
 
 
 And as it headed farther south more people kept getting on, though occasionally
