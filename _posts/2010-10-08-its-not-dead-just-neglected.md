@@ -12,6 +12,7 @@ categories:
   - adventure
   - traveling
   - family
+tags:
   - Cascadia
 
 ---

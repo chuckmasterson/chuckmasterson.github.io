@@ -9,6 +9,9 @@ blogger_blog:
 blogger_permalink:
   - /2010/07/well-that-was-fun.html
 categories:
+  - interesting people
+  - civilization
+tags:
   - NYC
 
 ---

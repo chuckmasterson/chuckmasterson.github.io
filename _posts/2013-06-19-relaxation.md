@@ -12,6 +12,7 @@ categories:
   - Year of Adventure
   - hitchhiking
   - family
+  - permaculture
 tags:
   - West Virginia
 

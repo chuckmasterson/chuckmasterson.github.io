@@ -11,9 +11,9 @@ blogger_permalink:
 categories:
   - Year of Adventure
   - Still Alive
+  - angst
 tags:
   - Mexico
-  - angst
 
 ---
 

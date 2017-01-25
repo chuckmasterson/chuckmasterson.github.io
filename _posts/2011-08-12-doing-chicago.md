@@ -12,7 +12,7 @@ categories:
   - adventure
   - snake
 tags:
-  - Chicago
+  - Midwest
 
 ---
 Last week, to make the most of the little time I have left in the USA, I

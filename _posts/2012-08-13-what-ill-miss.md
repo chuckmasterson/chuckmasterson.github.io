@@ -9,7 +9,6 @@ blogger_blog:
 blogger_permalink:
   - /2012/08/what-ill-miss.html
 categories:
-  - traditions
   - teaching
   - other cultures
 tags:

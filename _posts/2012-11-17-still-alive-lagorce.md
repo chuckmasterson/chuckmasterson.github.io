@@ -12,9 +12,9 @@ categories:
   - Year of Adventure
   - Still Alive
   - food
+  - hitchhiking
 tags:
   - France
-  - hitchhiking
 
 ---
 So I went to Barcelona, and stayed in an abandoned ice cream factory with a

@@ -178,7 +178,7 @@ and the hoop houses he’s made out of rebar and plastic pipe, a few thousand
 dollars cheaper than the kits you can buy. They’re still overflowing with kale,
 as well as a crowd of plants I didn’t know well that he uses for making teas
 and tinctures.
-{: .no-indent }
+{: run-in }
 
 {% include fig.html src="IMG_1687.jpg" %}
 

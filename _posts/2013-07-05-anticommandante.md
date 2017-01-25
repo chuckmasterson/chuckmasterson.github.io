@@ -11,6 +11,7 @@ blogger_permalink:
 categories:
   - Year of Adventure
   - hitchhiking
+tags:
   - Midwest
 
 ---

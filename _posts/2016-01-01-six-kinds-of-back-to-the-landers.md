@@ -12,6 +12,7 @@ categories:
   - homesteading
   - deep thoughts
   - new world
+  - permaculture
 
 ---
 

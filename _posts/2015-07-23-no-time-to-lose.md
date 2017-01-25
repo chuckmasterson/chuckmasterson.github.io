@@ -13,6 +13,7 @@ categories:
   - homesteading
   - new world
   - deep thoughts
+  - Feral
 
 ---
 Earlier on this summer, Misty moved out of her previous, dysfunctional house

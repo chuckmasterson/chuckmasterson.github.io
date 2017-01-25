@@ -12,8 +12,9 @@ categories:
   - adventure
   - traveling
   - family
-  - Cascadia
   - photos
+tags:
+  - Cascadia
 
 ---
 
@@ -60,15 +61,10 @@ Obsidian Flow." %}
 
 With Joe for scale, this is what the flow looks like…
 
-<a
-href="http://1.bp.blogspot.com/_TcEcDkFer5E/TLD89xKL-cI/AAAAAAAABO8/u95yfyhZGOc/s1600/Oregon+Etc+048.jpg"><img
-style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer;
-cursor:hand;width: 400px; height: 300px;"
-src="http://1.bp.blogspot.com/_TcEcDkFer5E/TLD89xKL-cI/AAAAAAAABO8/u95yfyhZGOc/s400/Oregon+Etc+048.jpg"
-border="0" alt="" id="BLOGGER_PHOTO_ID_5526194880881883586" /></a>
+{% include fig.html src="Oregon Etc 048.jpg" %}
 
 and how positively enormous it is.
-{: .no-indent }
+{: .run-in }
 
 {% include fig.html src="Oregon Etc 050.jpg" %}
 
@@ -109,17 +105,17 @@ should see. For example, this one where the moon posed on a point of rock.
 {% include fig.html src="Oregon Etc 085.jpg" %}
 
 And this one where Joe ate it.
-{: .no-indent }
+{: .run-in }
 
 {% include fig.html src="Oregon Etc 086.jpg" %}
 
 And this one where he’s good at sports.
-{: .no-indent }
+{: .run-in }
 
 {% include fig.html src="Oregon Etc 088.jpg" %}
 
 Or how about a plain and simple one?
-{: .no-indent }
+{: .run-in }
 
 {% include fig.html src="Oregon Etc 091.jpg" %}
 

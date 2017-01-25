@@ -14,7 +14,7 @@ categories:
 
 ---
 
-streetlights on old snow &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-my shadow reached the rabbit
+streetlights on old snow &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  
+my shadow reached the rabbit  
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;pop!—frightened kernel!
-{: .text-center }
+{: .text-center .no-drop }

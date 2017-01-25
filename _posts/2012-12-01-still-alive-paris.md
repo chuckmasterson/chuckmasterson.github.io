@@ -12,7 +12,7 @@ categories:
   - Year of Adventure
   - Still Alive
 tags:
-  - Paris
+  - France
 
 
 ---
