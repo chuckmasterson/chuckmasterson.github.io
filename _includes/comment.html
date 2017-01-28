@@ -41,17 +41,19 @@
 
 </article>
 
-{% assign replies = site.data.comments[page.slug] | where_exp:"item","item._parent == include.id" %}
+{% assign replies = site.data.comments[commentslug] | sort %}
 {% for reply in replies %}
 {% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
-{% assign id      = reply.id %}
-{% assign p       = reply._parent %}
+{% assign id      = reply[1].id %}
+{% assign p       = reply[1]._parent %}
 {% assign parent  = p | to_integer %}
-{% assign avatar  = reply.avatar %}
-{% assign email   = reply.email %}
-{% assign name    = reply.author %}
-{% assign url     = reply.authorurl %}
-{% assign date    = reply.date %}
-{% assign message = reply.text %}
+{% assign avatar  = reply[1].avatar %}
+{% assign email   = reply[1].email %}
+{% assign name    = reply[1].author %}
+{% assign url     = reply[1].authorurl %}
+{% assign date    = reply[1].date %}
+{% assign message = reply[1].text %}
+{% if p == include.id %}
 {% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+{% endif %}
 {% endfor %}

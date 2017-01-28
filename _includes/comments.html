@@ -10,19 +10,24 @@
             {% endif %}
             Comments
         </h2>
-        {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
+        {% capture commentslug %}{% if page.legacyslug.size > 0 %}{{ page.legacyslug }}{% else %}{{ page.slug }}{% endif %}{% endcapture %}
+        {{ commentslug | inspect }}
+
+        {% assign comments = site.data.comments[commentslug] | sort %}
         {% for comment in comments %}
-            {% assign id      = comment.id %}
+            {% assign id      = comment[1].id %}
             {% assign index   = forloop.index %}
-            {% assign p       = comment._parent %}
+            {% assign p       = comment[1]._parent %}
             {% assign parent  = p | to_integer %}
-            {% assign avatar  = comment.avatar %}
-            {% assign email   = comment.email %}
-            {% assign name    = comment.author %}
-            {% assign url     = comment.authorurl %}
-            {% assign date    = comment.timestamp %}
-            {% assign message = comment.text %}
+            {% assign avatar  = comment[1].avatar %}
+            {% assign email   = comment[1].email %}
+            {% assign name    = comment[1].author %}
+            {% assign url     = comment[1].authorurl %}
+            {% assign date    = comment[1].timestamp %}
+            {% assign message = comment[1].text %}
+            {% if p == nil %}
             {% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+            {% endif %}
         {% endfor %}
 
     </div>
