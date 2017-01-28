@@ -217,13 +217,43 @@ article.post {
   background-color: $brown-color;
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
+  line-height: 1.8;
+
+}
+.post-content {
 
   p {
     margin: 0;
-    text-indent: 15px;
+    text-indent: 25px;
+    text-align: justify;
+
+    &.run-in,
+    &:first-child {
+      text-indent: 0;
+    }
   }
-  // todo: make this more complicated
+
+  > p.prefatory + p:not(.prefatory) {
+    margin-top: 10px;
+  }
+
+  > p:not(.prefatory):not(.no-drop):first-child,
+  > p.prefatory + p:not(.prefatory) {
+    text-indent: 0;
+    &:first-letter {
+      font-size: 52px;
+      font-family: $fancy-font-family;
+      line-height: 62px;
+      float: left;
+      margin: 0 2px -14px 0;
+    }
+  }
 }
+
+p.filing {
+  font-family: $title-font-family;
+}
+
 .post-container {
   background-color: $background-color;
   padding: 0 40px;

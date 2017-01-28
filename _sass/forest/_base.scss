@@ -111,19 +111,10 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  font-size: 18px;
-  letter-spacing: -1px;
-  font-style: italic;
-
-  > :last-child {
-    margin-bottom: 0;
-  }
+    padding: 0 $spacing-unit / 2;
+    margin: 1em;
+    border-left: 3px solid $brand-color;
 }
-
-
 
 /**
  * Code formatting
@@ -196,4 +187,21 @@ pre {
   path {
     fill: $grey-color;
   }
+}
+
+
+/**
+ * General-purpose classes
+ */
+.text-left,
+.post-content p.text-left {
+  text-align: left;
+}
+.text-center,
+.post-content p.text-center {
+  text-align: center;
+}
+.text-right,
+.post-content p.text-right {
+  text-align: right;
 }
