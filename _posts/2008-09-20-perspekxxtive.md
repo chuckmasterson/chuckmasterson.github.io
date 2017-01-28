@@ -3,7 +3,7 @@ title: Perspekxxtive
 date: 2008-09-20T18:34:00+00:00
 author: Chuck
 layout: post
-slug: 2008-09-perspekxxtive
+legacyslug: 2008-09-perspekxxtive
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

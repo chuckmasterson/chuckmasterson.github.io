@@ -3,7 +3,7 @@ title: 'Still Alive: Lagorce'
 date: 2012-11-17T22:57:00+00:00
 author: Chuck
 layout: post
-slug: 2012-11-still-alive-lagorce
+legacyslug: 2012-11-still-alive-lagorce
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

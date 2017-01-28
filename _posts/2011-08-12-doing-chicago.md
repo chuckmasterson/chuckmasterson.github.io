@@ -3,7 +3,7 @@ title: Doing Chicago
 date: 2011-08-12T07:23:00+00:00
 author: Chuck
 layout: post
-slug: 2011-08-doing-chicago
+legacyslug: 2011-08-doing-chicago
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

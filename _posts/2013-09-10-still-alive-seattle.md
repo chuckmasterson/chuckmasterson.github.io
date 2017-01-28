@@ -3,7 +3,7 @@ title: 'Still Alive: Seattle'
 date: 2013-09-10T08:32:00+00:00
 author: Chuck
 layout: post
-slug: 2013-09-still-alive-seattle
+legacyslug: 2013-09-still-alive-seattle
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

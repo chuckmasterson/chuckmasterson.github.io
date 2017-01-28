@@ -3,7 +3,7 @@ title: 'Crowduck Dreamin’'
 date: 2012-07-18T14:45:00+00:00
 author: Chuck
 layout: post
-slug: 2012-07-crowduck-dreamin
+legacyslug: 2012-07-crowduck-dreamin
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

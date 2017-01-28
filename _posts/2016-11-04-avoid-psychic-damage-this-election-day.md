@@ -3,7 +3,7 @@ title: Avoid Psychic Damage This Election Day
 date: 2016-11-04T17:51:00+00:00
 author: Chuck
 layout: post
-slug: 2016-11-avoid-psychic-damage-this-election-day
+legacyslug: 2016-11-avoid-psychic-damage-this-election-day
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

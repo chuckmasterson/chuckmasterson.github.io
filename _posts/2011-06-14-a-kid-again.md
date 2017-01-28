@@ -3,7 +3,7 @@ title: A kid again
 date: 2011-06-14T19:42:00+00:00
 author: Chuck
 layout: post
-slug: 2011-06-by-now-some-of-you-have-heard-that-i
+legacyslug: 2011-06-by-now-some-of-you-have-heard-that-i
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: A trifling crusade
 date: 2007-05-28T00:13:00+00:00
 author: Chuck
 layout: post
-slug: 2007-05-trifling-crusade
+legacyslug: 2007-05-trifling-crusade
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

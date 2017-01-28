@@ -3,7 +3,7 @@ title: I need to write this, real quick
 date: 2007-06-12T18:43:00+00:00
 author: Chuck
 layout: post
-slug: 2007-06-i-need-to-write-this-real-quick
+legacyslug: 2007-06-i-need-to-write-this-real-quick
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

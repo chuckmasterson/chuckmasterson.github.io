@@ -3,7 +3,7 @@ title: The search for Gemütlichkeit
 date: 2012-10-12T09:26:00+00:00
 author: Chuck
 layout: post
-slug: 2012-10-the-search-for-gemutlichkeit
+legacyslug: 2012-10-the-search-for-gemutlichkeit
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

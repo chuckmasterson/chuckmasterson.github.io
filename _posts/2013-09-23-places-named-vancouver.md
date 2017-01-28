@@ -3,7 +3,7 @@ title: Places Named Vancouver
 date: 2013-09-23T20:29:00+00:00
 author: Chuck
 layout: post
-slug: 2013-09-places-named-vancouver
+legacyslug: 2013-09-places-named-vancouver
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

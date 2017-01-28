@@ -3,7 +3,7 @@ title: Upcoming Plans • Christmas List
 date: 2015-11-28T23:35:00+00:00
 author: Chuck
 layout: post
-slug: 2015-11-upcoming-plans-christmas-list
+legacyslug: 2015-11-upcoming-plans-christmas-list
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: 'Creature Comforts (The New Year’s Resolution Post)'
 date: 2014-12-27T07:32:00+00:00
 author: Chuck
 layout: post
-slug: 2014-12-creature-comforts-new-years-resolution
+legacyslug: 2014-12-creature-comforts-new-years-resolution
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

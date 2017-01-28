@@ -3,7 +3,7 @@ title: Cool things
 date: 2009-10-07T03:28:00+00:00
 author: Chuck
 layout: post
-slug: 2009-10-cool-things
+legacyslug: 2009-10-cool-things
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

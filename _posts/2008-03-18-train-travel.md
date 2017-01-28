@@ -3,7 +3,7 @@ title: Train Travel
 date: 2008-03-18T03:13:00+00:00
 author: Chuck
 layout: post
-slug: 2008-03-train-travel
+legacyslug: 2008-03-train-travel
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: When You Come to the Orient, You Get Orientation
 date: 2011-08-28T13:05:00+00:00
 author: Chuck
 layout: post
-slug: 2011-08-when-you-come-to-orient-you-get
+legacyslug: 2011-08-when-you-come-to-orient-you-get
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

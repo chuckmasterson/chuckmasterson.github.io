@@ -3,7 +3,7 @@ title: Esperanta Nokto
 date: 2004-08-25T09:43:00+00:00
 author: Chuck
 layout: post
-slug: 2004-08-esperanta-nokto
+legacyslug: 2004-08-esperanta-nokto
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

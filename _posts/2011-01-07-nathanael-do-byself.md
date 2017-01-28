@@ -3,7 +3,7 @@ title: Nathanael Do Byself
 date: 2011-01-07T20:22:00+00:00
 author: Chuck
 layout: post
-slug: 2011-01-nathanael-do-byself
+legacyslug: 2011-01-nathanael-do-byself
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

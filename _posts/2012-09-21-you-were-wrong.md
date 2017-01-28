@@ -3,7 +3,7 @@ title: You were wrong
 date: 2012-09-21T19:03:00+00:00
 author: Chuck
 layout: post
-slug: 2012-09-you-were-wrong
+legacyslug: 2012-09-you-were-wrong
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: On harebrainedness
 date: 2008-08-06T20:42:00+00:00
 author: Chuck
 layout: post
-slug: 2008-08-on-harebrainedness
+legacyslug: 2008-08-on-harebrainedness
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

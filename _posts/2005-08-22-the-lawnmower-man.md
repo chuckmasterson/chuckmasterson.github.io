@@ -3,7 +3,7 @@ title: The Lawnmower Man
 date: 2005-08-22T02:19:00+00:00
 author: Chuck
 layout: post
-slug: 2005-08-lawnmower-man
+legacyslug: 2005-08-lawnmower-man
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

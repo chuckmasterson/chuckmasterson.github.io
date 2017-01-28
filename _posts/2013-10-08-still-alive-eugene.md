@@ -3,7 +3,7 @@ title: 'Still Alive: Eugene'
 date: 2013-10-08T06:02:00+00:00
 author: Chuck
 layout: post
-slug: 2013-10-still-alive-eugene
+legacyslug: 2013-10-still-alive-eugene
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

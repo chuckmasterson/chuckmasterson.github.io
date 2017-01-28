@@ -3,7 +3,7 @@ title: Why Your Package Was Late and Damaged
 date: 2010-12-30T06:50:00+00:00
 author: Chuck
 layout: post
-slug: 2010-12-why-your-package-was-late-and-damaged
+legacyslug: 2010-12-why-your-package-was-late-and-damaged
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

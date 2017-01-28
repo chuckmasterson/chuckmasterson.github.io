@@ -3,7 +3,7 @@ title: Going Outside
 date: 2013-06-11T16:21:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-going-outside
+legacyslug: 2013-06-going-outside
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

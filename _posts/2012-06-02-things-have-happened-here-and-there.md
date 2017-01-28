@@ -3,7 +3,7 @@ title: Things have happened here and there
 date: 2012-06-02T10:22:00+00:00
 author: Chuck
 layout: post
-slug: 2012-06-things-have-happened-here-and-there
+legacyslug: 2012-06-things-have-happened-here-and-there
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

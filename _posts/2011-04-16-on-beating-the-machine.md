@@ -3,7 +3,7 @@ title: On beating the machine
 date: 2011-04-16T05:42:00+00:00
 author: Chuck
 layout: post
-slug: 2011-04-on-beating-machine
+legacyslug: 2011-04-on-beating-machine
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

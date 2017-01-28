@@ -3,7 +3,7 @@ title: Replaceability
 date: 2009-12-26T06:40:00+00:00
 author: Chuck
 layout: post
-slug: 2009-12-replaceability
+legacyslug: 2009-12-replaceability
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

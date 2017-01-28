@@ -3,7 +3,7 @@ title: 시장 (Shijang)—The Market
 date: 2012-03-25T04:46:00+00:00
 author: Chuck
 layout: post
-slug: 2012-03-shijangthe-market
+legacyslug: 2012-03-shijangthe-market
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

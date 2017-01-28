@@ -3,7 +3,7 @@ title: 'Still Alive: Back from the steppe'
 date: 2012-09-07T11:16:00+00:00
 author: Chuck
 layout: post
-slug: 2012-09-still-alive-back-from-steppe
+legacyslug: 2012-09-still-alive-back-from-steppe
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

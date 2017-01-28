@@ -3,7 +3,7 @@ title: The Awful President America Needed
 date: 2016-11-20T07:20:00+00:00
 author: Chuck
 layout: post
-slug: 2016-11-the-awful-president-america-needed
+legacyslug: 2016-11-the-awful-president-america-needed
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

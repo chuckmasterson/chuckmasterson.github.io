@@ -3,7 +3,7 @@ title: The Building-Free Diet
 date: 2011-01-29T08:35:00+00:00
 author: Chuck
 layout: post
-slug: 2011-01-building-free-diet
+legacyslug: 2011-01-building-free-diet
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

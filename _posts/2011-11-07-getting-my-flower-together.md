@@ -3,7 +3,7 @@ title: Getting my flower together
 date: 2011-11-07T04:18:00+00:00
 author: Chuck
 layout: post
-slug: 2011-11-getting-my-flower-together
+legacyslug: 2011-11-getting-my-flower-together
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

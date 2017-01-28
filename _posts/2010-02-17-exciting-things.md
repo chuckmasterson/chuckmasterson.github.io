@@ -3,7 +3,7 @@ title: Exciting things
 date: 2010-02-17T23:13:00+00:00
 author: Chuck
 layout: post
-slug: 2010-02-exciting-things
+legacyslug: 2010-02-exciting-things
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

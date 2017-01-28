@@ -3,7 +3,7 @@ title: 'Sittin’ here at my desk'
 date: 2005-01-19T16:25:00+00:00
 author: Chuck
 layout: post
-slug: 2005-01-sittin-here-at-my-desk
+legacyslug: 2005-01-sittin-here-at-my-desk
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

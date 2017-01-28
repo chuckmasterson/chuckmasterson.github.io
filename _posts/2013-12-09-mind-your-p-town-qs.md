@@ -3,7 +3,7 @@ title: 'Mind Your P-Town Q’s'
 date: 2013-12-09T22:51:00+00:00
 author: Chuck
 layout: post
-slug: 2013-12-mind-your-p-town-qs
+legacyslug: 2013-12-mind-your-p-town-qs
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

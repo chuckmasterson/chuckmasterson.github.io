@@ -3,7 +3,7 @@ title: 'Feds: “Masterson Blog Left in Lurch”'
 date: 2008-07-18T07:05:00+00:00
 author: Chuck
 layout: post
-slug: 2008-07-feds-masterson-blog-left-in-lurch
+legacyslug: 2008-07-feds-masterson-blog-left-in-lurch
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

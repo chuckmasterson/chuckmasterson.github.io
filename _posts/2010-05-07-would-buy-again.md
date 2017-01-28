@@ -3,7 +3,7 @@ title: Would Buy Again
 date: 2010-05-07T23:19:00+00:00
 author: Chuck
 layout: post
-slug: 2010-05-would-buy-again
+legacyslug: 2010-05-would-buy-again
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

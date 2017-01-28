@@ -3,7 +3,7 @@ title: The Tales of California Are Actually True!
 date: 2013-10-26T07:54:00+00:00
 author: Chuck
 layout: post
-slug: 2013-10-the-tales-of-california-are-actually
+legacyslug: 2013-10-the-tales-of-california-are-actually
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

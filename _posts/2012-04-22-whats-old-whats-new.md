@@ -3,7 +3,7 @@ title: 'What’s old / What’s new'
 date: 2012-04-22T14:12:00+00:00
 author: Chuck
 layout: post
-slug: 2012-04-whats-old-whats-new
+legacyslug: 2012-04-whats-old-whats-new
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

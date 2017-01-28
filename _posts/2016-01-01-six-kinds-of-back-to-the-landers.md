@@ -3,7 +3,7 @@ title: Six Kinds of Back-to-the-Landers
 date: 2016-01-01T23:50:00+00:00
 author: Chuck
 layout: post
-slug: 2016-01-six-kinds-of-back-to-landers
+legacyslug: 2016-01-six-kinds-of-back-to-landers
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

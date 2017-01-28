@@ -3,7 +3,7 @@ title: 'Still Alive: San Cristóbal de las Casas'
 date: 2014-03-02T17:53:00+00:00
 author: Chuck
 layout: post
-slug: 2014-03-still-alive-san-cristobal-de-las-casas
+legacyslug: 2014-03-still-alive-san-cristobal-de-las-casas
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Insult to Injury
 date: 2013-06-30T03:30:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-insult-to-injury
+legacyslug: 2013-06-insult-to-injury
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

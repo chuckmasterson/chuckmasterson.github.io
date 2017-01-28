@@ -3,7 +3,7 @@ title: Here goes nothing
 date: 2012-08-09T15:15:00+00:00
 author: Chuck
 layout: post
-slug: 2012-08-here-goes-nothing
+legacyslug: 2012-08-here-goes-nothing
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: An array of daguerreotypes
 date: 2010-10-09T22:50:00+00:00
 author: Chuck
 layout: post
-slug: 2010-10-array-of-daguerreotypes
+legacyslug: 2010-10-array-of-daguerreotypes
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

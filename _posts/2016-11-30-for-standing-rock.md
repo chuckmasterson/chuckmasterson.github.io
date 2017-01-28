@@ -3,7 +3,7 @@ title: For Standing Rock
 date: 2016-11-30T05:26:00+00:00
 author: Chuck
 layout: post
-slug: 2016-11-for-standing-rock
+legacyslug: 2016-11-for-standing-rock
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

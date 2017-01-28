@@ -3,7 +3,7 @@ title: 'SE Asia — I: Leaving and Bangkok'
 date: 2012-01-31T10:23:00+00:00
 author: Chuck
 layout: post
-slug: 2012-01-se-asia-i
+legacyslug: 2012-01-se-asia-i
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

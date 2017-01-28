@@ -3,7 +3,7 @@ title: Covered in bees
 date: 2010-06-23T05:08:00+00:00
 author: Chuck
 layout: post
-slug: 2010-06-covered-in-bees
+legacyslug: 2010-06-covered-in-bees
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

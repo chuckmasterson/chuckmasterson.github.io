@@ -3,7 +3,7 @@ title: Deungsan—Mountain Climbing
 date: 2011-09-04T03:49:00+00:00
 author: Chuck
 layout: post
-slug: 2011-09-deungsan-mountain-climbing
+legacyslug: 2011-09-deungsan-mountain-climbing
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

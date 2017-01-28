@@ -3,7 +3,7 @@ title: '“So you’re headed down to Meh-hee-co?”'
 date: 2014-01-17T06:38:00+00:00
 author: Chuck
 layout: post
-slug: 2014-01-so-youre-headed-down-to-meh-hee-co
+legacyslug: 2014-01-so-youre-headed-down-to-meh-hee-co
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

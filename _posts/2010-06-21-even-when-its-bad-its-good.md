@@ -3,7 +3,7 @@ title: 'Even when it’s bad it’s good'
 date: 2010-06-21T01:16:00+00:00
 author: Chuck
 layout: post
-slug: 2010-06-even-when-its-bad-its-good
+legacyslug: 2010-06-even-when-its-bad-its-good
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

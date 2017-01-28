@@ -3,7 +3,7 @@ title: The expedition
 date: 2007-10-06T18:32:00+00:00
 author: Chuck
 layout: post
-slug: 2007-10-expedition
+legacyslug: 2007-10-expedition
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

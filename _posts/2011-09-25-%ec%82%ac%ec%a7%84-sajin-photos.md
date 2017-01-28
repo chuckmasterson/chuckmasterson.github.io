@@ -3,7 +3,7 @@ title: 사진 (sajin) — Photos
 date: 2011-09-25T15:47:00+00:00
 author: Chuck
 layout: post
-slug: 2011-09-sajin-photos
+legacyslug: 2011-09-sajin-photos
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: The bowels of Kentucky
 date: 2008-03-26T21:17:00+00:00
 author: Chuck
 layout: post
-slug: 2008-03-bowels-of-kentucky
+legacyslug: 2008-03-bowels-of-kentucky
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

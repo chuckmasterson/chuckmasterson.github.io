@@ -3,7 +3,7 @@ title: 'Let’s see if I remember how to do this.'
 date: 2006-11-19T03:11:00+00:00
 author: Chuck
 layout: post
-slug: 2006-11-lets-see-if-i-remember-how-to-do-this
+legacyslug: 2006-11-lets-see-if-i-remember-how-to-do-this
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

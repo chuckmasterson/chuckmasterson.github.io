@@ -3,7 +3,7 @@ title: Rome in a Day and a Half
 date: 2012-12-07T17:27:00+00:00
 author: Chuck
 layout: post
-slug: 2012-12-rome-in-day-and-half
+legacyslug: 2012-12-rome-in-day-and-half
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

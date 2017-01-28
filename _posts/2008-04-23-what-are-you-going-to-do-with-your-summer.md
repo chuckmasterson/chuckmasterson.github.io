@@ -3,7 +3,7 @@ title: What are YOU going to do with your summer?
 date: 2008-04-23T05:35:00+00:00
 author: Chuck
 layout: post
-slug: 2008-04-what-are-you-going-to-do-with-your
+legacyslug: 2008-04-what-are-you-going-to-do-with-your
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

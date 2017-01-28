@@ -3,7 +3,7 @@ title: Today is the day
 date: 2008-09-02T18:09:00+00:00
 author: Chuck
 layout: post
-slug: 2008-09-today-is-day
+legacyslug: 2008-09-today-is-day
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

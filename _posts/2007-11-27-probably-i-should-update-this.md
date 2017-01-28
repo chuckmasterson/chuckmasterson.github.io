@@ -3,7 +3,7 @@ title: Probably I should update this
 date: 2007-11-27T20:34:00+00:00
 author: Chuck
 layout: post
-slug: 2007-11-probably-i-should-update-this
+legacyslug: 2007-11-probably-i-should-update-this
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

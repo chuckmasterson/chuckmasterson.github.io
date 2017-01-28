@@ -3,7 +3,7 @@ title: Taking Apart Animals
 date: 2015-11-12T07:19:00+00:00
 author: Chuck
 layout: post
-slug: 2015-11-taking-apart-animals
+legacyslug: 2015-11-taking-apart-animals
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

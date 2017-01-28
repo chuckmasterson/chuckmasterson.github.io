@@ -3,7 +3,7 @@ title: After-Hours
 date: 2013-09-21T19:37:00+00:00
 author: Chuck
 layout: post
-slug: 2013-09-after-hours
+legacyslug: 2013-09-after-hours
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

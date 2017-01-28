@@ -3,7 +3,7 @@ title: Further, Exhaustive Thoughts on Meat
 date: 2016-10-19T23:47:00+00:00
 author: Chuck
 layout: post
-slug: 2016-10-further-exhaustive-thoughts-on-meat
+legacyslug: 2016-10-further-exhaustive-thoughts-on-meat
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Studies Show Finneytown Secondary Campus Not a Real School
 date: 2007-02-04T02:15:00+00:00
 author: Chuck
 layout: post
-slug: 2007-02-studies-show-finneytown-secondary
+legacyslug: 2007-02-studies-show-finneytown-secondary
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

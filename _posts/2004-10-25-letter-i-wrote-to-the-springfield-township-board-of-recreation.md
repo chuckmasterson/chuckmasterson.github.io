@@ -3,7 +3,7 @@ title: Letter I wrote to the Springfield Township Board of Recreation
 date: 2004-10-25T02:38:00+00:00
 author: Chuck
 layout: post
-slug: 2004-10-letter-i-wrote-to-springfield-township
+legacyslug: 2004-10-letter-i-wrote-to-springfield-township
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

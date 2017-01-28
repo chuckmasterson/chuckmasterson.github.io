@@ -3,7 +3,7 @@ title: Went frogging
 date: 2007-06-15T21:13:00+00:00
 author: Chuck
 layout: post
-slug: 2007-06-went-frogging
+legacyslug: 2007-06-went-frogging
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

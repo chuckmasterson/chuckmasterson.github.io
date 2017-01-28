@@ -3,7 +3,7 @@ title: The competition
 date: 2004-09-12T08:18:00+00:00
 author: Chuck
 layout: post
-slug: 2004-09-competition
+legacyslug: 2004-09-competition
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

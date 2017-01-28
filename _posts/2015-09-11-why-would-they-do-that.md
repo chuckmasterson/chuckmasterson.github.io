@@ -3,7 +3,7 @@ title: Why Would They Do That
 date: 2015-09-11T04:20:00+00:00
 author: Chuck
 layout: post
-slug: 2015-09-why-would-they-do-that
+legacyslug: 2015-09-why-would-they-do-that
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

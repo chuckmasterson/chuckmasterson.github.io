@@ -3,7 +3,7 @@ title: 'Giant Backlog of Photos II: Trans-Siberian Railway to Zombie Berlin'
 date: 2015-02-17T05:16:00+00:00
 author: Chuck
 layout: post
-slug: 2015-02-giant-backlog-of-photos-ii-trans
+legacyslug: 2015-02-giant-backlog-of-photos-ii-trans
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

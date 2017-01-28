@@ -3,7 +3,7 @@ title: Sorry for Not Writing, Part 2
 date: 2014-07-13T06:22:00+00:00
 author: Chuck
 layout: post
-slug: 2014-07-sorry-for-not-writing-part-2
+legacyslug: 2014-07-sorry-for-not-writing-part-2
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

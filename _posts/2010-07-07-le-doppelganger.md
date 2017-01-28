@@ -3,7 +3,7 @@ title: Le Doppelgänger
 date: 2010-07-07T04:48:00+00:00
 author: Chuck
 layout: post
-slug: 2010-07-le-doppelganger
+legacyslug: 2010-07-le-doppelganger
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

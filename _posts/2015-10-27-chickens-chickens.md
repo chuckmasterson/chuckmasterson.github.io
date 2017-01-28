@@ -3,7 +3,7 @@ title: Chickens! Chickens!
 date: 2015-10-27T17:28:00+00:00
 author: Chuck
 layout: post
-slug: 2015-10-chickens-chickens
+legacyslug: 2015-10-chickens-chickens
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

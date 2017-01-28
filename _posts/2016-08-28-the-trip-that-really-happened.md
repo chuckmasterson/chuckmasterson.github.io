@@ -3,7 +3,7 @@ title: The Trip That Really Happened
 date: 2016-08-28T07:47:00+00:00
 author: Chuck
 layout: post
-slug: 2016-08-the-trip-that-really-happened
+legacyslug: 2016-08-the-trip-that-really-happened
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

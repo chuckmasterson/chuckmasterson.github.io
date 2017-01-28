@@ -3,7 +3,7 @@ title: Wait and See
 date: 2014-05-18T16:36:00+00:00
 author: Chuck
 layout: post
-slug: 2014-05-wait-and-see
+legacyslug: 2014-05-wait-and-see
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

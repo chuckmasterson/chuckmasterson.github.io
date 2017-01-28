@@ -3,7 +3,7 @@ title: 'Yeah, okay, I’ll start again.'
 date: 2004-12-11T17:22:00+00:00
 author: Chuck
 layout: post
-slug: 2004-12-yeah-okay-ill-start-again_11
+legacyslug: 2004-12-yeah-okay-ill-start-again_11
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

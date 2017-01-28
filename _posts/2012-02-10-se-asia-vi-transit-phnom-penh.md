@@ -3,7 +3,7 @@ title: SE Asia VI --- Transit, Phnom Penh
 date: 2012-02-10T04:28:00+00:00 
 author: Chuck 
 layout: post 
-slug: 2012-02-se-asia-vi-transit-phnom-penh 
+legacyslug: 2012-02-se-asia-vi-transit-phnom-penh 
 blogger_blog:
   - chuckmasterson.blogspot.com 
 blogger_permalink:

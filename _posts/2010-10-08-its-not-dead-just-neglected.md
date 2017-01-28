@@ -3,7 +3,7 @@ title: 'It’s not dead, just neglected!'
 date: 2010-10-08T03:43:00+00:00
 author: Chuck
 layout: post
-slug: 2010-10-its-not-dead-just-neglected
+legacyslug: 2010-10-its-not-dead-just-neglected
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

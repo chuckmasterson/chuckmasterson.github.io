@@ -3,7 +3,7 @@ title: The East Village in eight days
 date: 2010-07-03T01:36:00+00:00
 author: Chuck
 layout: post
-slug: 2010-07-east-village-in-eight-days
+legacyslug: 2010-07-east-village-in-eight-days
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

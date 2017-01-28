@@ -3,7 +3,7 @@ title: 'Correction: Life is Good'
 date: 2006-12-27T21:41:00+00:00
 author: Chuck
 layout: post
-slug: 2006-12-correction-life-is-good
+legacyslug: 2006-12-correction-life-is-good
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

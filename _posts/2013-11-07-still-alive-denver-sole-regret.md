@@ -3,7 +3,7 @@ title: 'Still Alive: Denver · Sole Regret'
 date: 2013-11-07T07:19:00+00:00
 author: Chuck
 layout: post
-slug: 2013-11-still-alive-denver-sole-regret
+legacyslug: 2013-11-still-alive-denver-sole-regret
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

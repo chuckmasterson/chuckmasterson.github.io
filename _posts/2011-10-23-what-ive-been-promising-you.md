@@ -3,7 +3,7 @@ title: 'What I’ve been promising you'
 date: 2011-10-23T12:24:00+00:00
 author: Chuck
 layout: post
-slug: 2011-10-what-ive-been-promising-you
+legacyslug: 2011-10-what-ive-been-promising-you
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

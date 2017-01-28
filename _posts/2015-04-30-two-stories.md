@@ -3,7 +3,7 @@ title: Two Stories
 date: 2015-04-30T05:31:00+00:00
 author: Chuck
 layout: post
-slug: 2015-04-two-stories
+legacyslug: 2015-04-two-stories
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

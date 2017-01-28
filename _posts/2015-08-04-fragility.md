@@ -3,7 +3,7 @@ title: Fragility
 date: 2015-08-04T03:36:00+00:00
 author: Chuck
 layout: post
-slug: 2015-08-fragility
+legacyslug: 2015-08-fragility
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Christmas List / Rustic Dinner
 date: 2014-12-08T07:20:00+00:00
 author: Chuck
 layout: post
-slug: 2014-12-christmas-list-rustic-dinner
+legacyslug: 2014-12-christmas-list-rustic-dinner
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

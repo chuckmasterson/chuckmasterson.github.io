@@ -3,7 +3,7 @@ title: Never would have expected
 date: 2006-06-28T02:13:00+00:00
 author: Chuck
 layout: post
-slug: 2006-06-never-would-have-expected
+legacyslug: 2006-06-never-would-have-expected
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

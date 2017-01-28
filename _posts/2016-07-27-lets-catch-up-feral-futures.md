@@ -3,7 +3,7 @@ title: 'Let’s Catch Up: Feral Futures'
 date: 2016-07-27T05:05:00+00:00
 author: Chuck
 layout: post
-slug: 2016-07-lets-catch-up-feral-futures
+legacyslug: 2016-07-lets-catch-up-feral-futures
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

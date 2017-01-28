@@ -3,7 +3,7 @@ title: Out There • Back Here
 date: 2010-08-25T06:22:00+00:00
 author: Chuck
 layout: post
-slug: 2010-08-out-there-back-here
+legacyslug: 2010-08-out-there-back-here
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

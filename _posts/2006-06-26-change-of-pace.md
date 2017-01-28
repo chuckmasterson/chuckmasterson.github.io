@@ -3,7 +3,7 @@ title: change of pace
 date: 2006-06-26T17:32:00+00:00
 author: Chuck
 layout: post
-slug: 2006-06-change-of-pace
+legacyslug: 2006-06-change-of-pace
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

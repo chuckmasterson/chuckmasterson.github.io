@@ -3,7 +3,7 @@ title: New York, New York
 date: 2010-05-29T17:34:00+00:00
 author: Chuck
 layout: post
-slug: 2010-05-new-york-new-york
+legacyslug: 2010-05-new-york-new-york
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

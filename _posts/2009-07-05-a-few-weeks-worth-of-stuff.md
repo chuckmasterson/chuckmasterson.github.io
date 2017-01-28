@@ -3,7 +3,7 @@ title: 'A few weeks’ worth of stuff'
 date: 2009-07-05T04:13:00+00:00
 author: Chuck
 layout: post
-slug: 2009-07-few-weeks-worth-of-stuff
+legacyslug: 2009-07-few-weeks-worth-of-stuff
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

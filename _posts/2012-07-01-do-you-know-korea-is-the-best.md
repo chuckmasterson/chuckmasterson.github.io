@@ -3,7 +3,7 @@ title: Do You Know Korea Is the Best?
 date: 2012-07-01T13:28:00+00:00
 author: Chuck
 layout: post
-slug: 2012-07-do-you-know-korea-is-best
+legacyslug: 2012-07-do-you-know-korea-is-best
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

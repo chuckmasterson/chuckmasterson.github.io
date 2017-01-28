@@ -3,7 +3,7 @@ title: Politix Xtreme
 date: 2007-03-28T01:04:00+00:00
 author: Chuck
 layout: post
-slug: 2007-03-politix-xtreme_27
+legacyslug: 2007-03-politix-xtreme_27
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

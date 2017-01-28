@@ -3,7 +3,7 @@ title: Say hello to my little friend
 date: 2008-08-17T01:14:00+00:00
 author: Chuck
 layout: post
-slug: 2008-08-say-hello-to-my-little-friend
+legacyslug: 2008-08-say-hello-to-my-little-friend
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

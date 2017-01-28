@@ -3,7 +3,7 @@ title: 한국 사람들 (Hanguk saramdeul)—Koreans
 date: 2011-11-16T03:45:00+00:00
 author: Chuck
 layout: post
-slug: 2011-11-hanguk-saramdeulkoreans
+legacyslug: 2011-11-hanguk-saramdeulkoreans
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

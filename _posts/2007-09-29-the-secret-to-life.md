@@ -3,7 +3,7 @@ title: The secret to life
 date: 2007-09-29T18:00:00+00:00
 author: Chuck
 layout: post
-slug: 2007-09-secret-to-life
+legacyslug: 2007-09-secret-to-life
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

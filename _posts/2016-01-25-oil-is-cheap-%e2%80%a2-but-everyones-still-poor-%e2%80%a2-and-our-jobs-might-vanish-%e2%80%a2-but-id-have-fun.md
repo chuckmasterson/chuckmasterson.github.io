@@ -3,7 +3,7 @@ title: Oil is cheap • But everyone’s still poor • And our jobs might vanis
 date: 2016-01-25T18:47:00+00:00
 author: Chuck
 layout: post
-slug: 2016-01-oil-is-cheap-but-everyones-still-poor
+legacyslug: 2016-01-oil-is-cheap-but-everyones-still-poor
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

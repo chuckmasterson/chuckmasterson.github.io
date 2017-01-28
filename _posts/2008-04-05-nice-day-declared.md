@@ -3,7 +3,7 @@ title: Nice day declared
 date: 2008-04-05T23:03:00+00:00
 author: Chuck
 layout: post
-slug: 2008-04-nice-day-declared
+legacyslug: 2008-04-nice-day-declared
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

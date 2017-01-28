@@ -3,7 +3,7 @@ title: Quick note
 date: 2006-12-09T22:18:00+00:00
 author: Chuck
 layout: post
-slug: 2006-12-quick-note
+legacyslug: 2006-12-quick-note
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

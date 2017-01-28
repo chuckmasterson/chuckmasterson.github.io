@@ -3,7 +3,7 @@ title: And Grinnell gets weirder
 date: 2009-04-20T02:45:00+00:00
 author: Chuck
 layout: post
-slug: 2009-04-and-grinnell-gets-weirder
+legacyslug: 2009-04-and-grinnell-gets-weirder
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

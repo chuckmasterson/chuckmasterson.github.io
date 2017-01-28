@@ -3,7 +3,7 @@ title: '우리 마을 (Uri Ma’eul—Our Town)'
 date: 2012-01-05T14:50:00+00:00
 author: Chuck
 layout: post
-slug: 2012-01-uri-maeulour-town
+legacyslug: 2012-01-uri-maeulour-town
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

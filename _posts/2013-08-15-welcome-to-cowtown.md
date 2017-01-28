@@ -3,7 +3,7 @@ title: Welcome to Cowtown
 date: 2013-08-15T19:35:00+00:00
 author: Chuck
 layout: post
-slug: 2013-08-cowtown
+legacyslug: 2013-08-cowtown
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

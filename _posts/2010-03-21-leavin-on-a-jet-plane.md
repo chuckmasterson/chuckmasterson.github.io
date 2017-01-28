@@ -3,7 +3,7 @@ title: 'Leavin’ on a Jet Plane'
 date: 2010-03-21T05:57:00+00:00
 author: Chuck
 layout: post
-slug: 2010-03-leavin-on-jet-plane
+legacyslug: 2010-03-leavin-on-jet-plane
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

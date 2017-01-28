@@ -3,7 +3,7 @@ title: Trackwalking
 date: 2007-11-06T00:55:00+00:00
 author: Chuck
 layout: post
-slug: 2007-11-trackwalking
+legacyslug: 2007-11-trackwalking
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

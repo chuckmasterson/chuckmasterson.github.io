@@ -3,7 +3,7 @@ title: 합기도 (Hapkido) / 근하신년! (Geunha shinnyeon—Happy New Year!) 
 date: 2011-12-29T14:35:00+00:00
 author: Chuck
 layout: post
-slug: 2011-12-hapkido-geunha-shinnyeonhappy-new-year
+legacyslug: 2011-12-hapkido-geunha-shinnyeonhappy-new-year
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: 'SE Asia — Pictures II: Patterns (and videos)'
 date: 2012-04-14T14:25:00+00:00
 author: Chuck
 layout: post
-slug: 2012-04-se-asia-pictures-ii-patterns-and-videos
+legacyslug: 2012-04-se-asia-pictures-ii-patterns-and-videos
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

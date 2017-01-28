@@ -3,7 +3,7 @@ title: 'SE Asia — VII (and the last): Siem Reap, Bangkok, leaving'
 date: 2012-02-12T07:47:00+00:00
 author: Chuck
 layout: post
-slug: 2012-02-se-asia-vii-and-last-siem-reap-bangkok
+legacyslug: 2012-02-se-asia-vii-and-last-siem-reap-bangkok
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

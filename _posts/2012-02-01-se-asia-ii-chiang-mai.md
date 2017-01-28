@@ -3,7 +3,7 @@ title: 'SE Asia — II: Chiang Mai'
 date: 2012-02-01T11:46:00+00:00
 author: Chuck
 layout: post
-slug: 2012-02-se-asia-ii-chiang-mai
+legacyslug: 2012-02-se-asia-ii-chiang-mai
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

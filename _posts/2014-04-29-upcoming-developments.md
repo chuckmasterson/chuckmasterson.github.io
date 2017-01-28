@@ -3,7 +3,7 @@ title: Upcoming Developments
 date: 2014-04-29T07:01:00+00:00
 author: Chuck
 layout: post
-slug: 2014-04-upcoming-developments
+legacyslug: 2014-04-upcoming-developments
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

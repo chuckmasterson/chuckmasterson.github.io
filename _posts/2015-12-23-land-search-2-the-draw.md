@@ -3,7 +3,7 @@ title: 'Land Search #2: The Draw'
 date: 2015-12-23T07:46:00+00:00
 author: Chuck
 layout: post
-slug: 2015-12-land-search-2-draw-and-tip-of-wisconsin
+legacyslug: 2015-12-land-search-2-draw-and-tip-of-wisconsin
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

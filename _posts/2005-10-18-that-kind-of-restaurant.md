@@ -3,7 +3,7 @@ title: That kind of restaurant
 date: 2005-10-18T21:34:00+00:00
 author: Chuck
 layout: post
-slug: 2005-10-that-kind-of-restaurant
+legacyslug: 2005-10-that-kind-of-restaurant
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

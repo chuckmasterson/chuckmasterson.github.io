@@ -3,7 +3,7 @@ title: Relaxation
 date: 2013-06-19T03:06:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-relaxation
+legacyslug: 2013-06-relaxation
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

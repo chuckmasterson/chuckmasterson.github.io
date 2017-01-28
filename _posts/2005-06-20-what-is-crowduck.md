@@ -3,7 +3,7 @@ title: '“What is Crowduck?”'
 date: 2005-06-20T00:12:00+00:00
 author: Chuck
 layout: post
-slug: 2005-06-what-is-crowduck
+legacyslug: 2005-06-what-is-crowduck
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: 어려워요 (Eoryeowoyo) — Difficult
 date: 2011-10-12T05:32:00+00:00
 author: Chuck
 layout: post
-slug: 2011-10-eoryeowoyo-difficult
+legacyslug: 2011-10-eoryeowoyo-difficult
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

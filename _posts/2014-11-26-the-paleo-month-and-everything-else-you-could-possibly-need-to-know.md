@@ -3,7 +3,7 @@ title: The Paleo Month, and Everything Else You Could Possibly Need to Know
 date: 2014-11-26T07:45:00+00:00
 author: Chuck
 layout: post
-slug: 2014-11-the-paleo-month-and-everything-else-you
+legacyslug: 2014-11-the-paleo-month-and-everything-else-you
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

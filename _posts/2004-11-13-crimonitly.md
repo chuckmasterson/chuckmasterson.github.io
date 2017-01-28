@@ -3,7 +3,7 @@ title: Crimonitly
 date: 2004-11-13T07:53:00+00:00
 author: Chuck
 layout: post
-slug: 2004-11-crimonitly
+legacyslug: 2004-11-crimonitly
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

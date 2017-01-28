@@ -3,7 +3,7 @@ title: 'Giant Backlog of Photos I: Mongolia'
 date: 2014-08-18T06:57:00+00:00
 author: Chuck
 layout: post
-slug: 2014-08-giant-backlog-of-photos-i-mongolia
+legacyslug: 2014-08-giant-backlog-of-photos-i-mongolia
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

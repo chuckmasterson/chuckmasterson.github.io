@@ -3,7 +3,7 @@ title: 'Let Me Tell You a Story: Barcelona'
 date: 2013-01-25T05:41:00+00:00
 author: Chuck
 layout: post
-slug: 2013-01-let-me-tell-you-story-barcelona
+legacyslug: 2013-01-let-me-tell-you-story-barcelona
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

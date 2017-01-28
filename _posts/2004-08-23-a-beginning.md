@@ -3,7 +3,7 @@ title: A Beginning
 date: 2004-08-23T08:30:00+00:00
 author: Chuck
 layout: post
-slug: 2004-08-beginning
+legacyslug: 2004-08-beginning
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

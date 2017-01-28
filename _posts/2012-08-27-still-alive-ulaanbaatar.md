@@ -3,7 +3,7 @@ title: 'Still alive: Ulaanbaatar'
 date: 2012-08-27T01:13:00+00:00
 author: Chuck
 layout: post
-slug: 2012-08-still-alive-ulaanbaatar
+legacyslug: 2012-08-still-alive-ulaanbaatar
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

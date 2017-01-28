@@ -3,7 +3,7 @@ title: Analog Month and Computer Blatherings
 date: 2014-11-05T05:33:00+00:00
 author: Chuck
 layout: post
-slug: 2014-11-analog-month-and-computer-blatherings
+legacyslug: 2014-11-analog-month-and-computer-blatherings
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

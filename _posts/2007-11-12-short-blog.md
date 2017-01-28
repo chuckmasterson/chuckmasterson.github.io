@@ -3,7 +3,7 @@ title: Short Blog
 date: 2007-11-12T18:35:00+00:00
 author: Chuck
 layout: post
-slug: 2007-11-short-blog
+legacyslug: 2007-11-short-blog
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

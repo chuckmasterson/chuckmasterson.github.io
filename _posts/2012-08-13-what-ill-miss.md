@@ -3,7 +3,7 @@ title: 'What I’ll miss'
 date: 2012-08-13T12:38:00+00:00
 author: Chuck
 layout: post
-slug: 2012-08-what-ill-miss
+legacyslug: 2012-08-what-ill-miss
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

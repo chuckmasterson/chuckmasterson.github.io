@@ -3,7 +3,7 @@ title: Undead in Berlin
 date: 2012-11-09T13:58:00+00:00
 author: Chuck
 layout: post
-slug: 2012-11-undead-in-berlin
+legacyslug: 2012-11-undead-in-berlin
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

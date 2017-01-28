@@ -3,7 +3,7 @@ title: 설악산 (Seoraksan) — Seorak Mountain
 date: 2011-10-03T13:34:00+00:00
 author: Chuck
 layout: post
-slug: 2011-10-korea-had-memorial-day-today-so-we-had
+legacyslug: 2011-10-korea-had-memorial-day-today-so-we-had
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

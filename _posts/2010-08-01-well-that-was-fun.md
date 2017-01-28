@@ -3,7 +3,7 @@ title: Well that was fun
 date: 2010-08-01T03:00:00+00:00
 author: Chuck
 layout: post
-slug: 2010-07-well-that-was-fun
+legacyslug: 2010-07-well-that-was-fun
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

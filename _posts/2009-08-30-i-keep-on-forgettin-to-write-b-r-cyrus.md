@@ -3,7 +3,7 @@ title: '“(I Keep On) Forgettin’ to Write” — B. R. Cyrus'
 date: 2009-08-30T22:36:00+00:00
 author: Chuck
 layout: post
-slug: 2009-08-i-keep-on-forgettin-to-write-b-r-cyrus
+legacyslug: 2009-08-i-keep-on-forgettin-to-write-b-r-cyrus
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

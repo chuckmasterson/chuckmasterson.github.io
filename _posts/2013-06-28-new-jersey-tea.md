@@ -3,7 +3,7 @@ title: New Jersey Tea
 date: 2013-06-28T01:19:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-new-jersey-tea
+legacyslug: 2013-06-new-jersey-tea
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

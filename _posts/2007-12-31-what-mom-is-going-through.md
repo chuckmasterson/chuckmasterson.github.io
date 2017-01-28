@@ -3,7 +3,7 @@ title: What Mom is going through
 date: 2007-12-31T20:23:00+00:00
 author: Chuck
 layout: post
-slug: 2007-12-what-mom-is-going-through
+legacyslug: 2007-12-what-mom-is-going-through
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

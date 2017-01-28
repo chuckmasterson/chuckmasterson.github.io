@@ -3,7 +3,7 @@ title: All right, explain this
 date: 2010-06-06T02:09:00+00:00
 author: Chuck
 layout: post
-slug: 2010-06-all-right-explain-this
+legacyslug: 2010-06-all-right-explain-this
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: This post is worth 6,000 words
 date: 2009-09-06T21:15:00+00:00
 author: Chuck
 layout: post
-slug: 2009-09-this-post-is-worth-6000-words_06
+legacyslug: 2009-09-this-post-is-worth-6000-words_06
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

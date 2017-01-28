@@ -3,7 +3,7 @@ title: haiku (a true story)
 date: 2016-02-25T05:28:00+00:00
 author: Chuck
 layout: post
-slug: 2016-02-haiku-true-story
+legacyslug: 2016-02-haiku-true-story
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

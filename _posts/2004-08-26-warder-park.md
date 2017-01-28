@@ -3,7 +3,7 @@ title: Warder Park
 date: 2004-08-26T09:13:00+00:00
 author: Chuck
 layout: post
-slug: 2004-08-warder-park
+legacyslug: 2004-08-warder-park
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Photo Delays and Cancellations
 date: 2014-09-06T00:08:00+00:00
 author: Chuck
 layout: post
-slug: 2014-09-photo-delays-and-cancellations
+legacyslug: 2014-09-photo-delays-and-cancellations
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

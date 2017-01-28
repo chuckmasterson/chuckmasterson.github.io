@@ -3,7 +3,7 @@ title: 'SE Asia --- Pictures I: Chronologically'
 date: 2012-04-08T15:26:00+00:00
 author: Chuck
 layout: post
-slug: 2012-04-se-asia-pictures-i-chronologically
+legacyslug: 2012-04-se-asia-pictures-i-chronologically
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: I ♥ Crime-Free Grinnell
 date: 2007-09-03T22:09:00+00:00
 author: Chuck
 layout: post
-slug: 2007-09-i-crime-free-grinnell
+legacyslug: 2007-09-i-crime-free-grinnell
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

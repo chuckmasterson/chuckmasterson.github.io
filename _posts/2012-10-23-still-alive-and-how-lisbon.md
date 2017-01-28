@@ -3,7 +3,7 @@ title: 'Still alive (and how!): Lisbon'
 date: 2012-10-23T09:27:00+00:00
 author: Chuck
 layout: post
-slug: 2012-10-still-alive-and-how-lisbon
+legacyslug: 2012-10-still-alive-and-how-lisbon
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

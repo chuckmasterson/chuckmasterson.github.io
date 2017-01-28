@@ -3,7 +3,7 @@ title: 'You Can’t Achieve These Things through Planning'
 date: 2013-06-09T01:47:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-you-cant-achieve-these-things-through
+legacyslug: 2013-06-you-cant-achieve-these-things-through
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

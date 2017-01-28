@@ -3,7 +3,7 @@ title: Old Friends Season • Permaculture Made Manifest
 date: 2015-09-07T22:25:00+00:00
 author: Chuck
 layout: post
-slug: 2015-09-old-friends-season-permaculture-made
+legacyslug: 2015-09-old-friends-season-permaculture-made
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

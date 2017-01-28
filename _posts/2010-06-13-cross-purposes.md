@@ -3,7 +3,7 @@ title: Cross-purposes
 date: 2010-06-13T05:41:00+00:00
 author: Chuck
 layout: post
-slug: 2010-06-cross-purposes
+legacyslug: 2010-06-cross-purposes
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

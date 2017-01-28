@@ -3,7 +3,7 @@ title: Keep Earth
 date: 2013-03-12T20:38:00+00:00
 author: Chuck
 layout: post
-slug: 2013-03-keep-earth
+legacyslug: 2013-03-keep-earth
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

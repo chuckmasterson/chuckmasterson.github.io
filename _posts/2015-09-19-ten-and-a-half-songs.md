@@ -3,7 +3,7 @@ title: Ten and a Half Songs
 date: 2015-09-19T03:39:00+00:00
 author: Chuck
 layout: post
-slug: 2015-09-ten-and-half-songs
+legacyslug: 2015-09-ten-and-half-songs
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Why I Eat Meat
 date: 2016-08-30T06:53:00+00:00
 author: Chuck
 layout: post
-slug: 2016-08-why-i-eat-meat
+legacyslug: 2016-08-why-i-eat-meat
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

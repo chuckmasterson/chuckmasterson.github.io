@@ -3,7 +3,7 @@ title: 'Diatribes [Updated]'
 date: 2009-06-08T03:33:00+00:00
 author: Chuck
 layout: post
-slug: 2009-06-diatribes
+legacyslug: 2009-06-diatribes
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

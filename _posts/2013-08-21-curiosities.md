@@ -3,7 +3,7 @@ title: Curiosities
 date: 2013-08-21T00:48:00+00:00
 author: Chuck
 layout: post
-slug: 2013-08-curiosities
+legacyslug: 2013-08-curiosities
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

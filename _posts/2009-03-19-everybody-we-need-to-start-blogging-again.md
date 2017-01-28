@@ -3,7 +3,7 @@ title: Everybody, we need to start blogging again.
 date: 2009-03-19T03:17:00+00:00
 author: Chuck
 layout: post
-slug: 2009-03-everybody-we-need-to-start-blogging
+legacyslug: 2009-03-everybody-we-need-to-start-blogging
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

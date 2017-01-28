@@ -3,7 +3,7 @@ title: The Steppe and the Desert
 date: 2012-09-11T12:18:00+00:00
 author: Chuck
 layout: post
-slug: 2012-09-the-steppe-and-desert
+legacyslug: 2012-09-the-steppe-and-desert
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Celebrate
 date: 2015-03-27T03:58:00+00:00
 author: Chuck
 layout: post
-slug: 2015-03-celebrate
+legacyslug: 2015-03-celebrate
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

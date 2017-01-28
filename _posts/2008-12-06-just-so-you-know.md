@@ -3,7 +3,7 @@ title: Just so you know
 date: 2008-12-06T02:12:00+00:00
 author: Chuck
 layout: post
-slug: 2008-12-just-so-you-know
+legacyslug: 2008-12-just-so-you-know
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

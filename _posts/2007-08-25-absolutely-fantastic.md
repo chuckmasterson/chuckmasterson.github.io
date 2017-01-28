@@ -3,7 +3,7 @@ title: Absolutely Fantastic
 date: 2007-08-25T05:33:00+00:00
 author: Chuck
 layout: post
-slug: 2007-08-absolutely-fantastic
+legacyslug: 2007-08-absolutely-fantastic
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

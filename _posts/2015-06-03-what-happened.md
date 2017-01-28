@@ -3,7 +3,7 @@ title: What Happened?!
 date: 2015-06-03T05:14:00+00:00
 author: Chuck
 layout: post
-slug: 2015-06-what-happened
+legacyslug: 2015-06-what-happened
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

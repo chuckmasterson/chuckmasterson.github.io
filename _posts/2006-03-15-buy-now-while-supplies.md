@@ -3,7 +3,7 @@ title: Buy now while supplies
 date: 2006-03-15T22:34:00+00:00
 author: Chuck
 layout: post
-slug: 2006-03-buy-now-while-supplies
+legacyslug: 2006-03-buy-now-while-supplies
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

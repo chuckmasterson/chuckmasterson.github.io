@@ -3,7 +3,7 @@ title: '“Doneness” is a real word, but it’s still a bogus one'
 date: 2007-05-25T20:45:00+00:00
 author: Chuck
 layout: post
-slug: 2007-05-doneness-is-real-word-but-its-still
+legacyslug: 2007-05-doneness-is-real-word-but-its-still
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

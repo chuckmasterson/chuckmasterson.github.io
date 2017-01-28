@@ -3,7 +3,7 @@ title: 'Still alive: München'
 date: 2012-10-02T12:17:00+00:00
 author: Chuck
 layout: post
-slug: 2012-10-still-alive-munchen
+legacyslug: 2012-10-still-alive-munchen
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

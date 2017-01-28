@@ -3,7 +3,7 @@ title: Old Dirty Rocks
 date: 2013-03-22T01:08:00+00:00
 author: Chuck
 layout: post
-slug: 2013-03-old-dirty-rocks
+legacyslug: 2013-03-old-dirty-rocks
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

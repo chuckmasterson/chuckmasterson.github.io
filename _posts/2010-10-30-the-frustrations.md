@@ -3,7 +3,7 @@ title: The frustrations
 date: 2010-10-30T03:21:00+00:00
 author: Chuck
 layout: post
-slug: 2010-10-frustrations
+legacyslug: 2010-10-frustrations
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

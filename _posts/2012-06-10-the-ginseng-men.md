@@ -3,7 +3,7 @@ title: The Ginseng Men
 date: 2012-06-10T15:14:00+00:00
 author: Chuck
 layout: post
-slug: 2012-06-ginseng-men
+legacyslug: 2012-06-ginseng-men
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

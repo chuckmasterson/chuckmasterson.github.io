@@ -3,7 +3,7 @@ title: Better Lessons / Deer
 date: 2010-11-28T08:01:00+00:00
 author: Chuck
 layout: post
-slug: 2010-11-better-lessons-deer
+legacyslug: 2010-11-better-lessons-deer
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

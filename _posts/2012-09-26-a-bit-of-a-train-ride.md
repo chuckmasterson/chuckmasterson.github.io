@@ -3,7 +3,7 @@ title: A bit of a train ride
 date: 2012-09-26T21:08:00+00:00
 author: Chuck
 layout: post
-slug: 2012-09-a-bit-of-train-ride
+legacyslug: 2012-09-a-bit-of-train-ride
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

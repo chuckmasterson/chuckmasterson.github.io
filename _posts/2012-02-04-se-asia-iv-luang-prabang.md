@@ -3,7 +3,7 @@ title: 'SE Asia — IV: Luang Prabang'
 date: 2012-02-04T10:58:00+00:00
 author: Chuck
 layout: post
-slug: 2012-02-se-asia-iv-luang-prabang
+legacyslug: 2012-02-se-asia-iv-luang-prabang
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: This weblog is about cellular telephones
 date: 2009-05-10T20:02:00+00:00
 author: Chuck
 layout: post
-slug: 2009-05-this-weblog-is-about-cellular
+legacyslug: 2009-05-this-weblog-is-about-cellular
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

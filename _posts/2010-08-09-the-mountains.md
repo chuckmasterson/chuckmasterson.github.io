@@ -3,7 +3,7 @@ title: The Mountains
 date: 2010-08-09T17:17:00+00:00
 author: Chuck
 layout: post
-slug: 2010-08-willie-ever-modest-showed-me-route-he
+legacyslug: 2010-08-willie-ever-modest-showed-me-route-he
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

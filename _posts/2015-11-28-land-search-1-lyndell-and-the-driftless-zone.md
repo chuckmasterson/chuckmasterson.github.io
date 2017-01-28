@@ -3,7 +3,7 @@ title: 'Land Search #1: Lyndell and the Driftless Zone'
 date: 2015-11-28T23:39:00+00:00
 author: Chuck
 layout: post
-slug: 2015-11-land-search-1-lyndell-and-driftless-zone
+legacyslug: 2015-11-land-search-1-lyndell-and-driftless-zone
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

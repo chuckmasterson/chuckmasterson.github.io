@@ -3,7 +3,7 @@ title: That was brief
 date: 2006-07-17T19:20:00+00:00
 author: Chuck
 layout: post
-slug: 2006-07-that-was-brief
+legacyslug: 2006-07-that-was-brief
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

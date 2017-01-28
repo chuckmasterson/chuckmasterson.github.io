@@ -3,7 +3,7 @@ title: Grinnell • Keep Turning Right
 date: 2007-10-29T21:18:00+00:00
 author: Chuck
 layout: post
-slug: 2007-10-grinnell-keep-turning-right-home-and
+legacyslug: 2007-10-grinnell-keep-turning-right-home-and
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

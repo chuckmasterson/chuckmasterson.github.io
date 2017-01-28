@@ -3,7 +3,7 @@ title: 'Still Alive: Minneapolis'
 date: 2013-08-04T15:42:00+00:00
 author: Chuck
 layout: post
-slug: 2013-08-still-alive-minneapolis
+legacyslug: 2013-08-still-alive-minneapolis
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

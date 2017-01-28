@@ -3,7 +3,7 @@ title: Happy Thanksgiving!
 date: 2008-12-02T03:57:00+00:00
 author: Chuck
 layout: post
-slug: 2008-12-happy-thanksgiving
+legacyslug: 2008-12-happy-thanksgiving
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

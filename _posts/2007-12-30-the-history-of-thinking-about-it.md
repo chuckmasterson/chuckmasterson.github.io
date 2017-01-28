@@ -3,7 +3,7 @@ title: The history of thinking about it
 date: 2007-12-30T07:17:00+00:00
 author: Chuck
 layout: post
-slug: 2007-12-history-of-thinking-about-it
+legacyslug: 2007-12-history-of-thinking-about-it
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

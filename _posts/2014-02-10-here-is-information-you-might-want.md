@@ -3,7 +3,7 @@ title: Here is information you might want
 date: 2014-02-10T03:29:00+00:00
 author: Chuck
 layout: post
-slug: 2014-02-here-is-information-you-might-want
+legacyslug: 2014-02-here-is-information-you-might-want
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

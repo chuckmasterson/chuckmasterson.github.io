@@ -3,7 +3,7 @@ title: 'Still Alive: Valladolid, Yucatán'
 date: 2014-03-12T00:45:00+00:00
 author: Chuck
 layout: post
-slug: 2014-03-still-alive-valladolid-yucatan
+legacyslug: 2014-03-still-alive-valladolid-yucatan
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

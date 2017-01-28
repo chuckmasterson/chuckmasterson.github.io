@@ -3,7 +3,7 @@ title: Trash Talk
 date: 2010-07-07T01:20:00+00:00
 author: Chuck
 layout: post
-slug: 2010-07-in-some-of-books-and-stories-ive-read
+legacyslug: 2010-07-in-some-of-books-and-stories-ive-read
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Some Other Parts of Canada
 date: 2013-06-07T04:11:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-some-other-parts-of-canada
+legacyslug: 2013-06-some-other-parts-of-canada
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

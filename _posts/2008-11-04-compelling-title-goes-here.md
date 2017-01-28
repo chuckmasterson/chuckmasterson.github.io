@@ -3,7 +3,7 @@ title: '[Compelling Title Goes Here]'
 date: 2008-11-04T04:58:00+00:00
 author: Chuck
 layout: post
-slug: 2008-11-compelling-title-goes-here
+legacyslug: 2008-11-compelling-title-goes-here
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

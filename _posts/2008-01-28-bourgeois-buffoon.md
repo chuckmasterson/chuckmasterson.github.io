@@ -3,7 +3,7 @@ title: Bourgeois Buffoon
 date: 2008-01-28T01:37:00+00:00
 author: Chuck
 layout: post
-slug: 2008-01-bourgeois-buffoon
+legacyslug: 2008-01-bourgeois-buffoon
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

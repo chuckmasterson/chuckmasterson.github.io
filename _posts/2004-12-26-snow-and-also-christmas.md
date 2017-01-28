@@ -3,7 +3,7 @@ title: Snow, and also Christmas
 date: 2004-12-26T00:00:00+00:00
 author: Chuck
 layout: post
-slug: 2004-12-snow-and-also-christmas
+legacyslug: 2004-12-snow-and-also-christmas
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

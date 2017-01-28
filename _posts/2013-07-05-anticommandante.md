@@ -3,7 +3,7 @@ title: Anticommandante
 date: 2013-07-05T00:42:00+00:00
 author: Chuck
 layout: post
-slug: 2013-07-anticommandante
+legacyslug: 2013-07-anticommandante
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

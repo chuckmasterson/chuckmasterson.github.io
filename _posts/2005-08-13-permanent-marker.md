@@ -3,7 +3,7 @@ title: Permanent Marker
 date: 2005-08-13T05:56:00+00:00
 author: Chuck
 layout: post
-slug: 2005-08-permanent-marker
+legacyslug: 2005-08-permanent-marker
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

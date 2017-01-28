@@ -3,7 +3,7 @@ title: The Hands of God, Plus a Spare Thumb
 date: 2013-06-02T01:25:00+00:00
 author: Chuck
 layout: post
-slug: 2013-06-the-hands-of-god-plus-spare-thumb
+legacyslug: 2013-06-the-hands-of-god-plus-spare-thumb
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

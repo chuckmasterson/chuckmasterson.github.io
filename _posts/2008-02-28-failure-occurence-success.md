@@ -3,7 +3,7 @@ title: Failure, occurence, success
 date: 2008-02-28T22:56:00+00:00
 author: Chuck
 layout: post
-slug: 2008-02-failure-occurence-success
+legacyslug: 2008-02-failure-occurence-success
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

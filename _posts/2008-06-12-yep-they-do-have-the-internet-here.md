@@ -3,7 +3,7 @@ title: Yep, they do have the internet here
 date: 2008-06-12T00:25:00+00:00
 author: Chuck
 layout: post
-slug: 2008-06-yep-they-do-have-internet-here
+legacyslug: 2008-06-yep-they-do-have-internet-here
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

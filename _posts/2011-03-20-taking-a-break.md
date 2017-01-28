@@ -3,7 +3,7 @@ title: Taking a break
 date: 2011-03-20T03:21:00+00:00
 author: Chuck
 layout: post
-slug: 2011-03-taking-break
+legacyslug: 2011-03-taking-break
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

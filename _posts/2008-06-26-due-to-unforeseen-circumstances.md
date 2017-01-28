@@ -3,7 +3,7 @@ title: Due to Unforeseen Circumstances
 date: 2008-06-26T19:46:00+00:00
 author: Chuck
 layout: post
-slug: 2008-06-due-to-unforeseen-circumstances
+legacyslug: 2008-06-due-to-unforeseen-circumstances
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

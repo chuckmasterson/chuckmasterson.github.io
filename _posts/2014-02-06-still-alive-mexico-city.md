@@ -3,7 +3,7 @@ title: 'Still Alive: Mexico City'
 date: 2014-02-06T17:34:00+00:00
 author: Chuck
 layout: post
-slug: 2014-02-still-alive-mexico-city
+legacyslug: 2014-02-still-alive-mexico-city
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

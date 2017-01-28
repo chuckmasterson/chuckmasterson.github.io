@@ -3,7 +3,7 @@ title: Food food food
 date: 2012-07-29T15:38:00+00:00
 author: Chuck
 layout: post
-slug: 2012-07-food-food-food
+legacyslug: 2012-07-food-food-food
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

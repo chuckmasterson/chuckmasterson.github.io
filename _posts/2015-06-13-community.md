@@ -3,7 +3,7 @@ title: Community
 date: 2015-06-13T01:42:00+00:00
 author: Chuck
 layout: post
-slug: 2015-06-community
+legacyslug: 2015-06-community
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

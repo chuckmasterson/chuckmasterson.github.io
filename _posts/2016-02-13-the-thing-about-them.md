@@ -3,7 +3,7 @@ title: The Thing about Them
 date: 2016-02-13T08:10:00+00:00
 author: Chuck
 layout: post
-slug: 2016-02-the-thing-about-them
+legacyslug: 2016-02-the-thing-about-them
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

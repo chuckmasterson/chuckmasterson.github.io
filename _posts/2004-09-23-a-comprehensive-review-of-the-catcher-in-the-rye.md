@@ -3,7 +3,7 @@ title: 'A Comprehensive Review of “The Catcher in the Rye”'
 date: 2004-09-23T06:10:00+00:00
 author: Chuck
 layout: post
-slug: 2004-09-comprehensive-review-of-catcher-in-rye
+legacyslug: 2004-09-comprehensive-review-of-catcher-in-rye
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

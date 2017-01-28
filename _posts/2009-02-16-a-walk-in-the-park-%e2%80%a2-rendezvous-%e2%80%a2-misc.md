@@ -3,7 +3,7 @@ title: A walk in the park • Rendezvous • Misc.
 date: 2009-02-16T21:36:00+00:00
 author: Chuck
 layout: post
-slug: 2009-02-walk-in-park-rendezvous-misc
+legacyslug: 2009-02-walk-in-park-rendezvous-misc
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

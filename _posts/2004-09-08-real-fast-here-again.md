@@ -3,7 +3,7 @@ title: Real fast here, again
 date: 2004-09-08T18:56:00+00:00
 author: Chuck
 layout: post
-slug: 2004-09-real-fast-here-again
+legacyslug: 2004-09-real-fast-here-again
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

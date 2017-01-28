@@ -3,7 +3,7 @@ title: Blog Pressure Release
 date: 2014-08-11T07:09:00+00:00
 author: Chuck
 layout: post
-slug: 2014-08-blog-pressure-release
+legacyslug: 2014-08-blog-pressure-release
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: Lifestyle
 date: 2012-02-29T00:56:00+00:00
 author: Chuck
 layout: post
-slug: 2012-02-lifestyle
+legacyslug: 2012-02-lifestyle
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

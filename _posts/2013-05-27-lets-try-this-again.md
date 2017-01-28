@@ -3,7 +3,7 @@ title: 'Let’s try this again.'
 date: 2013-05-27T06:21:00+00:00
 author: Chuck
 layout: post
-slug: 2013-05-lets-try-this-again
+legacyslug: 2013-05-lets-try-this-again
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

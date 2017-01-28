@@ -3,7 +3,7 @@ title: Bowing, Arrowing
 date: 2009-03-22T03:37:00+00:00
 author: Chuck
 layout: post
-slug: 2009-03-bowing-arrowing
+legacyslug: 2009-03-bowing-arrowing
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

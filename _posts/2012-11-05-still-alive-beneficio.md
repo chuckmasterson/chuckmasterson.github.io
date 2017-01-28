@@ -3,7 +3,7 @@ title: 'Still Alive: Beneficio'
 date: 2012-11-05T10:51:00+00:00
 author: Chuck
 layout: post
-slug: 2012-11-still-alive-beneficio
+legacyslug: 2012-11-still-alive-beneficio
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

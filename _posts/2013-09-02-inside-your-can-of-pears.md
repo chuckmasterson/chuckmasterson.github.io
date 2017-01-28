@@ -3,7 +3,7 @@ title: Inside Your Can of Pears
 date: 2013-09-02T10:12:00+00:00
 author: Chuck
 layout: post
-slug: 2013-09-inside-your-can-of-pears
+legacyslug: 2013-09-inside-your-can-of-pears
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

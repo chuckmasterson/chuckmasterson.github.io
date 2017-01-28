@@ -3,7 +3,7 @@ title: Changes / Feeling Real
 date: 2010-02-05T23:50:00+00:00
 author: Chuck
 layout: post
-slug: 2010-02-changes-feeling-real
+legacyslug: 2010-02-changes-feeling-real
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

@@ -3,7 +3,7 @@ title: 'It wasn’t supposed to be like this'
 date: 2008-01-02T00:07:00+00:00
 author: Chuck
 layout: post
-slug: 2008-01-it-wasnt-supposed-to-be-like-this
+legacyslug: 2008-01-it-wasnt-supposed-to-be-like-this
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

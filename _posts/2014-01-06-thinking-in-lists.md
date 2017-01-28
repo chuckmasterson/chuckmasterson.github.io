@@ -3,7 +3,7 @@ title: Thinking in Lists
 date: 2014-01-06T05:15:00+00:00
 author: Chuck
 layout: post
-slug: 2014-01-thinking-in-lists
+legacyslug: 2014-01-thinking-in-lists
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

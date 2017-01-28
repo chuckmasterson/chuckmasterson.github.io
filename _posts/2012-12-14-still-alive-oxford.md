@@ -3,7 +3,7 @@ title: 'Still Alive: Oxford'
 date: 2012-12-14T17:46:00+00:00
 author: Chuck
 layout: post
-slug: 2012-12-still-alive-oxford
+legacyslug: 2012-12-still-alive-oxford
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

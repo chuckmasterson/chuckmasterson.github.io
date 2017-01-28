@@ -3,7 +3,7 @@ title: No Time to Lose
 date: 2015-07-23T17:08:00+00:00
 author: Chuck
 layout: post
-slug: 2015-07-no-time-to-lose
+legacyslug: 2015-07-no-time-to-lose
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

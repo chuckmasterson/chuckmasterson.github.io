@@ -3,7 +3,7 @@ title: 얘들아 (Yaedeura)—Hey! Kids!
 date: 2011-12-04T10:49:00+00:00
 author: Chuck
 layout: post
-slug: 2011-12-yaedeurahey-kids
+legacyslug: 2011-12-yaedeurahey-kids
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:

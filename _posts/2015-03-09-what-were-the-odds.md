@@ -3,7 +3,7 @@ title: What Were the Odds?
 date: 2015-03-09T02:02:00+00:00
 author: Chuck
 layout: post
-slug: 2015-03-what-were-odds
+legacyslug: 2015-03-what-were-odds
 blogger_blog:
   - chuckmasterson.blogspot.com
 blogger_permalink:
