@@ -1,7 +1,6 @@
 <section class="page__reactions">
 <!-- % if site.repository and site.staticman.branch % -->
 {% capture commentslug %}{% if page.legacyslug.size > 0 %}{{ page.legacyslug }}{% else %}{{ page.slug }}{% endif %}{% endcapture %}
-comment slug: {{ commentslug | inspect }}
 
 {% if site.data.comments[commentslug] %}
 
