@@ -1,31 +1,20 @@
-<figure class="image-fig {% if include.position %}{{ include.position }}{% endif %}">
-  <a href="{{ site.baseurl }}{{ site.imageroot }}/lg/{{ include.src | uri_escape }}">
-      <img
-        {% if include.elsewhere %}
-            src="{{ include.src | uri_escape }}"
-        {% else %}
-            src="{{ site.baseurl }}{{ site.imageroot}}/sm/{{ include.src | uri_escape }}"
-        {% endif %}
-      />
-  </a>
-  {% if include.caption %}
-     <figcaption>
-         {{ include.caption | markdownify }}
-     </figcaption>
-  {% endif %}
-</figure>
-
-
-{% comment %}
-<figure class="{% if include.position %}{{ include.position }}{% endif %}">
-	<picture>
-	{% if include.elsewhere ==  %}
-		<source media="(min-width: 500px)" srcset="{{ site.baseurl }}{{ site.imageroot }}/lg/{{ include.src | uri_escape }}" >
-		<img src="{{ site.baseurl }}{{ site.imageroot}}/sm/{{ include.src | uri_escape }}" />
-	{% else %}
-		<img src="{{ include.src | uri_escape }}" />
-	{% endif %}
-	</picture>
-		{% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
-</figure>
-{% endcomment %}
+<div class="image-fig-positioning {% if include.position %}{{ include.position }}{% endif %}">
+    <div class="image-fig-border">
+        <figure class="image-fig">
+          <a href="{{ site.baseurl }}{{ site.imageroot }}/lg/{{ include.src | uri_escape }}">
+              <img
+                {% if include.elsewhere %}
+                    src="{{ include.src | uri_escape }}"
+                {% else %}
+                    src="{{ site.baseurl }}{{ site.imageroot}}/sm/{{ include.src | uri_escape }}"
+                {% endif %}
+              />
+          </a>
+          {% if include.caption %}
+             <figcaption>
+                 {{ include.caption | markdownify }}
+             </figcaption>
+          {% endif %}
+        </figure>
+    </div>
+</div>
