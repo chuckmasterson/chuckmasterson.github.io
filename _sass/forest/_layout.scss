@@ -228,9 +228,17 @@ article.post {
     text-align: justify;
 
     &.run-in,
-    &:first-child {
+    &:first-child, {
       text-indent: 0;
     }
+  }
+  h1+p,h2+p,h3+p,h4+p,h5+p,h6+p,hr+p {
+    text-indent: 0;
+  }
+  hr {
+    border: 0;
+    height: $spacing-unit;
+    background-color: transparent;
   }
 
   > p.prefatory + p:not(.prefatory) {
@@ -238,6 +246,7 @@ article.post {
   }
 
   > p:not(.prefatory):not(.no-drop):first-child,
+  > p.force-drop,
   > p.prefatory + p:not(.prefatory) {
     text-indent: 0;
     &:first-letter {
@@ -246,6 +255,14 @@ article.post {
       line-height: 62px;
       float: left;
       margin: 0 2px -14px 0;
+    }
+  }
+  figure {
+    margin-left: auto;
+    margin-right: auto;
+
+    img {
+      max-height: 85vh;
     }
   }
 }
@@ -289,7 +306,7 @@ p.filing {
   padding-bottom: $spacing-unit;
 
   h2 {
-    font-size: 32px;
+    font-size: 21px;
 
     @include media-query($on-laptop) {
       font-size: 28px;
@@ -297,7 +314,7 @@ p.filing {
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 16px;
 
     @include media-query($on-laptop) {
       font-size: 22px;
@@ -305,10 +322,30 @@ p.filing {
   }
 
   h4 {
-    font-size: 20px;
+    font-size: 16px;
+    font-weight: $base-font-weight;
+    font-style: italic;
 
     @include media-query($on-laptop) {
       font-size: 18px;
+    }
+  }
+
+  h5 {
+    font-size: 14px;
+    letter-spacing: 1.5px;
+
+    @include media-query($on-laptop) {
+        font-size: 18px;
+    }
+  }
+
+  h6 {
+    font-size: 14px;
+    font-feature-settings: "smcp" 1;
+
+    @include media-query($on-laptop) {
+        font-size: 18px;
     }
   }
 }
@@ -316,9 +353,43 @@ p.filing {
 /**
  * _includes/fig.html
  */
-.image-fig a {
+.image-fig-positioning {
+  text-align: center;
+  &.left, &.right {
+    display: inline-block;
+  }
+}
+.image-fig-border {
   display: inline-block;
-  position: relative; }
+  border: $green-border-thin;
+}
+// Wow, how pitiful to have to do all this and add 2 divs.
+// Great job, CSS.
+.image-fig {
+  display: table;
+  padding: 2px;
+  margin-bottom: 0;
+  a {
+    display: block;
+    position: relative; 
+  }
+  figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    padding: 0 $spacing-unit/4;
+  }
+  &.left {
+    float: left;
+  }
+  &.right {
+    float: right;
+  }
+}
+.image-fig-positioning + .image-fig-positioning {
+    margin-top: $spacing-unit;
+    }
+
+/* having this little overlay turned out to be annoying
 .image-fig a:after {
   content: "";
   position: absolute;
@@ -332,4 +403,4 @@ p.filing {
   background-position: 50%;
   background-repeat: no-repeat;
   background-color: rgba(0,0,0,0.7);
-}
+}*/

@@ -5,6 +5,7 @@ $title-font-family:"Spinnaker", Trebuchet, Arial, sans-serif;
 $fancy-font-family:"Fanwood", "Californian", "Californian FB", Georgia, serif;
 $base-font-size:   14px !default;
 $base-font-weight: 400 !default;
+$heavy-font-weight:700 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
@@ -15,20 +16,23 @@ $background-color: #002800 !default;
 $dark-background-color: #001a00 !default;
 $brown-color:      #331a0a !default;
 $brown-border:     2px solid $brown-color !default;
-$green-border:     2px solid #1f4110 !default;
+$green-color:      #1f4110 !default;
+$green-border-thin:1px solid $green-color !default;
+$green-border:     2px solid $green-color !default;
 $brand-color:      #87c16a !default;
 $brand-color-dark: darken($brand-color, 25%) !default;
 $pop-color:        #e5e470 !default;
+$pale-pop-color:   #ececbd !default;
 
 $grey-color:       #999 !default;
 $grey-color-light: lighten($grey-color, 25%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    950px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        950px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -48,4 +52,5 @@ $on-laptop:        800px !default;
   "forest/base",
   "forest/layout",
   "forest/syntax-highlighting"
+  // todo include magnific-popup.css
 ;
