@@ -4,4 +4,5 @@ layout: page
 permalink: /the-brain/
 ---
 
-# It's the BRAIN.
+{% include fig.html src="/assets/images/design/It's the BRAIN.gif"
+elsewhere="true" %}

@@ -4,7 +4,11 @@ layout: page
 permalink: /about/
 ---
 
+{% include fig.html src="/assets/images/design/WeirdTurnPro.jpg"
+    elsewhere="true" %}
+
 Chuck Masterson is not my real name. I use that name here for reasons never fully explained.
+{: .force-drop }
 
 This blog is a more efficient alternative to sending each person I know a handwritten letter every
 time I have a life event or a fleeting thought. You may find things here you like, or you may know

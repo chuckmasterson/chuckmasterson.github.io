@@ -8,6 +8,8 @@ permalink: /misc/
 
 One list so far. More lists to come. 
 
+* * *
+
 Bits of music that always give me an involuntary
 spasm of being amazed.
 
