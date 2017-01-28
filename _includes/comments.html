@@ -1,6 +1,9 @@
 <section class="page__reactions">
 <!-- % if site.repository and site.staticman.branch % -->
-{% if site.data.comments[page.slug] %}
+{% capture commentslug %}{% if page.legacyslug.size > 0 %}{{ page.legacyslug }}{% else %}{{ page.slug }}{% endif %}{% endcapture %}
+comment slug: {{ commentslug | inspect }}
+
+{% if site.data.comments[commentslug] %}
 
     <!-- Start static comments -->
     <div id="comments" class="js-comments">
@@ -10,8 +13,6 @@
             {% endif %}
             Comments
         </h2>
-        {% capture commentslug %}{% if page.legacyslug.size > 0 %}{{ page.legacyslug }}{% else %}{{ page.slug }}{% endif %}{% endcapture %}
-        {{ commentslug | inspect }}
 
         {% assign comments = site.data.comments[commentslug] | sort %}
         {% for comment in comments %}
