@@ -19,9 +19,11 @@
           <div class="page-list trigger">
               {% for item in site.topnav %}
               {% assign class = nil %}
-              {% if page.url contains item.url %}
-              {% assign class = 'active' %}
-              {% elsif page.url == '/' and item.url contains '/blog/' %}
+              {% if item.url == '/' %}
+                  {% if page.url == '/' or page.url contains '/blog/' %}
+                      {% assign class = 'active' %}
+                  {% endif %}
+              {% elsif page.url contains item.url %}
               {% assign class = 'active' %}
               {% endif %}
               <a class="{{ class }} page-link" href="{{ item.url | relative_url }}">
