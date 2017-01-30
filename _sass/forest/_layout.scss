@@ -4,6 +4,7 @@
 .site-header {
   min-height: 56px;
   text-align: center;
+  max-width: 100%;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -154,7 +155,7 @@
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-@include media-query($on-laptop) {
+@include media-query($on-tablet) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
@@ -207,8 +208,6 @@
   font-size: 24px;
 }
 
-
-
 /**
  * Posts
  */
@@ -218,7 +217,9 @@ article.post {
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
   line-height: 1.8;
-
+  margin-right: 240px;
+  float: left;
+  max-width: 100%;
 }
 .post-content {
 
@@ -284,10 +285,6 @@ p.filing {
   text-shadow: -1px 1px #111;
 }
 
-.post-header {
-  margin-bottom: $spacing-unit;
-}
-
 .post-title {
   font: normal normal 26px $title-font-family;
   padding: 40px;
@@ -296,9 +293,38 @@ p.filing {
   text-shadow: 3px 3px 2px #000;
 
   p { margin: 0 auto; }
+}
 
-  @include media-query($on-laptop) {
-    font-size: 36px;
+
+@include media-query($on-palm) {
+  .post-container {
+    padding: 0 20px;
+  }
+  article.post .post-title {
+    font-size: 26px;
+    padding: 30px 20px;
+  }
+  .post-content p {
+    font-size: 12.5px;
+  }
+}
+
+
+/**
+ * Sidebar
+ */
+aside#sidebar {
+  width: 240px;
+  margin-left: -240px;
+  float: right;
+}
+
+@include media-query($on-tablet) {
+  aside#sidebar {
+    display: none;
+  }
+  article.post {
+    margin-right: 0;
   }
 }
 
@@ -308,7 +334,7 @@ p.filing {
   h2 {
     font-size: 21px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
       font-size: 28px;
     }
   }
@@ -316,7 +342,7 @@ p.filing {
   h3 {
     font-size: 16px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
       font-size: 22px;
     }
   }
@@ -326,7 +352,7 @@ p.filing {
     font-weight: $base-font-weight;
     font-style: italic;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
       font-size: 18px;
     }
   }
@@ -335,7 +361,7 @@ p.filing {
     font-size: 14px;
     letter-spacing: 1.5px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
         font-size: 18px;
     }
   }
@@ -344,11 +370,12 @@ p.filing {
     font-size: 14px;
     font-feature-settings: "smcp" 1;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
         font-size: 18px;
     }
   }
 }
+
 
 /**
  * _includes/fig.html
