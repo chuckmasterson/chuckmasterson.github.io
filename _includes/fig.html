@@ -1,20 +1,16 @@
-<div class="image-fig-positioning {% if include.position %}{{ include.position }}{% endif %}">
-    <div class="image-fig-border">
-        <figure class="image-fig">
-          <a href="{{ site.baseurl }}{{ site.imageroot }}/lg/{{ include.src | uri_escape }}">
-              <img
-                {% if include.elsewhere %}
-                    src="{{ include.src | uri_escape }}"
-                {% else %}
-                    src="{{ site.baseurl }}{{ site.imageroot}}/sm/{{ include.src | uri_escape }}"
-                {% endif %}
-              />
-          </a>
-          {% if include.caption %}
-             <figcaption>
-                 {{ include.caption | markdownify }}
-             </figcaption>
-          {% endif %}
-        </figure>
-    </div>
-</div>
+<figure class="image-fig">
+  <a href="{{ site.baseurl }}{{ site.imageroot }}/lg/{{ include.src | uri_escape }}">
+      <img
+        {% if include.elsewhere %}
+            src="{{ include.src | uri_escape }}"
+        {% else %}
+            src="{{ site.baseurl }}{{ site.imageroot}}/sm/{{ include.src | uri_escape }}"
+        {% endif %}
+      />
+  </a>
+  {% if include.caption %}
+     <figcaption>
+         {{ include.caption | markdownify }}
+     </figcaption>
+  {% endif %}
+</figure>

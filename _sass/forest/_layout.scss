@@ -353,22 +353,13 @@ p.filing {
 /**
  * _includes/fig.html
  */
-.image-fig-positioning {
-  text-align: center;
-  &.left, &.right {
-    display: inline-block;
-  }
-}
-.image-fig-border {
-  display: inline-block;
-  border: $green-border-thin;
-}
-// Wow, how pitiful to have to do all this and add 2 divs.
-// Great job, CSS.
 .image-fig {
   display: table;
   padding: 2px;
-  margin-bottom: 0;
+  margin-left:  auto;
+  margin-right: auto;
+  border: $green-border-thin;
+  background-color: $med-background-color;
   a {
     display: block;
     position: relative; 
@@ -376,7 +367,11 @@ p.filing {
   figcaption {
     display: table-caption;
     caption-side: bottom;
-    padding: 0 $spacing-unit/4;
+    padding: $spacing-unit/6 $spacing-unit/4;
+    border: $green-border-thin;
+    border-top: 0;
+    margin-top: -1px;
+    background-color: $med-background-color;
   }
   &.left {
     float: left;
