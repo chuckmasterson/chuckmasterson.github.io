@@ -1,0 +1,17 @@
+- title: Blog
+  url: /
+  description: Stuff I’ve written
+- title: Wayfinding
+  url: /wayfinding/
+  description: Finding things on this site
+- title: Wait Who
+  url: /about/
+  description: Who’s writing this stuff anyhow?
+- title: Creations
+  url: /creations/
+  description: Things I’ve made
+- title: Misc.
+  url: /misc/
+  description: That which is uncategorizable
+- title: The Brain
+  url: /the-brain/
