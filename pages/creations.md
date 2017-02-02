@@ -1,7 +1,7 @@
 ---
-title: Creativity
+title: Creations
 layout: page
-permalink: /creativity/
+permalink: /creations/
 ---
 
 A repository for creative things I have created.
