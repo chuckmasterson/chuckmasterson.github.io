@@ -13,7 +13,7 @@
 .site-title {
   background-color: $background-color;
   border-bottom: $green-border;
-  padding: 10px 0;
+  padding: 15px 0;
   z-index: 1;
   position: relative;
 
@@ -112,7 +112,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: $brown-border;
+  color: $text-color-dull;
+  background-color: $dark-background-color;
   padding: $spacing-unit 0;
 }
 
@@ -135,37 +137,27 @@
 }
 
 .footer-col {
+  font-family: $title-font-family;
+  font-size: $small-font-size;
   float: left;
+  text-align: center;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-tablet) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-palm) {
@@ -274,6 +266,7 @@ p.filing {
 
 .post-container {
   background-color: $background-color;
+  border-top: 1px solid rgba(0,0,0,.35);
   padding: 0 40px;
 }
 .post-date {
@@ -314,7 +307,6 @@ p.filing {
  * Sidebar
  */
 aside#sidebar {
-  box-sizing: border-box;
   width: 225px;
   margin-left: -225px;
   float: right;
@@ -339,6 +331,7 @@ aside#sidebar {
         color: $pale-pop-color;
       }
       &.description {
+        font-size: $small-font-size;
       }
     }
   }
@@ -349,16 +342,9 @@ aside#sidebar {
       font-weight: $base-font-weight;
     }
     ul {
-      margin: 0;
+      font-size: $small-font-size;
+      font-family: $title-font-family;
 
-      li {
-        display: inline;
-        font-family: $title-font-family;
-
-        & + li:before {
-          content: " · ";
-        }
-      }
     }
   }
 }
@@ -371,6 +357,44 @@ aside#sidebar {
     margin-right: 0;
   }
 }
+
+/**
+ * Wayfinding page
+ */
+
+.wayfinding-block {
+  @extend %clearfix;
+  & + .wayfinding-block {
+    border-top: $green-border-thin;
+  }
+}
+.wayfinding-choices, .wayfinding-results {
+  width: 50%;
+  display: inline-block;
+  float: left;
+  @extend %clearfix;
+  font-size: $small-font-size;
+}
+.wayfinding-choices {
+  padding-right: $spacing-unit/2;
+}
+.wayfinding-results {
+  padding-left: $spacing-unit/2;
+  .li-date {
+    font-family: $title-font-family;
+  }
+}
+.wayfinding-section {
+  display: none;
+  &:target, &.chosen {
+    display: block;
+  }
+}
+
+
+/**
+ * Some leftovers that need tidying up
+ */
 
 .post-content {
   padding-bottom: $spacing-unit;
@@ -416,6 +440,33 @@ aside#sidebar {
 
     @include media-query($on-tablet) {
         font-size: 18px;
+    }
+  }
+}
+
+/**
+ * Miscellany
+ */
+
+ul.inline-list {
+  margin-left: 0;
+  li {
+    display: inline;
+    & + li:before {
+      content: " · ";
+    }
+  }
+}
+ul.dated-list {
+  margin-left: $spacing-unit/2;
+  text-indent: -$spacing-unit/2;
+  li { 
+    display: block;
+  }
+  .li-date {
+    color: $grey-color;
+    &:after {
+      content: " | ";
     }
   }
 }
