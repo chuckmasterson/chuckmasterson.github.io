@@ -253,9 +253,9 @@ article.post {
     &:first-letter {
       font-size: 52px;
       font-family: $fancy-font-family;
-      line-height: 62px;
+      line-height: 45px;
       float: left;
-      margin: 0 2px -14px 0;
+      margin: 8px 2px -4px 0;
     }
   }
   figure {
@@ -314,9 +314,53 @@ p.filing {
  * Sidebar
  */
 aside#sidebar {
-  width: 240px;
-  margin-left: -240px;
+  box-sizing: border-box;
+  width: 225px;
+  margin-left: -225px;
   float: right;
+  border: $green-border;
+  background-color: $dark-background-color;
+  nav {
+    border-bottom: $green-border-thin; 
+  }
+  nav a {
+    display: block;
+    padding: 5px 13px;
+    &.active {
+      background-color: $background-color;
+    }
+    & + a {
+      border-top: $green-border-thin;
+    }
+    span {
+      display: block;
+      font-family: $title-font-family;
+      &.title {
+        color: $pale-pop-color;
+      }
+      &.description {
+      }
+    }
+  }
+  .sidebar-other {
+    padding: 10px 13px;
+    h4 {
+      font-family: $title-font-family;
+      font-weight: $base-font-weight;
+    }
+    ul {
+      margin: 0;
+
+      li {
+        display: inline;
+        font-family: $title-font-family;
+
+        & + li:before {
+          content: " · ";
+        }
+      }
+    }
+  }
 }
 
 @include media-query($on-tablet) {

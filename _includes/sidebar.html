@@ -1,3 +1,37 @@
 <aside id="sidebar">
-  Some content of some sort.
+  <nav>
+    {% for item in site.data.mainnav %}
+      {% assign class = nil %}
+      {% if item.url == '/' %}
+        {% if page.url == '/' or page.url contains '/blog/' %}
+          {% assign class = 'active' %}
+        {% endif %}
+      {% elsif page.url contains item.url %}
+        {% assign class = 'active' %}
+    {% endif %}
+    <a class="{{ class }}" href="{{ item.url | relative_url }}">
+      <span class="title">{{ item.title }}</span>
+      <span class="description">
+        {% if class == nil %}
+        {{ item.description }}
+        {% else %}
+        You Are Here
+        {% endif %}
+      </span>
+    </a>
+    {% endfor %}
+  </nav>
+  <div class="sidebar-other">
+    <h4>Other things</h4>
+    <ul>
+      <li><a href="#">
+          Other Thing
+        </a>
+      </li>
+      <li><a href="#">
+          Different thing
+        </a>
+      </li>
+    </ul>
+  </div>
 </aside>
