@@ -38,28 +38,29 @@
     <!-- Start new comment form -->
     <div id="respond">
         <h2 class="page__section-label">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancel reply</a></small></h2>
-        <p class="instruct"><a href="https://daringfireball.net/projects/markdown/syntax">Markdown</a> is allowed. Email addresses will not be published.</p>
+        <p class="instruct">
+        You can use *<em>italics</em>*, **<strong>bold</strong>**, and links: [<a href="javascript:void(0)">link says this</a>](and goes to this address). Other fancy formatting possible via <a href="https://kramdown.gettalong.org/quickref.html">Markdown</a>.
+        </p>
         <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
             <fieldset>
-                <label for="comment-form-message"><strong>Comment</strong> <span class="required">*</span></label>
-                <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" spellcheck="true"></textarea>
+                <textarea type="text" rows="6" class="comment-message" id="comment-form-message" placeholder="Your comment" name="fields[text]" spellcheck="true"></textarea>
             </fieldset>
             <fieldset>
-                <label for="comment-form-name"><strong>Name</strong> <span class="required">*</span></label>
-                <input type="text" id="comment-form-name" name="fields[name]" spellcheck="false" />
+                <input type="text" id="comment-form-name" name="fields[author]" spellcheck="false" />
+                <label for="comment-form-name">Name <span class="required">*</span></label>
             </fieldset>
             <fieldset>
-                <label for="comment-form-email"><strong>Email</strong> <small>(used for <a href="https://en.gravatar.com/">Gravatar</a> image and reply notifications)</small></label>
-                <input type="email" id="comment-form-email" name="fields[email]" spellcheck="false" />
+                <input type="email" id="comment-form-email" name="fields[authoremail]" spellcheck="false" />
+                <label for="comment-form-email">Email <small>(used for <a href="https://en.gravatar.com/">Gravatar</a> image and reply notifications)</small></label>
             </fieldset>
             <fieldset>
-                <label for="comment-form-url"><strong>Website</strong> <small>(optional)</small></label>
-                <input type="url" id="comment-form-url" name="fields[url]" spellcheck="false" />
+                <input type="url" id="comment-form-url" name="fields[authorurl]" spellcheck="false" />
+                <label for="comment-form-url">Website <small>(optional)</small></label>
             </fieldset>
             <fieldset class="hidden" style="display:none;">
                 <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
                 <input type="hidden" id="comment-parent" name="options[parent]" value="">
-                <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
+                <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ commentslug }}">
                 <label for="comment-form-location">Leave blank if you are a human</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
             </fieldset>

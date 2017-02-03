@@ -209,9 +209,7 @@ article.post {
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
   line-height: 1.8;
-  margin-right: 240px;
-  float: left;
-  max-width: 100%;
+  width: 100%;
 }
 .post-content {
 
@@ -267,7 +265,7 @@ p.filing {
 .post-container {
   background-color: $background-color;
   border-top: 1px solid rgba(0,0,0,.35);
-  padding: 0 40px;
+  padding: 0 40px 40px 40px;
 }
 .post-date {
   margin: 3px 0;
@@ -302,10 +300,135 @@ p.filing {
   }
 }
 
+nav.post-to-post-nav {
+  margin-top: $spacing-unit/2;
+  border: $brown-border;
+  background-color: $dark-background-color;
+  font-family: $title-font-family;
+  .prev-post, .next-post {
+    span {
+      display: block;
+    }
+    width: 50%;
+    padding: 5px 15px;
+    display: inline-block;
+  }
+  .prev-post {
+    > span:before {
+      content: "« ";
+    }
+    float: left;
+    text-align: left;
+  }
+  .next-post {
+    > span:after {
+      content: " »";
+    }
+    float: right;
+    text-align: right;
+  }
+  .wayfinding-link {
+    text-align: center;
+    padding: 5px 15px;
+    clear: both;
+    border-top: $green-border-thin;
+  }
+}
+
+/**
+ * Comments - which are rightly a part of Posts,
+ * but need enough CSS of their own that they
+ * get their own section
+ */
+article.comment {
+  padding: $spacing-unit/2 0;
+  h3 {
+    margin-top: 0;
+  }
+  &.child {
+    padding-left: $spacing-unit/3;
+    border-left: 5px solid $green-color;
+  }
+  & + article.comment.child {
+    margin-top: -12px;
+  }
+}
+.comment__avatar {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  float: left;
+  margin-right: 5px;
+}
+.comment__author-name,
+.comment__timestamp {
+  font-family: $title-font-family;
+}
+.comment__content {
+  clear: left;
+  padding: $spacing-unit/3 0;
+}
+a.reply-button {
+  padding: 5px 10px 7px 10px;
+  background-color: #001a00;
+  font-family: Spinnaker;
+  border: $green-border;
+  border-left-width: 5px;
+  border-radius: 0 15px 15px 0px;
+}
+#respond {
+  .instruct {
+    font-size: $small-font-size;
+    margin-bottom: $spacing-unit/2;
+  }
+  & + article.child {
+    margin-top: 30px;
+  }
+}
+
+form#comment-form {
+  fieldset {
+    border: none;
+    margin: 0 0 $spacing-unit/3 0;
+    padding: 0;
+  }
+  label {
+    font-family: $title-font-family;
+    color: $pale-pop-color;
+    font-weight: $base-font-weight;
+  }
+  textarea, input {
+    font-family: $base-font-family;
+    box-shadow: 0px 0px 2px 2px rgba(0,0,0,.25) inset;
+    padding: 5px;
+    border: none;
+    background-color: $dark-background-color;
+    font-size: $small-font-size;
+    color: $grey-color-light;
+  }
+  textarea.comment-message {
+    width: 100%;
+    display: block;
+  }
+  #comment-form-submit {
+    background-color: $dark-background-color;
+    font-size: 14px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 6px;
+    border: $green-border-thin;
+    color: $pale-pop-color;
+    font-family: $title-font-family;
+  }
+}
 
 /**
  * Sidebar
  */
+.main-content {
+  margin-right: 240px;
+  float: left;
+}
 aside#sidebar {
   width: 225px;
   margin-left: -225px;
@@ -388,6 +511,9 @@ aside#sidebar {
   display: none;
   &:target, &.chosen {
     display: block;
+  }
+  &.chosen ~ .wayfinding-section:target {
+    display: none;
   }
 }
 h2.opener {
@@ -511,6 +637,11 @@ li.oct,li.nov,li.dec {
  * Miscellany
  */
 
+hr.visible {
+  border: none;
+  border-top: $green-border-thin;
+  margin: $spacing-unit/2 $spacing-unit;
+}
 ul.inline-list {
   margin-left: 0;
   li {
