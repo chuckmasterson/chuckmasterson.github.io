@@ -27,7 +27,7 @@ layout: default
       {% if page.categories.size > 0 %}
       File under: 
       {% for cat in page.categories %}
-      <a href="{{ site.baseurl }}/categories#{{ cat | slugify }}"
+      <a href="{{ site.baseurl }}/wayfinding#topic-{{ cat | slugify }}"
          >{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
       {% if page.tags.size > 0%} · {% endif %}
@@ -35,14 +35,30 @@ layout: default
 
       {% if page.tags.size > 0%}
       Places: {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/places#{{ tag | slugify }}"
+      <a href="{{ site.baseurl }}/wayfinding#place-{{ tag | slugify }}"
          >{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
       {% endif %}
       </p>
 
+      <hr class="visible" />
       {% include comments.html %}
   </div>
 
 </article>
-{% include sidebar.html %}
+<nav class="post-to-post-nav">
+  <div class="prev-post">
+    <span>{{ page.previous.date | date: "%b %-d, %Y" }}</span>
+    <a href="{{ page.previous.url }}">{{ page.previous.title | escape }}</a>
+  </div>
+  <div class="next-post">
+    <span>{{ page.next.date | date: "%b %-d, %Y" }}</span>
+    <a href="{{ page.next.url }}">{{ page.next.title | escape }}</a>
+  </div>
+  <div class="wayfinding-link">
+    Find other posts:
+    <a href="/wayfinding#topic-archive">by topic</a> ·
+    <a href="/wayfinding#place-archive">by place</a> ·
+    <a href="/wayfinding#date-archive">by date</a>
+  </div>
+</nav>
