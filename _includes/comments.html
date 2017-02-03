@@ -41,7 +41,7 @@
         <p class="instruct">
         You can use *<em>italics</em>*, **<strong>bold</strong>**, and links: [<a href="javascript:void(0)">link says this</a>](and goes to this address). Other fancy formatting possible via <a href="https://kramdown.gettalong.org/quickref.html">Markdown</a>.
         </p>
-        <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+        <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/master/comments">
             <fieldset>
                 <textarea type="text" rows="6" class="comment-message" id="comment-form-message" placeholder="Your comment" name="fields[text]" spellcheck="true"></textarea>
             </fieldset>
