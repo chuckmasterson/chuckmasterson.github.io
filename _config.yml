@@ -1,28 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Chuck Masterson’s Actual Blog
 email: WhyWouldIWantYouToBeAbleTo@Email.Me
 description: >
     *“What news! how much more important to know what that is which was never old!”* —Thoreau
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.chuckmasterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-imageroot: "/assets/images"
-imagelarge: "/lg/"
-imagesmall: "/sm/"
-# todo: change this structure and fig.html so fig only has liquid in the URLs, nothing hard-coded
+
+# image URLs. Used in fig.html.
+imageroot: "http://res.cloudinary.com/chuckmasterson/image/upload"
+                                    # local: "/assets/images"
+imagelarge: "/"                     # local: "/lg/"
+imagesmall: "/c_limit,h_450,w_450/" # local: "/sm/"
+
 github_username: chuckmasterson
 repository: chuckmasterson/chuckmasterson.github.io
 jquery_version: 3.1.1

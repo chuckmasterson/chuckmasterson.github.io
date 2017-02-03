@@ -1,10 +1,14 @@
+{% capture cloudinary_escaped_src %}{{ include.src
+  | replace: "'", "_"
+  | replace: " ", "_"
+}}{% endcapture %}
 <figure class="image-fig">
-  <a href="{{ site.baseurl }}{{ site.imageroot }}/lg/{{ include.src | uri_escape }}">
+<a href="{{ site.imageroot }}{{ site.imagelarge }}{{ cloudinary_escaped_src }}">
       <img
         {% if include.elsewhere %}
             src="{{ include.src | uri_escape }}"
         {% else %}
-            src="{{ site.baseurl }}{{ site.imageroot}}/sm/{{ include.src | uri_escape }}"
+            src="{{ site.imageroot }}{{ site.imagesmall }}{{ cloudinary_escaped_src }}"
         {% endif %}
       />
   </a>
