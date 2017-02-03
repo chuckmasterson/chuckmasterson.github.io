@@ -390,7 +390,70 @@ aside#sidebar {
     display: block;
   }
 }
+h2.opener {
+  font-family: $title-font-family;
+  margin: 0;
+  text-align: center;
+  cursor: pointer;
+  color: $pale-pop-color;
+  text-shadow: 1px 1px rgba(0,0,0,.5);
+  position: relative;
+  z-index: 1;
+  span {
+    background-color: $brand-color-dark;
+    padding: 0 8px;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px 2px #000;
+  }
+  &:before {
+    border-top: $green-border-thin;
+    content:"";
+    margin: 0 auto;
+    position: absolute;
+    top: 50%; left: 0; right: 0; bottom: 0;
+    width: 100%;
+    z-index: -1;
+  }
+}
+.calendar.closed {
+  display: none;
+}
 
+ul.calendar {
+  margin: 15px 5px 10px 5px;
+  position: relative;
+  height: 10em;
+}
+ul.calendar li {
+  display: inline-block;
+  width: 31%;
+  position: absolute;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: $dark-background-color;
+  font-family: $title-font-family;
+  a {
+    color: $pale-pop-color;
+  }
+}
+li.nov, li.aug, li.may, li.feb {
+  left: 34.5%;
+}
+li.mar, li.jun, li.sep, li.dec {
+  left: 69%;
+}
+
+li.apr, li.may, li.jun {
+  top: 25%;
+}
+
+li.jul, li.aug, li.sep {
+  top: 50%;
+}
+
+li.oct,li.nov,li.dec {
+  top: 75%;
+}
 
 /**
  * Some leftovers that need tidying up
