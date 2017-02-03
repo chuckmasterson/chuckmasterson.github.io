@@ -28,7 +28,7 @@ $(document).ready(function(){
 <section class="wayfinding-block">
 
   <div class="wayfinding-choices">
-    <h2>By Topic</h2>
+    <h2 id="topic-archive">By Topic</h2>
     <ul class="inline-list choice-list">
       {% for topic in topics %}
       <li><a href="#topic-{{ topic | first | slugify }}">{{ topic | first }}</a>
@@ -61,7 +61,7 @@ $(document).ready(function(){
 {% assign places = site.tags | sort %}
 <section class="wayfinding-block">
   <div class="wayfinding-choices">
-    <h2>By Place</h2>
+    <h2 id="place-archive">By Place</h2>
     <ul class="inline-list choice-list">
       {% for place in places %}
       <li><a href="#place-{{ place | first | slugify }}">{{ place | first }}</a>
@@ -93,7 +93,7 @@ $(document).ready(function(){
 
 
 <section class="wayfinding-block">
-  <h2>By Date</h2>
+  <h2 id="date-archive">By Date</h2>
   <div class="wayfinding-choices">
 
     {% for post in site.posts  %}
