@@ -1,11 +1,11 @@
-(function ($) {
+$(document).ready(function(){
   var $comments = $('.js-comments');
 
   $('#comment-form').submit(function () {
     var form = this;
 
     $(form).addClass('disabled');
-    $('#comment-form-submit').html('<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Loading...');
+    $('#comment-form-submit').html(/*'<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> */'Loading...');
 
     $.ajax({
       type: $(this).attr('method'),
@@ -33,7 +33,7 @@
     $('#comment-form .js-notice').removeClass('hidden');
     $('#comment-form .js-notice-text').html(message);
   }
-})(jQuery);
+});
 
 // Staticman comment replies
 // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js

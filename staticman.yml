@@ -7,14 +7,14 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["author", "authoremail", "authorurl", "text", "subscribe"]
+  allowedFields: ["text", "author", "authoremail", "authorurl", "subscribe"]
 
     # (*) REQUIRED WHEN USING NOTIFICATIONS
     #
     # When allowedOrigins is defined, only requests sent from one of the domains
     # listed will be accepted. The origin is sent as part as the `options` object
     # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["localhost", "chuckmasterson.com", "github.io"]
+  # allowedOrigins: ["localhost", "chuckmasterson.com", "github.io"]
 
     # (*) REQUIRED
     #
