@@ -51,7 +51,7 @@
 {% assign replies = site.data.comments[commentslug] | sort %}
 {% for reply in replies %}
 {% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
-{% assign id      = reply[1].id %}
+{% assign id      = reply[1]._id %}
 {% assign p       = reply[1]._parent %}
 {% assign parent  = p | to_integer %}
 {% assign avatar  = reply[1].avatar %}

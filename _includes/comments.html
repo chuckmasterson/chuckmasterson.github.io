@@ -1,6 +1,10 @@
 <section class="page__reactions">
 <!-- % if site.repository and site.staticman.branch % -->
-{% capture commentslug %}{% if page.legacyslug.size > 0 %}{{ page.legacyslug }}{% else %}{{ page.slug }}{% endif %}{% endcapture %}
+{% if page.legacyslug.size > 0 %}
+{% capture commentslug %}{{ page.legacyslug }}{% endcapture %}
+{% else %}
+{% capture commentslug %}{{ page.date | date: '%Y-%m-' | append: page.title | slugify }}{% endcapture %}
+{% endif %}
 
 {% if site.data.comments[commentslug] %}
 
@@ -15,7 +19,7 @@
 
         {% assign comments = site.data.comments[commentslug] | sort %}
         {% for comment in comments %}
-            {% assign id      = comment[1].id %}
+            {% assign id      = comment[1]._id %}
             {% assign index   = forloop.index %}
             {% assign p       = comment[1]._parent %}
             {% assign parent  = p | to_integer %}
