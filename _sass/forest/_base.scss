@@ -131,6 +131,7 @@ blockquote {
 .small-caps {
   font-variant: small-caps;
   font-feature-settings: "smcp" 1;
+  letter-spacing: 1px;
 }
 
 /**
@@ -138,10 +139,9 @@ blockquote {
  */
 pre,
 code {
-  font-size: 15px;
-  border: 1px solid $grey-color-light;
+  border: 1px solid #080808;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: $dark-background-color;
 }
 
 code {

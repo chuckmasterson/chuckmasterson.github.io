@@ -35,18 +35,17 @@
     {{ include.message | markdownify }}
 </div>
 
+</article>
+
 {% unless p or page.comments_locked == true %}
-<div class="comment__reply">
-    <a rel="nofollow"
-      class="reply-button"
-      href="#comment-{{ include.id }}"
-      onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.id }}', 'respond', '{{ commentslug }}')">
-      Reply
-    </a>
-</div>
+  <a rel="nofollow"
+    class="reply-button"
+    href="#comment-{{ include.id }}"
+    onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.id }}', 'respond', '{{ commentslug }}')">
+    Reply
+  </a>
 {% endunless %}
 
-</article>
 
 {% assign replies = site.data.comments[commentslug] | sort %}
 {% for reply in replies %}
