@@ -3,7 +3,9 @@
   | replace: " ", "_"
 }}{% endcapture %}
 <figure class="image-fig">
-<a href="{{ site.imageroot }}{{ site.imagelarge }}{{ cloudinary_escaped_src }}">
+    <a href="{% if include.elsewhere %}{{ include.src }}
+      {% else %}{{ site.imageroot }}{{ site.imagelarge }}{{ cloudinary_escaped_src }}
+      {% endif %}">
       <img
         {% if include.elsewhere %}
             src="{{ include.src | uri_escape }}"
