@@ -1,0 +1,12 @@
+{% assign lcname = include.avatarname | downcase %}
+{% if site.data.customavatars[lcname] %}
+  {% assign avatarsrc = site.data.customavatars[lcname] %}
+{% else %}
+  {% assign firstchar = lcname | truncate: 1, "" %}
+  {% if site.data.customavatars[firstchar] %}
+    {% capture avatarsrc %}{{ firstchar }}.svg{% endcapture %}
+  {% else %}
+    {% assign avatarsrc = "Anonymous.svg" %}
+  {% endif %}
+{% endif %}
+<img src="{{ site.baseurl }}/assets/images/avatars/{{ avatarsrc }}" />

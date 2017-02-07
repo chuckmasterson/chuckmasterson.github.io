@@ -5,11 +5,9 @@
     {% if include.avatar %}
     <img src="{{ include.avatar }}" alt="{{ include.name | escape }}">
     {% elsif include.email %}
-    <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | escape }}">
-    {% elsif include.name == "Chuck" %}
-    <img src="{{ site.baseurl }}/assets/images/design/Chuck.jpg" alt="{{ include.name | escape }}">
+      <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | escape }}">
     {% else %}
-    <img src="{{ site.baseurl }}/assets/images/design/anonymous.svg" alt="{{ include.name | escape }}">
+    {% include makeavatar avatarname=include.name %}
     {% endif %}
 </div>
 
