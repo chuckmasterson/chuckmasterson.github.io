@@ -1,5 +1,6 @@
 ---
-title: haiku (a true story)
+title: haiku
+subtitle: a true story
 date: 2016-02-25T05:28:00+00:00
 author: Chuck
 layout: post
