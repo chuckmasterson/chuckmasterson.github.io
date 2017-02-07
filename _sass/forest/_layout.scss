@@ -116,6 +116,12 @@
   color: $text-color-dull;
   background-color: $dark-background-color;
   padding: $spacing-unit 0;
+  p + p {
+    margin-top: 10px;
+  }
+  .button {
+    margin: 4px 0;
+  }
 }
 
 .footer-heading {
@@ -141,23 +147,9 @@
   font-size: $small-font-size;
   float: left;
   text-align: center;
+  width: 50%;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
-  width:         calc(33% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
-  width:         calc(33% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
-  width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-palm) {
@@ -410,6 +402,10 @@ nav.post-to-post-nav {
   overflow: hidden;
   float: left;
   margin-right: 5px;
+  img {
+    width: 100%;
+    height: 100%;
+  }
 }
 .comment__author-name,
 .comment__timestamp {
@@ -428,45 +424,47 @@ a.reply-button {
   border-left-width: 5px;
   border-radius: 0 15px 15px 0px;
 }
+#comment-form-submit {
+  font-size: 14px;
+}
+/**
+ * Forms (post comments, /subscribe/)
+ */
 
-form#comment-form {
-  fieldset {
-    border: none;
-    margin: 0 0 $spacing-unit/3 0;
-    padding: 0;
-  }
-  label {
-    font-family: $title-font-family;
-    color: $pale-pop-color;
-    font-weight: $base-font-weight;
-  }
-  textarea, input {
-    font-family: $base-font-family;
-    box-shadow: 0px 0px 2px 2px rgba(0,0,0,.25) inset;
-    padding: 5px;
-    border: 1px solid $brown-color;
-    background-color: $dark-background-color;
-    font-size: $small-font-size;
-    color: $grey-color-light;
-  }
-  textarea.comment-message {
-    width: 100%;
-    font-family: $mono-font-family;
-    display: block;
-  }
-  #comment-form-submit {
-    background-color: $dark-background-color;
-    font-size: 14px;
-    border: none;
-    padding: 5px 10px;
-    border-radius: 6px;
-    box-shadow: -1px 1px 2px #000;
-    border: $green-border-thin;
-    color: $pale-pop-color;
-    cursor: pointer;
-    font-family: $title-font-family;
+fieldset {
+  border: none;
+  margin: 0 0 $spacing-unit/3 0;
+  padding: 0;
+}
+label {
+  font-family: $title-font-family;
+  color: $pale-pop-color;
+  font-weight: $base-font-weight;
+}
+textarea, input {
+  font-family: $base-font-family;
+  box-shadow: 0px 0px 2px 2px rgba(0,0,0,.25) inset;
+  padding: 5px;
+  border: 1px solid $brown-color;
+  background-color: $dark-background-color;
+  font-size: $small-font-size;
+  color: $grey-color-light;
+}
+textarea.comment-message {
+  width: 100%;
+  font-family: $mono-font-family;
+  display: block;
+}
+
+/**
+ * Subscribe page
+ */
+.subscribe-form {
+  .gotcha {
+    display: none;
   }
 }
+
 
 /**
  * Sidebar
@@ -711,7 +709,21 @@ ul.dated-list {
     }
   }
 }
-
+.button {
+  display: inline-block;
+  background-color: $dark-background-color;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 6px;
+  box-shadow: -1px 1px 2px #000;
+  border: $green-border-thin;
+  color: $pale-pop-color;
+  cursor: pointer;
+  font-family: $title-font-family;
+  &.button-compact {
+    padding: 2px 8px;
+  }
+}
 
 /**
  * _includes/fig.html
