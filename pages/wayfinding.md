@@ -151,8 +151,20 @@ $(document).ready(function(){
   </div>
 </section>
 
-
-
-## By Searching
-
+<section class="wayfinding-block">
+<h2>By Searching</h2>
+<script>
+$(document).ready(function(){
+  $("#search-submit").click(function(){
+    var query = $("#search-input").val();
+    var googUrl = "https://encrypted.google.com/#q=" + encodeURI(query) + "+site:{{ site.url }}";
+    location.href = googUrl;
+  });
+});
+</script>
+<div class="text-center">
+  <input type="text" placeholder="Type here to search" id="search-input" id="js-super-search__input">
+  <button id="search-submit" class="button">Search</button>
+</div>
+</section>
 {:/nomarkdown}
