@@ -4,22 +4,54 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
-  {{ content }}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% for post in site.posts limit:7 %}
+    <article class="post">
+        <p class="post-date">
+        <time datetime="{{ post.date | date_to_xmlschema }}" 
+            itemprop="datePublished">
+            {{ post.date | date: "%A, %B %-d, %Y" }}
+        </time>
+        </p>
+        <div class="post-container">
+            <header class="post-header">
+                <h1 class="post-title" itemprop="name headline">
+                    <a href="{{ post.url }}">
+                        {{ post.title | escape | markdownify }}
+                    </a>
+                </h1>
+                {% if post.subtitle %}
+                <p class="subtitle">{{ post.subtitle }}</p>
+                {% endif %}
+            </header>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+            <div class="post-content" itemprop="articleBody">
+                {% if forloop.first %}
+                {{ post.content | markdownify }}
+                {% else %}
+                {{ post.excerpt | replace: "</p>", " …</p>" }}
+                <div class="text-center whole-post-link">
+                    <a class="button button-compact" href="{{ post.url }}">Read the whole post</a>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </article>
+  {% endfor %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <nav class="post-to-post-nav">
+    <div class="prev-post">
+      <span>These are the newest posts</span>
+    </div>
+    <div class="next-post">
+      <span><a href="/blog/page-2">Next Oldest {{ site.paginate }} Posts</a></span>
+    </div>
+    <div class="wayfinding-link">
+      Find other posts:
+      <a href="/wayfinding#topic-archive">by topic</a> ·
+      <a href="/wayfinding#place-archive">by place</a> ·
+      <a href="/wayfinding#date-archive">by date</a>
+    </div>
+  </nav>
 
 </div>

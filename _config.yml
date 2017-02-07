@@ -18,6 +18,9 @@ author: Chuck
 
 # Build settings
 markdown: kramdown
+paginate: 7
+paginate_path: /blog/page-:num/
+
 # theme: forest
 gems:
   - jekyll-feed

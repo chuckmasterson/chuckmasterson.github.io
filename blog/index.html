@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+<article class="post">
+    <p class="post-date">
+    <time datetime="{{ post.date | date_to_xmlschema }}" 
+          itemprop="datePublished">
+        {{ post.date | date: "%A, %B %-d, %Y" }}
+    </time>
+    </p>
+    <div class="post-container">
+        <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">
+                <a href="{{ post.url }}">
+                    {{ post.title | escape | markdownify }}
+                </a>
+            </h1>
+            {% if post.subtitle %}
+            <p class="subtitle">{{ post.subtitle }}</p>
+            {% endif %}
+        </header>
+
+        <div class="post-content" itemprop="articleBody">
+          {{ post.excerpt | replace: "</p>", " …</p>" }}
+          <div class="text-center whole-post-link">
+              <a class="button button-compact" href="{{ post.url }}">Read the whole post</a>
+          </div>
+        </div>
+    </div>
+</article>
+{% endfor %}
+
+<nav class="post-to-post-nav">
+    <div class="prev-post">
+      <span>{% if paginator.page > 1 %}
+        <a href="{{ paginator.previous_page_path }}">Next Newest {{ site.paginate }} Posts</a>
+        {% else %}
+        These are the newest posts
+        {% endif %}
+      </span>
+    </div>
+    <div class="next-post">
+      <span><a href="{{ paginator.next_page_path }}">Next Oldest {{ site.paginate }} Posts</a></span>
+    </div>
+    <div class="wayfinding-link">
+        Find other posts:
+        <a href="/wayfinding#topic-archive">by topic</a> ·
+        <a href="/wayfinding#place-archive">by place</a> ·
+        <a href="/wayfinding#date-archive">by date</a>
+    </div>
+</nav>
