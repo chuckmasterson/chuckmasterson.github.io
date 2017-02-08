@@ -26,14 +26,10 @@ layout: default
             </header>
 
             <div class="post-content" itemprop="articleBody">
-                {% if forloop.first %}
-                {{ post.content | markdownify }}
-                {% else %}
                 {{ post.excerpt | replace: "</p>", " …</p>" }}
                 <div class="text-center whole-post-link">
                     <a class="button button-compact" href="{{ post.url }}">Read the whole post</a>
                 </div>
-                {% endif %}
             </div>
         </div>
     </article>
