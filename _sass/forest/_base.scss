@@ -38,12 +38,15 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-blockquote, pre,
+blockquote,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 4;
 }
-
+pre {
+  margin: $spacing-unit/2 0;
+  line-height: 1.5;
+}
 
 
 /**
