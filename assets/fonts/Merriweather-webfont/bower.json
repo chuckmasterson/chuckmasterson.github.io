@@ -1,0 +1,24 @@
+{
+  "name": "webfont-merriweather",
+  "version": "1.0.0",
+  "description": "Merriweather webfont kit",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "webfont",
+    "font",
+    "open-sans"
+  ],
+  "authors": [
+    "Jose J. Fernández <jose@josejfernandez.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/limitrek/webfont-merriweather",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
