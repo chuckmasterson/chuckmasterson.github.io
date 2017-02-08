@@ -325,7 +325,7 @@ img.mfp-img {
   color: #F3F3F3;
   word-wrap: break-word; /* after this the rest mine */
   box-sizing: border-box;
-  margin-right: -5em;
+  margin-right: -5.5em;
   padding: .5em 5em .5em 1.5em;
   float: left;
   width: 100%; }
