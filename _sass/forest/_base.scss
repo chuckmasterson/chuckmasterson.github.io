@@ -76,6 +76,7 @@ figcaption {
  */
 ul, ol {
   margin-left: $spacing-unit;
+  clear: both;
 }
 
 li {
@@ -126,6 +127,7 @@ blockquote {
     padding: 0 $spacing-unit / 2;
     margin: 1em;
     border-left: 3px solid $brand-color;
+    clear: both;
 }
 
 /**

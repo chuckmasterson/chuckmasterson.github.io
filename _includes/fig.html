@@ -2,7 +2,7 @@
   | replace: "'", "_"
   | replace: " ", "_"
 }}{% endcapture %}
-<figure class="image-fig">
+<figure class="image-fig {{ include.class }}">
     <a href="{% if include.elsewhere %}{{ include.src }}
       {% else %}{{ site.imageroot }}{{ site.imagelarge }}{{ cloudinary_escaped_src }}
       {% endif %}">
