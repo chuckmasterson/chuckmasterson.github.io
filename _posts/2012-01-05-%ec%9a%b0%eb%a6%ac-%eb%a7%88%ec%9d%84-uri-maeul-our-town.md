@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-01-uri-maeulour-town
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/01/uri-maeulour-town.html
 categories:
   - photos

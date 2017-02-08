@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-06-diatribes
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/06/diatribes.html
 categories:
   - deep thoughts

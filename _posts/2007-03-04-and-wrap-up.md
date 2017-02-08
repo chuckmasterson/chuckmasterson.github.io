@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-03-and-wrap-up
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/03/and-wrap-up.html
 categories:
   - family

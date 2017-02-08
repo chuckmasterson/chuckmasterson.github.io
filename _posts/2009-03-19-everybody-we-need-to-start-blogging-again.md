@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-03-everybody-we-need-to-start-blogging
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/03/everybody-we-need-to-start-blogging.html
 categories:
   - college

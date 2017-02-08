@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-06-yep-they-do-have-internet-here
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/06/yep-they-do-have-internet-here.html
 categories:
   - Manito-wish

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-12-why-your-package-was-late-and-damaged
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/12/why-your-package-was-late-and-damaged.html
 categories:
   - work

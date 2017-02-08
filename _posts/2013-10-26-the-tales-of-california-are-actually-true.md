@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-10-the-tales-of-california-are-actually
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/10/the-tales-of-california-are-actually.html
 categories:
   - Year of Adventure

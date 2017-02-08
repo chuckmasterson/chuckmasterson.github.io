@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2016-11-for-standing-rock
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2016/11/for-standing-rock.html
 categories:
   - new world

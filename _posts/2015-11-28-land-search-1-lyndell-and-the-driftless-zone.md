@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-11-land-search-1-lyndell-and-driftless-zone
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/11/land-search-1-lyndell-and-driftless-zone.html
 categories:
   - homesteading

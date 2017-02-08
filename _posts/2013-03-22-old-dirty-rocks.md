@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-03-old-dirty-rocks
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/03/old-dirty-rocks.html
 categories:
   - Year of Adventure

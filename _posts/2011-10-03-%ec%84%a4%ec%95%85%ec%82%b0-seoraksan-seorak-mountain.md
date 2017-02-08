@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-10-korea-had-memorial-day-today-so-we-had
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/10/korea-had-memorial-day-today-so-we-had.html
 categories:
   - climbing

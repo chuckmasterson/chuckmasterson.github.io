@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-10-still-alive-eugene
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/10/still-alive-eugene.html
 categories:
   - Year of Adventure

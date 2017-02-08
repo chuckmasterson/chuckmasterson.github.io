@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-04-whats-old-whats-new
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/04/whats-old-whats-new.html
 categories:
   - food

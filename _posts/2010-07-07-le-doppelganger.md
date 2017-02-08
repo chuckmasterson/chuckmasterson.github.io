@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-07-le-doppelganger
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/07/le-doppelganger.html
 categories:
   - irrelevancies

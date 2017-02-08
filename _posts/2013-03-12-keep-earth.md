@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-03-keep-earth
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/03/keep-earth.html
 categories:
   - new world

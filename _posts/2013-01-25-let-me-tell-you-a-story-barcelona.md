@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-01-let-me-tell-you-story-barcelona
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/01/let-me-tell-you-story-barcelona.html
 categories:
   - Year of Adventure

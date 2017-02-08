@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-04-on-beating-machine
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/04/on-beating-machine.html
 categories:
   - deep thoughts

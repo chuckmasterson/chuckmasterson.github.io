@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-12-yaedeurahey-kids
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/12/yaedeurahey-kids.html
 categories:
   - teaching

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-06-even-when-its-bad-its-good
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/06/even-when-its-bad-its-good.html
 categories:
   - trains

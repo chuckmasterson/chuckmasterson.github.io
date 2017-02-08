@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-04-what-are-you-going-to-do-with-your
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/04/what-are-you-going-to-do-with-your.html
 categories:
   - Manito-wish

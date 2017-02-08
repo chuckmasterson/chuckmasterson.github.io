@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-02-walk-in-park-rendezvous-misc
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/02/walk-in-park-rendezvous-misc.html
 categories:
   - adventure

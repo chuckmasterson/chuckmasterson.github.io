@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-02-se-asia-vi-transit-phnom-penh 
 blogger_blog:
   - chuckmasterson.blogspot.com 
-blogger_permalink:
+redirect_from:
   - /2012/02/se-asia-vi-transit-phnom-penh.html 
 categories:
   - adventure

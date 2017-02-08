@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-11-getting-my-flower-together
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/11/getting-my-flower-together.html
 categories:
   - language

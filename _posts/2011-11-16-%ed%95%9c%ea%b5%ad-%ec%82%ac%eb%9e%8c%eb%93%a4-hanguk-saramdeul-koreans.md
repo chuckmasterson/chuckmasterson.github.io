@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-11-hanguk-saramdeulkoreans
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/11/hanguk-saramdeulkoreans.html
 categories:
   - other cultures

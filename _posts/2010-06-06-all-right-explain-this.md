@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-06-all-right-explain-this
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/06/all-right-explain-this.html
 categories:
   - writing

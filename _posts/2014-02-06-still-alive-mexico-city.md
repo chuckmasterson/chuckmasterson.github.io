@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-02-still-alive-mexico-city
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/02/still-alive-mexico-city.html
 categories:
   - Year of Adventure

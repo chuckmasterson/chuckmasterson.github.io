@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-01-it-wasnt-supposed-to-be-like-this
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/01/it-wasnt-supposed-to-be-like-this.html
 categories:
 

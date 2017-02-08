@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-09-sajin-photos
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/09/sajin-photos.html
 categories:
   - photos

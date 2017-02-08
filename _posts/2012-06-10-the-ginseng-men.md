@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-06-ginseng-men
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/06/ginseng-men.html
 categories:
   - interesting people

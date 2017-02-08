@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-05-this-weblog-is-about-cellular
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/05/this-weblog-is-about-cellular.html
 categories:
   - deep thoughts

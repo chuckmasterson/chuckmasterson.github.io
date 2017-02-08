@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-08-absolutely-fantastic
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/08/absolutely-fantastic.html
 categories:
   - Manito-wish

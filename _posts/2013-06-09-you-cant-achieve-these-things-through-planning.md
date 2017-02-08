@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-06-you-cant-achieve-these-things-through
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/06/you-cant-achieve-these-things-through.html
 categories:
   - Year of Adventure

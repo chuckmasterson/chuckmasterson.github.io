@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2004-08-beginning
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2004/08/beginning.html
 categories:
   - meta

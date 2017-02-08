@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-02-here-is-information-you-might-want
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/02/here-is-information-you-might-want.html
 categories:
   - Year of Adventure

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-07-no-time-to-lose
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/07/no-time-to-lose.html
 categories:
   - civilization

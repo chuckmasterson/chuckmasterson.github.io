@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-04-two-stories
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/04/two-stories.html
 categories:
   - love

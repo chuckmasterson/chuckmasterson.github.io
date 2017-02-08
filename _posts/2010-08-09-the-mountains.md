@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-08-willie-ever-modest-showed-me-route-he
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/08/willie-ever-modest-showed-me-route-he.html
 categories:
   - adventure

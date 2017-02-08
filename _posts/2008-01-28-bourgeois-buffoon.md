@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-01-bourgeois-buffoon
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/01/bourgeois-buffoon.html
 categories:
   - snow sculptures

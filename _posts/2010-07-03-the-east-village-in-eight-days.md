@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-07-east-village-in-eight-days
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/07/east-village-in-eight-days.html
 categories:
   - interesting people

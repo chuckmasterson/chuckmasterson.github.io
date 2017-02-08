@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-11-analog-month-and-computer-blatherings
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/11/analog-month-and-computer-blatherings.html
 categories:
   - technology

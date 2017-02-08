@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-03-taking-break
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/03/taking-break.html
 categories:
   - college

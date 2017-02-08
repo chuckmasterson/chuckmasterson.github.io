@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2006-11-lets-see-if-i-remember-how-to-do-this
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2006/11/lets-see-if-i-remember-how-to-do-this.html
 categories:
   - high school

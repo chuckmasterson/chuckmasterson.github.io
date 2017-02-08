@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-07-anticommandante
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/07/anticommandante.html
 categories:
   - Year of Adventure

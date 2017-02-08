@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-10-its-not-dead-just-neglected
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/10/its-not-dead-just-neglected.html
 categories:
   - adventure

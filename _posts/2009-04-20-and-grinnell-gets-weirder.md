@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-04-and-grinnell-gets-weirder
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/04/and-grinnell-gets-weirder.html
 categories:
   - gender

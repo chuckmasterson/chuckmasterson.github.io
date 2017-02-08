@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-11-better-lessons-deer
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/11/better-lessons-deer.html
 categories:
   - adventure

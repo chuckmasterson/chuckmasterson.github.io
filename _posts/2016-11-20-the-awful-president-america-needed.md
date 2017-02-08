@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2016-11-the-awful-president-america-needed
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2016/11/the-awful-president-america-needed.html
 categories:
   - politics

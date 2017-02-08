@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-11-still-alive-denver-sole-regret
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/11/still-alive-denver-sole-regret.html
 categories:
   - Still Alive

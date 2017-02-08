@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-09-places-named-vancouver
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/09/places-named-vancouver.html
 categories:
   - Year of Adventure

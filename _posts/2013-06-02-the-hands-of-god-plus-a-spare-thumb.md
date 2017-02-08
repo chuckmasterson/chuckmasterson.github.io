@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-06-the-hands-of-god-plus-spare-thumb
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/06/the-hands-of-god-plus-spare-thumb.html
 categories:
   - Year of Adventure

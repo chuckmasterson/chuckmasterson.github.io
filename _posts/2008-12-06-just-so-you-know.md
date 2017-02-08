@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-12-just-so-you-know
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/12/just-so-you-know.html
 categories:
   - Not a Real School

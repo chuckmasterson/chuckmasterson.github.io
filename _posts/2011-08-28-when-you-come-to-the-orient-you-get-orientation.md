@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-08-when-you-come-to-orient-you-get
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/08/when-you-come-to-orient-you-get.html
 categories:
   - traveling

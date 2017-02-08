@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-08-giant-backlog-of-photos-i-mongolia
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/08/giant-backlog-of-photos-i-mongolia.html
 categories:
   - photos

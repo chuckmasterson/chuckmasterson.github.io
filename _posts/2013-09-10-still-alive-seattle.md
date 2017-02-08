@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-09-still-alive-seattle
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/09/still-alive-seattle.html
 categories:
   - Year of Adventure

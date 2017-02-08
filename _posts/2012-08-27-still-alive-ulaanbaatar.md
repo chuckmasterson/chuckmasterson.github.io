@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-08-still-alive-ulaanbaatar
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/08/still-alive-ulaanbaatar.html
 categories:
   - Year of Adventure

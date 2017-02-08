@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-07-do-you-know-korea-is-best
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/07/do-you-know-korea-is-best.html
 categories:
   - other cultures

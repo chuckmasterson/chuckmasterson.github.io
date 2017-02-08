@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-08-say-hello-to-my-little-friend
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/08/say-hello-to-my-little-friend.html
 categories:
   - snake

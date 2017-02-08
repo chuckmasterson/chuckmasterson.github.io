@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2016-02-the-thing-about-them
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2016/02/the-thing-about-them.html
 categories:
   - gender

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2006-07-that-was-brief
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2006/07/that-was-brief.html
 categories:
   - work

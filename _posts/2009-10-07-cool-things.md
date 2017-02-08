@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-10-cool-things
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/10/cool-things.html
 categories:
   - irrelevancies

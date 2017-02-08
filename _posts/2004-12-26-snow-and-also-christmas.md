@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2004-12-snow-and-also-christmas
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2004/12/snow-and-also-christmas.html
 categories:
   - creekwalking

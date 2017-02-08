@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-02-still-alive-guatemala
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/02/still-alive-guatemala.html
 categories:
   - Year of Adventure

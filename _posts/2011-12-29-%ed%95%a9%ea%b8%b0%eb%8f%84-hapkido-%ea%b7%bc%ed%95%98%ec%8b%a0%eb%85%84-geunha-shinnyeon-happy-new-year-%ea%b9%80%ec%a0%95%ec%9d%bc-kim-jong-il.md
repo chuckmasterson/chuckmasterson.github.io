@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-12-hapkido-geunha-shinnyeonhappy-new-year
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/12/hapkido-geunha-shinnyeonhappy-new-year.html
 categories:
   - other cultures

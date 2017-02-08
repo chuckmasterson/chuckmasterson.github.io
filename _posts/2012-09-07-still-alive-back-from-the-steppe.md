@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-09-still-alive-back-from-steppe
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/09/still-alive-back-from-steppe.html
 categories:
   - Year of Adventure

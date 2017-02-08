@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-09-a-bit-of-train-ride
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/09/a-bit-of-train-ride.html
 categories:
   - trains

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-07-well-that-was-fun
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/07/well-that-was-fun.html
 categories:
   - interesting people

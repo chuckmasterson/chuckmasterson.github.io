@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-05-lets-try-this-again
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/05/lets-try-this-again.html
 categories:
   - meta

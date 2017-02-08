@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-10-expedition
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/10/expedition.html
 categories:
   - college

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-07-feds-masterson-blog-left-in-lurch
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/07/feds-masterson-blog-left-in-lurch.html
 categories:
   - Manito-wish

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-02-studies-show-finneytown-secondary
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/02/studies-show-finneytown-secondary.html
 categories:
   - high school

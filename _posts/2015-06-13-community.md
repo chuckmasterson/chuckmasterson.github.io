@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-06-community
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/06/community.html
 categories:
   - communal living

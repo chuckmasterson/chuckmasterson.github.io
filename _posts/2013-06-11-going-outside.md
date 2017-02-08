@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-06-going-outside
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/06/going-outside.html
 categories:
   - nature

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-01-thinking-in-lists
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/01/thinking-in-lists.html
 categories:
   - irrelevancies

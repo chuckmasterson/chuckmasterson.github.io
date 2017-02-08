@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-10-grinnell-keep-turning-right-home-and
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/10/grinnell-keep-turning-right-home-and.html
 categories:
   - adventure

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-12-still-alive-paris
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/12/still-alive-paris.html
 categories:
   - Year of Adventure

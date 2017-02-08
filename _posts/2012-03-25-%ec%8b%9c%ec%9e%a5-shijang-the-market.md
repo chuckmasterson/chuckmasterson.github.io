@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-03-shijangthe-market
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/03/shijangthe-market.html
 categories:
   - other cultures

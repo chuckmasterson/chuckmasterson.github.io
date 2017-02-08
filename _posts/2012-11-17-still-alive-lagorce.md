@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-11-still-alive-lagorce
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/11/still-alive-lagorce.html
 categories:
   - Year of Adventure

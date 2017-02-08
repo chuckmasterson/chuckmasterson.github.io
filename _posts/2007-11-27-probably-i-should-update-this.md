@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-11-probably-i-should-update-this
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/11/probably-i-should-update-this.html
 categories:
   - adventure

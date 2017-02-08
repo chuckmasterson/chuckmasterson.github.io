@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-03-celebrate
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/03/celebrate.html
 categories:
   - dumpster-diving

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-06-i-need-to-write-this-real-quick
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/06/i-need-to-write-this-real-quick.html
 categories:
   - irrelevancies

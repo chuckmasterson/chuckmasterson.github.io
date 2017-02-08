@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-02-failure-occurence-success
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/02/failure-occurence-success.html
 categories:
   - college

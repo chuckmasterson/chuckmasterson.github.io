@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-12-land-search-2-draw-and-tip-of-wisconsin
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/12/land-search-2-draw-and-tip-of-wisconsin.html
 categories:
   - permaculture

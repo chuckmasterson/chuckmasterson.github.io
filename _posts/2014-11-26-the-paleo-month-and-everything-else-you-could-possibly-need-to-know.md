@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-11-the-paleo-month-and-everything-else-you
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/11/the-paleo-month-and-everything-else-you.html
 categories:
   - food

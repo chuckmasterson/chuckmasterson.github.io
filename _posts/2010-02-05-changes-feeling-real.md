@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-02-changes-feeling-real
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/02/changes-feeling-real.html
 categories:
   - meat

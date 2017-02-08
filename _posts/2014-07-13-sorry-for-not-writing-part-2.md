@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-07-sorry-for-not-writing-part-2
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/07/sorry-for-not-writing-part-2.html
 categories:
   - communal living

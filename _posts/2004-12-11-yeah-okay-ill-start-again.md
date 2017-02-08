@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2004-12-yeah-okay-ill-start-again_11
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2004/12/yeah-okay-ill-start-again_11.html
 categories:
   - adventure

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2007-11-short-blog
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2007/11/short-blog.html
 categories:
 

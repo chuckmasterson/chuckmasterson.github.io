@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-10-the-search-for-gemutlichkeit
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/10/the-search-for-gemutlichkeit.html
 categories:
   - Year of Adventure

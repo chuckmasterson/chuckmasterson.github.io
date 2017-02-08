@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-05-would-buy-again
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/05/would-buy-again.html
 categories:
   - writing

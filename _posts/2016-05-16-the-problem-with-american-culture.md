@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2016-05-the-problem-with-american-culture
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2016/05/the-problem-with-american-culture.html
 categories:
   - irrelevancies

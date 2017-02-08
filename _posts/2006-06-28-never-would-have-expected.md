@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2006-06-never-would-have-expected
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2006/06/never-would-have-expected.html
 categories:
   - work

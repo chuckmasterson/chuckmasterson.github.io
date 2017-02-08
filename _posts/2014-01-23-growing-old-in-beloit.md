@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-01-growing-old-in-beloit
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/01/growing-old-in-beloit.html
 categories:
   - Year of Adventure

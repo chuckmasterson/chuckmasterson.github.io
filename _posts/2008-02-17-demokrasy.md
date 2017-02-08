@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-02-demokrasy
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/02/demokrasy.html
 categories:
   - college

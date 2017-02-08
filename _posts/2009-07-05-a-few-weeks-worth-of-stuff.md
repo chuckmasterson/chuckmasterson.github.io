@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2009-07-few-weeks-worth-of-stuff
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2009/07/few-weeks-worth-of-stuff.html
 categories:
   - barefooting

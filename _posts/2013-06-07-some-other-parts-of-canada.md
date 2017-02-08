@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-06-some-other-parts-of-canada
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/06/some-other-parts-of-canada.html
 categories:
   - Year of Adventure

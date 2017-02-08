@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2016-01-oil-is-cheap-but-everyones-still-poor
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2016/01/oil-is-cheap-but-everyones-still-poor.html
 categories:
   - civilization

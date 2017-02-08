@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-02-giant-backlog-of-photos-ii-trans
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/02/giant-backlog-of-photos-ii-trans.html
 categories:
   - Year of Adventure

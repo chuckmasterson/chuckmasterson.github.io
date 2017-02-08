@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2006-03-buy-now-while-supplies
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2006/03/buy-now-while-supplies.html
 categories:
   - high school

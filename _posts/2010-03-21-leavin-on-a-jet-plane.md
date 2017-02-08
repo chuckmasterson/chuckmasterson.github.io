@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-03-leavin-on-jet-plane
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/03/leavin-on-jet-plane.html
 categories:
   - adventure

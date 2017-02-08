@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2004-09-succinct-review-of-catcher-in-rye_22
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2004/09/succinct-review-of-catcher-in-rye_22.html
 categories:
   - reading

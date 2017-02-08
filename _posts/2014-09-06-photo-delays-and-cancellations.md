@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-09-photo-delays-and-cancellations
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/09/photo-delays-and-cancellations.html
 categories:
   - computers

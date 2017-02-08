@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2006-06-change-of-pace
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2006/06/change-of-pace.html
 categories:
   - work

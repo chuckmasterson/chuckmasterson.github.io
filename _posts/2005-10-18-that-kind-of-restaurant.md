@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2005-10-that-kind-of-restaurant
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2005/10/that-kind-of-restaurant.html
 categories:
   - irrelevancies

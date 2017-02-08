@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-12-christmas-list-rustic-dinner
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/12/christmas-list-rustic-dinner.html
 categories:
   - acquisitiveness

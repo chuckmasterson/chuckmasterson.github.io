@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-01-building-free-diet
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/01/building-free-diet.html
 categories:
   - dumpster-diving

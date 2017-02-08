@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-01-so-youre-headed-down-to-meh-hee-co
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/01/so-youre-headed-down-to-meh-hee-co.html
 categories:
   - Year of Adventure

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-07-crowduck-dreamin
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/07/crowduck-dreamin.html
 categories:
   - adventure

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-10-array-of-daguerreotypes
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/10/array-of-daguerreotypes.html
 categories:
   - adventure

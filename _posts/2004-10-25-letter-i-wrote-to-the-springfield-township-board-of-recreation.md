@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2004-10-letter-i-wrote-to-springfield-township
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2004/10/letter-i-wrote-to-springfield-township.html
 categories:
   - Warder

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-02-se-asia-v-vang-vieng
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/02/se-asia-v-vang-vieng.html
 categories:
   - adventure

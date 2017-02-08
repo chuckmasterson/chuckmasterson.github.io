@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2006-12-correction-life-is-good
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2006/12/correction-life-is-good.html
 categories:
   - technology

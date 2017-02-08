@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-10-what-ive-been-promising-you
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/10/what-ive-been-promising-you.html
 categories:
   - photos

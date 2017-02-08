@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2004-09-comprehensive-review-of-catcher-in-rye
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2004/09/comprehensive-review-of-catcher-in-rye.html
 categories:
   - reading

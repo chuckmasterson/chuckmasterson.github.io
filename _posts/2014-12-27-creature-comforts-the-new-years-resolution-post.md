@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-12-creature-comforts-new-years-resolution
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/12/creature-comforts-new-years-resolution.html
 categories:
   - deep thoughts

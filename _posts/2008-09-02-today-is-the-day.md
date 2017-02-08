@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2008-09-today-is-day
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2008/09/today-is-day.html
 categories:
   - snake

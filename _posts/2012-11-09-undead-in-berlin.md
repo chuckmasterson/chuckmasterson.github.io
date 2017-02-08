@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-11-undead-in-berlin
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/11/undead-in-berlin.html
 categories:
   - Year of Adventure

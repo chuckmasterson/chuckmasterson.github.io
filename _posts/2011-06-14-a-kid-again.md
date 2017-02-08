@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-06-by-now-some-of-you-have-heard-that-i
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/06/by-now-some-of-you-have-heard-that-i.html
 categories:
   - adventure

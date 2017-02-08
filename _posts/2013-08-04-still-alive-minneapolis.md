@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2013-08-still-alive-minneapolis
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2013/08/still-alive-minneapolis.html
 categories:
   - Year of Adventure

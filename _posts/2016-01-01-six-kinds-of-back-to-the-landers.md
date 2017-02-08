@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2016-01-six-kinds-of-back-to-landers
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2016/01/six-kinds-of-back-to-landers.html
 categories:
   - homesteading

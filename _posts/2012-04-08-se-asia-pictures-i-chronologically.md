@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2012-04-se-asia-pictures-i-chronologically
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2012/04/se-asia-pictures-i-chronologically.html
 categories:
   - photos

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2011-09-deungsan-mountain-climbing
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2011/09/deungsan-mountain-climbing.html
 categories:
   - adventure

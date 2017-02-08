@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2010-06-covered-in-bees
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2010/06/covered-in-bees.html
 categories:
   - interesting people

@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2005-06-what-is-crowduck
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2005/06/what-is-crowduck.html
 categories:
   - family

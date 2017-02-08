@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2014-03-still-alive-san-cristobal-de-las-casas
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2014/03/still-alive-san-cristobal-de-las-casas.html
 categories:
   - Year of Adventure

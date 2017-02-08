@@ -6,7 +6,7 @@ layout: post
 legacyslug: 2015-09-old-friends-season-permaculture-made
 blogger_blog:
   - chuckmasterson.blogspot.com
-blogger_permalink:
+redirect_from:
   - /2015/09/old-friends-season-permaculture-made.html
 categories:
   - friends
