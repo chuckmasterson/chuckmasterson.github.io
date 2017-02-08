@@ -1,10 +1,8 @@
 <article id="comment{% if p %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endif %}" 
-    class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% if p %}child{% endif %}">
+    class="js-comment comment {% if p %}child{% endif %}">
 
 <div class="comment__avatar">
-    {% if include.avatar %}
-    <img src="{{ include.avatar }}" alt="{{ include.name | escape }}">
-    {% elsif include.email %}
+    {% if include.email %}
       <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | escape }}">
     {% else %}
     {% include makeavatar avatarname=include.name %}
@@ -14,16 +12,16 @@
 <h3 class="comment__author-name">
     {% unless include.url == blank %}
     <a rel="external nofollow" href="{{ include.url }}">
-        {% if include.name == site.author.name %}<svg class="icon"><use xlink:href="#icon-mistake"></use></svg> {% endif %}{{ include.name }}
+        {{ include.name }}
     </a>
     {% else %}
-    {% if include.name == site.author.name %}<svg class="icon"><use xlink:href="#icon-mistake"></use></svg> {% endif %}{{ include.name }}
+        {{ include.name }}
     {% endunless %}
 </h3>
 
 <div class="comment__timestamp">
     {% if include.date %}
-    {% if include.index %}<a href="#comment{% if p %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
+      {% if include.index %}<a href="#comment{% if p %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
         <time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%B %d, %Y' }}</time>
         {% if include.index %}</a>{% endif %}
     {% endif %}
@@ -35,29 +33,25 @@
 
 </article>
 
-{% unless p or page.comments_locked == true %}
-  <a rel="nofollow"
-    class="reply-button"
-    href="#comment-{{ include.id }}"
-    onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.id }}', 'respond', '{{ commentslug }}')">
-    Reply
-  </a>
-{% endunless %}
-
-
 {% assign replies = site.data.comments[commentslug] | sort %}
 {% for reply in replies %}
-{% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
-{% assign id      = reply[1]._id %}
-{% assign p       = reply[1]._parent %}
-{% assign parent  = p | to_integer %}
-{% assign avatar  = reply[1].avatar %}
-{% assign email   = reply[1].email %}
-{% assign name    = reply[1].author %}
-{% assign url     = reply[1].authorurl %}
-{% assign date    = reply[1].date %}
-{% assign message = reply[1].text %}
-{% if p == include.id %}
-{% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
-{% endif %}
+  {% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
+  {% assign id      = reply[1]._id %}
+  {% assign p       = reply[1]._parent %}
+  {% assign parent  = p | to_integer %}
+  {% assign avatar  = reply[1].avatar %}
+  {% assign email   = reply[1].email %}
+  {% assign name    = reply[1].author %}
+  {% assign url     = reply[1].authorurl %}
+  {% assign date    = reply[1].date %}
+  {% assign message = reply[1].text %}
+  {% if p == include.id %}
+    {% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+  {% endif %}
+
+  {% if forloop.last %}
+  {% endif %}
+
+
 {% endfor %}
+

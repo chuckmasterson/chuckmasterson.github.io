@@ -40,6 +40,10 @@ comments:
       type: date
       options:
         format: "timestamp-seconds"
+    id:
+      type: date
+      options:
+        format: "timestamp-seconds"
 
     # Whether entries need to be appproved before they are published to the main
     # branch. If set to `true`, a pull request will be created for your approval.
@@ -47,7 +51,7 @@ comments:
   moderation: true
 
     # Name of the site. Used in notification emails.
-  name: "chuckmasterson.com"
+  name: "Chuck Masterson’s Actual Blog"
 
     # Notification settings. When enabled, users can choose to receive notifications
     # via email when someone adds a reply or a new comment. This requires an account
@@ -78,4 +82,4 @@ comments:
     # List of transformations to apply to any of the fields supplied. Keys are
     # the name of the field and values are possible transformation types.
   transforms:
-    email: md5
+    authoremail: md5
