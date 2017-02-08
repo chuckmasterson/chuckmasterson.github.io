@@ -51,6 +51,22 @@ stores:
 *   [**Permanent Mark 2**](http://www.cafepress.com/permanentmark2)
 *   [**Permanent Mark 3**](http://www.cafepress.com/permanentmark3)
 
+### Language Stuff
+
+So, you know how a lot of academic writing is god-awful and full of
+twenty-dollar words that you have to pick and slog through with a dictionary of
+Latin and Greek word roots open on the table? 
+
+Oh, you don't keep a dictionary of Latin and Greek word roots around? Well even
+so, if you went to college you probably know what I'm talking about. When I was
+in college I wrote a paper about those words and why they're so hard and what
+could be done about it. I think it's a pretty decent and accessible paper;
+I tried to make it an example of less obfuscated writing. If you'd like to read
+it, it's here:
+
+* [**Big Words: English speakers' difficulty with the Latinate wordstock in
+  English**](/assets/pdf/Big Words.pdf)
+
 ### Other Stuff
 
 will appear here if I remember other neat stuff I’ve done that can be conveyed
