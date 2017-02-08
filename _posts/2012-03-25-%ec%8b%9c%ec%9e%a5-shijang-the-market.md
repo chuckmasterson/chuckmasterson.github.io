@@ -28,13 +28,13 @@ that’s going to keep me from trying.
 
 
 
-{% include fig.html src="Sijang%2B001.jpg" %}
+{% include fig.html src="Sijang 001.jpg" %}
 
 Every market day, the market takes over this street in town. It mainly has 
 restaurants and textile stores otherwise.
 
 
-{% include fig.html src="Sijang%2B003.jpg" %}
+{% include fig.html src="Sijang 003.jpg" %}
 
 Perhaps not the best thing to show first, but this is 순대 *sundae*, which 
 is not at all like an ice cream sundae. It’s sausage made of rice and
@@ -45,7 +45,7 @@ in Korea I fear eating almost nothing anymore. Though this market still
 contains some of the things I haven’t yet accepted.
 
 
-{% include fig.html src="Sijang%2B004.jpg" %}
+{% include fig.html src="Sijang 004.jpg" %}
 
 Here’s a better image of the market. Three old ladies sitting there on 
 the road selling their stuff. When not talking to a customer, they talk to each
@@ -61,7 +61,7 @@ I’ve made *doenjang jjigae* before with mild success, but maybe the
 *naeng’i* will give it that magic something.
 
 
-{% include fig.html src="Sijang%2B005.jpg" %}
+{% include fig.html src="Sijang 005.jpg" %}
 
 Here’s a vegetable stall. On the floor, foreground to background, we 
 have: spinach and ginger; lotus roots; daikon radishes (in the plastic basket);
@@ -70,18 +70,18 @@ away. On the table the only thing you can see is cabbage, the kind they use to
 make kimchi.
 
 
-{% include fig.html src="Sijang%2B006.jpg" %}
+{% include fig.html src="Sijang 006.jpg" %}
 
 This is the same vendor, a little further down the table. Here we have various 
-mushrooms (*paeng’i*, one whose name I don’t know, and*
-pyogo*, known in English by the Japanese name *shiitake* because the
+mushrooms (*paeng’i*, one whose name I don’t know, and
+*pyogo*, known in English by the Japanese name *shiitake* because the
 Japanese introduced us to them first) and peppers and cucumbers, and then below
 that some spinach and some stuff I don’t know and some regular old onions
 (and garlic, I think), and then on the ground broccoli and a bunch of stuff
 that I can’t explain. 
 
 
-{% include fig.html src="Sijang%2B007.jpg" %}
+{% include fig.html src="Sijang 007.jpg" %}
 
 Here’s another vendor. I think in the front is some different kinds of
 rice. Next to that is 취나물 (*chwinamul*), which is an aster that grows
@@ -98,7 +98,7 @@ before I finished the soup yesterday, and it was indeed delicious. Behind the
 and further back you can see things like chestnuts, unidentifiable roots, and
 garlic. 
 
-{% include fig.html src="Sijang%2B008.jpg" %}
+{% include fig.html src="Sijang 008.jpg" %}
 
 In the front we have more of that medicinal stuff, and more *chwinamul*
 and some peanuts, and then you’ll notice a bunch of sticks. They sell a
@@ -115,13 +115,13 @@ this: Boil some water for 40 minutes with the woodchip and the roots in it.
 Then put a chicken in there and boil it for 30 more minutes. Then take the
 woodchip out before you eat it. (I’m not sure about the roots.) But it
 still seems like they sell an awfully high volume of sticks and wood. Either
-*baeksuk *is a lot more popular than I realize, or there’s some
+*baeksuk* is a lot more popular than I realize, or there’s some
 other use for the sticks and wood, or the vendors just bring lots of the stuff
 every time because it never goes bad. Further on beyond the sticks in this
 picture are chestnuts, various beans, eggs, fern sprouts, and vegetables I
 don’t know.
 
-{% include fig.html src="Sijang%2B009.jpg" %}
+{% include fig.html src="Sijang 009.jpg" %}
 
 Same vendor, different vantage point. Here are peanuts, and then lots and lots
 of different kinds of beans, none of which are regular old kidney beans that
@@ -129,7 +129,7 @@ you might use to make chili or a Cincinnati 5-way. The bottle on the far left
 probably has homemade sesame oil, and on the ground are more unidentifiable
 roots.
 
-{% include fig.html src="Sijang%2B010.jpg" %}
+{% include fig.html src="Sijang 010.jpg" %}
 
 On the top row, only halfway in-frame, are: fern sprouts, unidentifiable roots
 in a bag, *naeng’i*, peanuts, and probably parched sesame seeds in
@@ -137,7 +137,7 @@ those little bags. Then there are some vegetables that I should really learn
 because they look tasty. And then garlic, chestnuts, possibly peppercorns, and
 jujubes on the far right.
 
-{% include fig.html src="Sijang%2B011.jpg" %}
+{% include fig.html src="Sijang 011.jpg" %}
 
 Then we get to the fish section. It’s only recently that I dared to enter
 here, but my school lunches have featured some fish prepared in actually pretty
@@ -149,14 +149,14 @@ before and was able to give me advice on how not to ruin it. We both agreed
 that the fish was amazing fried this way. I’ll make it at Crowduck. 
 
 
-{% include fig.html src="Sijang%2B012.jpg" %}
+{% include fig.html src="Sijang 012.jpg" %}
 
 I really don’t understand most of what happens in the ocean. I
 don’t know what any of the stuff on the left is, and I can’t tell
 you anything about the dried fish on the right except that they’re dried
 fish. 
 
-{% include fig.html src="Sijang%2B013.jpg" %}
+{% include fig.html src="Sijang 013.jpg" %}
 
 Crabs, mussels, and different mussels. They use mussels in Korean soups. The
 thing is, they leave them in the shells. It’s your responsibility to dig
@@ -164,13 +164,13 @@ them out from the bottom where they’ve sunk and then use your
 chopsticks—never your fingers, you mustn’t touch your food!—to get the
 meat out.
 
-{% include fig.html src="Sijang%2B014.jpg" %}
+{% include fig.html src="Sijang 014.jpg" %}
 
 In the front, dried fish; in the back, seaweed sheets, which you can use to
 make sushi, or, far more likely, 김밥 (*gimbap*), which is shaped like
 sushi but has ham and vegetables and egg in it instead of fish.
 
-{% include fig.html src="Sijang%2B015.jpg" %}
+{% include fig.html src="Sijang 015.jpg" %}
 
 Beyond the seaweed sheets, there’s this. Foreground row: raisins,
 peanuts, and I guess different peanuts. Next row back: almonds, jujubes,
@@ -178,7 +178,7 @@ walnuts, pine nuts and behind them peppercorns, and some kind of fish patties I
 think. Maybe squid. And in the tubs in the back are some kind of black bean or
 something, then I think squash seeds, and then sunflower seeds.
 
-{% include fig.html src="Sijang%2B017.jpg" %}
+{% include fig.html src="Sijang 017.jpg" %}
 
 And then beyond that we get back into fish. The foreground row is just a bunch
 of different sizes of dried anchovies. The bigger ones are good for making
@@ -186,12 +186,12 @@ broth, and the smaller ones get cooked up in some sesame and soy sauce and
 stuff and just eaten straight as a *banchan*. Behind the anchovies are
 fish broken into little pieces. The far left stuff may actually be squid.
 
-{% include fig.html src="Sijang%2B018.jpg" %}
+{% include fig.html src="Sijang 018.jpg" %}
 
 I’m no fishologist, but I think these ones in the front are flounders and
 then clearly some kind of stingray or skate. 
 
-{% include fig.html src="Sijang%2B019.jpg" %}
+{% include fig.html src="Sijang 019.jpg" %}
 
 Alright, some vegetables! In front are beansprouts in the metal bowls and
 spinach in the boxes; behind them more scallions (these are a very popular food
@@ -200,14 +200,14 @@ table in back are Korean radishes (무 *mu*), further scallions, Western
 cabbage, garlic stems (마늘쫑 *maneul jjong*, which make a very tasty
 *banchan*), and stuff too far away to make out.
 
-{% include fig.html src="Sijang%2B020.jpg" %}
+{% include fig.html src="Sijang 020.jpg" %}
 
 *Naeng’i* and *chwinamul* are the only things I can identify
 here. The bottle is some kind of oil, though it originally held soju. Soju
 bottles are very widely reused here. They use them not only for homemade oils,
 but also at restaurants to serve water in. Why waste?
 
-{% include fig.html src="Sijang%2B021.jpg" %}
+{% include fig.html src="Sijang 021.jpg" %}
 
 This is my favorite vendor. The little old lady who runs it—not the one in the
 picture, she’s just a customer, and the vendor is even littler and
@@ -236,25 +236,25 @@ is a caption?) also has everything. In the picture above are mainly a lot of
 things I’ve covered before, plus carrots and some rice-based things in
 the very foreground. But the pictures below are her stall too. 
 
-{% include fig.html src="Sijang%2B022.jpg" %}
+{% include fig.html src="Sijang 022.jpg" %}
 
-In this one is acorn gel (you can see 도토리묵 *dotorimuk *on the sign),
+In this one is acorn gel (you can see 도토리묵 *dotorimuk* on the sign),
 behind it sweet corn bread, and next to it some things I don’t know.
 
 
-{% include fig.html src="Sijang%2B023.jpg" %}
+{% include fig.html src="Sijang 023.jpg" %}
 
 And here, amid her collection of candy, are the *beondegi*, the silkworm
 pupae, seen here waiting in boiling water for hungry customers. I sent them as
 a joke Christmas present to Grandpa, but over here people eat them with
 completely straight faces. 
 
-{% include fig.html src="Sijang%2B024.jpg" %}
+{% include fig.html src="Sijang 024.jpg" %}
 
 If I wanted a house plant, I would know exactly where to go. Maybe some of
 these are even edible in some way.
 
-{% include fig.html src="Sijang%2B025.jpg" %}
+{% include fig.html src="Sijang 025.jpg" %}
 
 Lastly, here’s a place I patronize pretty much every time I come down,
 because it gives me instant gratification. This guy sells: two kinds of donuts,

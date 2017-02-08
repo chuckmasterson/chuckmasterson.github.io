@@ -16,7 +16,7 @@ categories:
 ---
 A couple months ago, this strip came out on xkcd, a webcomic that I read: 
 
-{% include fig.html absolute=true src="http://imgs.xkcd.com/comics/let_go.png"
+{% include fig.html elsewhere=true src="http://imgs.xkcd.com/comics/let_go.png"
 %}
 
 ([xkcd No. 862](http://www.xkcd.com/862))
@@ -40,7 +40,7 @@ particular to do, I would stay up until about 3:00 reading things I
 didn’t really have a compelling reason to read. Mainly it was webcomics
 and funny things. I enjoyed the stuff I was reading, but the problem with funny
 stuff on the internet is that even though you enjoy it, there’s just
-*so much *funny stuff on the internet. Everyone knows the internet is
+*so much* funny stuff on the internet. Everyone knows the internet is
 first and foremost full of porn, but underneath that, there’s another
 thriving layer of funny stuff. It’s impossible to read and watch it all.
 But for a long time I tried my darnedest. It was really a problem. It cut into

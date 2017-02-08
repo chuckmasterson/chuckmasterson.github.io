@@ -33,12 +33,14 @@ goes:
 > Put on your Chairman Mao coat  
 > And let me clear my throat  
 > Let’s turn this whole town upside down  
-> ‘Til the coins come falling out of its pocket  
+> ’Til the coins come falling out of its pocket  
 > Yeah, put on your Che Guevara pin  
 > And call the troops on in  
 > We are gonna sail through the night sky  
 > Like a pair of bottle rockets!
 > 
+> * * * 
+>
 > I’ve got a great big secret written down somewhere  
 > I’ve got a rosary to protect us both from harm  
 > I’ve got a storage locker full of cow figurines  

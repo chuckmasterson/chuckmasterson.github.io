@@ -15,24 +15,23 @@ categories:
 ---
 Micah and I went frogging last night and took some pictures. Here they come.
 
-{% include fig.html src="IMAG0001.jpg" %} 
+{% include fig.html src="IMAG0001.jpg" caption="First catch" %} 
 
-First catch
 
-{% include fig.html src="IMAG0002.jpg" %} 
+{% include fig.html src="IMAG0002.jpg" caption="A big one" %} 
 
-A big one
 
-{% include fig.html src="IMAG0004.jpg" %} 
+{% include fig.html src="IMAG0004.jpg" caption="Underside. He looks like he’s
+terrified, but somewhere deep down, having fun a little bit." %} 
 
-Underside. He looks like he’s terrified, but somewhere deep down, having fun a little bit.
 
-{% include fig.html src="IMAG0005.jpg" %} 
+{% include fig.html src="IMAG0005.jpg" caption="“Whatever. Just put me back
+when you’re finished, okay?” The hand is Micah’s." %} 
 
-“Whatever. Just put me back when you’re finished, okay?” The hand is Micah’s.
 
-{% include fig.html src="IMAG0006.jpg" %} 
+{% include fig.html src="IMAG0006.jpg" caption="Burke’s pond has some very deep
+and rich mud. Smells sulfurous. For all this, I still didn’t catch the frog I
+was going after." %} 
 
-Burke’s pond has some very deep and rich mud. Smells sulfurous. For all this, I still didn’t catch the frog I was going after.
 
 Frogging is fun. We plan to go many more times this summer.

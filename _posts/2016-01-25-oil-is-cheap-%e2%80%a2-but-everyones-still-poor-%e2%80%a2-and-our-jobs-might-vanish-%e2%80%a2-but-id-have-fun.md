@@ -104,7 +104,7 @@ give cancer to some towns nearby.
 Extraction of conventional oil, the good old-fashioned liquid black gold,
 reached its peak in 2005 and has been clawing down the other side of the
 mountain ever since then. After a delay of a few years, and aided by the US’s
-housing bubble, the *price *of oil finally responded to that situation by
+housing bubble, the *price* of oil finally responded to that situation by
 shooting up, to a momentary high of $140 a barrel and a steadier level around
 $100. That made fracking suddenly just profitable enough to persuade people to
 go to all the trouble. So companies big and small showed the numbers to some
@@ -235,7 +235,7 @@ the land first. Every homesteader has their own unique viewpoint and style. If
 we moved onto an existing homestead, though, with established practices, we
 might not develop our own—the same way that someone who’s been in relationships
 her entire life might suddenly realize, in a panic years down the line, that
-she doesn’t know who *she *is.
+she doesn’t know who *she* is.
 
 That’s why we’ve been thinking we might like to stay in Sprout House through
 2017\. That would give us a chance to do a lot of land-based things that the

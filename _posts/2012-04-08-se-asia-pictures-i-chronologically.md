@@ -568,20 +568,18 @@ like to live in a floating village. The term is pretty literal." %}
 
 {% include fig.html src="SEAsia 324.jpg" %}
 
-{% include fig.html src="SEAsia 325.jpg" %}
+{% include fig.html src="SEAsia 325.jpg" caption="I think this may be a general store of some sort. Or maybe the people who live
+here are just packrats." %}
 
 
-I think this may be a general store of some sort. Or maybe the people who live
-here are just packrats.
 
 
 {% include fig.html src="SEAsia 331.jpg" %}
 
-{% include fig.html src="SEAsia 318.jpg" %}
+{% include fig.html src="SEAsia 318.jpg" caption="Here’s the view from the deck of the restaurant that Graeme and I got to
+on the local teenagers’ boat." %}
 
 
-Here’s the view from the deck of the restaurant that Graeme and I got to
-on the local teenagers’ boat.
 
 
 {% include fig.html src="SEAsia 317.jpg" caption="These are the alligators in

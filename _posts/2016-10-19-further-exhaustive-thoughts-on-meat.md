@@ -123,7 +123,7 @@ So: *what has actually changed on the island?* Can we say that things on the
 island are *better* because more people are being fed for less land per person?
 
 Mammoth Island shows us that the *amount of resources* and the *number of
-people fed *are not the point. Never were. The point is all the other details
+people fed* are not the point. Never were. The point is all the other details
 of how the islanders live. Now that there are ten times as many of them, are
 they building too many houses for the eucalyptus forests to grow back? Are they
 using up the island’s supply of freshwater faster than the rains replenish it?
@@ -413,4 +413,4 @@ I’ve pretty much had my fill of writing about it for the next several months.
 bed before sunrise.) I’d like to write about some other stuff.  But I’ll still
 answer comments on this post, and there’s always video chatting. For now, I
 just hope you’ve found this useful, and that anyone else who reads this does
-too.) *
+too.)*

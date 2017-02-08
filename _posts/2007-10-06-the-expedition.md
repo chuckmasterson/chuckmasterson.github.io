@@ -46,7 +46,7 @@ off the computer ad out of the dorm. I wanted to go see if Merrill Park might
 have any good krokay grounds. I biked there, but even in the dark I could tell
 it didn’t have much in the way of extremity. It was flat, with just a
 playground. Also, a plastic lion, which was weird. So, I left Merrill Park. I
-started heading _we_st. They’ve built a bike trail to Rock Creek, and I wanted
+started heading *we*st. They’ve built a bike trail to Rock Creek, and I wanted
 to see if I could find it for future reference. It’s even miles from Grinnell
 to Rock Creek, so obviously I wasn’t going to bike there tonight. I found two
 streets that seemed like they ought to have the bike trail on them, but they

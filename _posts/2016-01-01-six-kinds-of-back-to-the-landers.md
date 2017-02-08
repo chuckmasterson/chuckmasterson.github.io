@@ -167,7 +167,7 @@ nature instead of against it.
 I’m not saying (at least here) that people with a different focus are all
 wrong, I’m just saying that that’s not my focus. That’s why I wrote this: so
 that, in the future, when I talk about moving back to the land, I can show
-people this and maybe they’ll understand what I’m *actually *talking about,
+people this and maybe they’ll understand what I’m *actually* talking about,
 instead of how it’s a little bit like their own vision.
 
 [^1]: Shit Hits the Fan. This is a very common abbreviation among

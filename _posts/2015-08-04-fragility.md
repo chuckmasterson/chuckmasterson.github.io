@@ -116,7 +116,7 @@ And those shrinking and popping bubbles, if you can remember all the way back
 to the beginning of this, are the cracks I keep an eye out for. Some of them
 are easy to notice.  Seems that bridge collapses are becoming a thing. Internet
 outages strike nearly everyone, even in a country that both leads the world in
-GDP and *invented *the damn internet. The interstates that cut through the
+GDP and *invented* the damn internet. The interstates that cut through the
 cores of Minneapolis and St Paul—built there only a few decades ago for
 tremendous sums of money and the expense of several demolished
 neighborhoods—are assaulted so vigorously by freeze-thaw cycles that, anymore,

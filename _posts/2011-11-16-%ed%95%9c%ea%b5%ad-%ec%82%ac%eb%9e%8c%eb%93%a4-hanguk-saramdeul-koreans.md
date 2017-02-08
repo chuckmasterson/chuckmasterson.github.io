@@ -18,9 +18,8 @@ tags:
 words in another language if they’re long and I don’t know what each part of
 them means. So: “Hanguk” means Korea; “saram” means “person”, and “deul” makes
 it plural, although plurals are optional in Korean and mainly used only with
-people.) {: .prefatory}
-
-* * *
+people.) 
+{: .prefatory}
 
 
 By now I’ve had a few months to get used to the Korean Way, so I ought to be

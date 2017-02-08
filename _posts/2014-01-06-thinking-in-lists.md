@@ -120,30 +120,30 @@ This is a list of all the languages I can count to ten in.
 
 This is a list of town names in the US that are pronounced all wrong.
 
-*   La Plata, Missouri: “luh _play-_tuh”
-*   Cairo, Missouri: “_kay_-roh”
-*   Versailles, Indiana: “vur-_sayles_“
-*   El Dorado, Ohio: “ell duh-_ray_-doh”
-*   Nevada, Missouri: “neh-_vay-_duh”
-*   New Madrid, Missouri: “new _mad-_rid”
+*   La Plata, Missouri: “luh *play-*tuh”
+*   Cairo, Missouri: “*kay*-roh”
+*   Versailles, Indiana: “vur-*sayles*“
+*   El Dorado, Ohio: “ell duh-*ray*-doh”
+*   Nevada, Missouri: “neh-*vay-*duh”
+*   New Madrid, Missouri: “new *mad-*rid”
 *   Hayti, Missouri: “hay-tie”
-*   Detroit, Michigan: the French would say “deh-_trwa_“
-*   Limon, Colorado: “_lie_-mun” (comes from Spanish _limón_, pronounced
-    “lee-_mohn_“)
-*   Lima, Ohio: “_lie_-muh” (in Spanish, “_lee_-mah”)
+*   Detroit, Michigan: the French would say “deh-*trwa*“
+*   Limon, Colorado: “*lie*-mun” (comes from Spanish *limón*, pronounced
+    “lee-*mohn*“)
+*   Lima, Ohio: “*lie*-muh” (in Spanish, “*lee*-mah”)
 *   Belle Fourche, South Dakota: “bell fooosh”
-*   San Rafael, California: “san ruh-_fell_“
-*   New Orleans, Louisiana: the French would say “or-leh-_awn_“
+*   San Rafael, California: “san ruh-*fell*“
+*   New Orleans, Louisiana: the French would say “or-leh-*awn*“
 *   Los Angeles, California: The way we say “los” sounds like Spanish “las”,
     which makes all the angels female
-*   Arab, Ohio: “_ay_-rab”
+*   Arab, Ohio: “*ay*-rab”
 *   St Croix Falls, Wisconsin: “saint croy falls”
-*   Pekin, Illinois: “_peek_-in” (nowadays the original Pekin is pronounced
+*   Pekin, Illinois: “*peek*-in” (nowadays the original Pekin is pronounced
     “Beijing”, though that’s because the Chinese pronunciation has changed
-    since the old days—but it was never pronounced like _peekin’_.)
-*   Des Moines, Iowa: “dee _moin_“
+    since the old days—but it was never pronounced like *peekin’*.)
+*   Des Moines, Iowa: “dee *moin*“
 *   Pierre, South Dakota: “peer”
-*   Natchitoches, Louisiana: “_nack-_a-dish”
+*   Natchitoches, Louisiana: “*nack-*a-dish”
 
 Lastly, and this isn’t a list: if I ran a barber shop, I would get a
 liquor license and make booze available to people waiting or getting their hair

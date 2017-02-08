@@ -309,7 +309,7 @@ that’s just the done thing. But we pointed out that our contract says we
 only have to work eight hours, and more can be required, but we have to be paid
 overtime. My co-teacher took this as a total refusal of her polite request for
 a “favor”—Amanda and I later agreed that a favor can be refused
-with no consequences, and this was definitely an *obligation *instead—and so
+with no consequences, and this was definitely an *obligation* instead—and so
 she has begun to see us as mannerless jerks, apparently. We questioned the
 hierarchy. I wouldn’t have done that, but Amanda was very confident in
 her ability to appeal this, and also angry, because last Friday, she asked—as a

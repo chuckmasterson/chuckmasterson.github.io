@@ -60,7 +60,7 @@ A whole lot of languages have words that look like the English word, though
 it’s hard to say which of them borrowed it from us, and which borrowed it
 from the German *Zickzack*, which is where we got it originally anyhow. Basque
 has *sigi-saga*; Hebrew has סִכסָך (sikhsakh); Russian and Ukrainian have
-*зигзаг* (zigzag); Serbian has* цик-цак* (tsik-tsak); Korean has 지그재그
+*зигзаг* (zigzag); Serbian has *цик-цак* (tsik-tsak); Korean has 지그재그
 (jigeujageu); Japanese has ジグザグ (jigujagu)—though they also
 have うねうね (une-une), which doesn’t exactly mean *zigzag*, as far
 as I can tell through an [image

@@ -29,8 +29,6 @@ decided to name it after one of their hometowns. So they flipped a coin, and
 the guy from Portland won. And thus was Portland named Portland, after
 Portland. 
 
-* * *
-
 But of course, because of the rules, I’m not writing anything about
 Portland until I’ve finished and left and gone to Eugene. Instead
 I’ve got to catch up on places I’ve been: Glacier National Park,

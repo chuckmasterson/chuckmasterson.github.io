@@ -18,7 +18,7 @@ If you read the title of this post and it sounded in your mind like a clown at
 the beginning of a TV show, you read it the wrong way. Imagine a slightly
 frustrated teacher instead. (*Yae* means kid, *deul* (changing to
 *deur* before a vowel) is the same plural I mentioned last time, and I
-gather that *a *is something akin to the vocative case ending, if
+gather that *a* is something akin to the vocative case ending, if
 you’re familiar with Latin, or if not, it’s what you use when you
 call out to someone, sort of a “Hey!”.) 
 {: .prefatory}

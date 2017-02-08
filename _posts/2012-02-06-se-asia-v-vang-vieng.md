@@ -29,7 +29,7 @@ of cliffs, scrambled up and pointed every which way. They were gumdrops,
 castles, shattered rock candy, the plates of titanic stegosaurs, yet somehow
 managed to be so immense that the trees covering them could have been moss. 
 
-{% include fig.html src="SEAsia%2B187.jpg" %}
+{% include fig.html src="SEAsia 187.jpg" %}
 
 Probably because of this, the road was sometimes smooth but mostly a
 mosaic of potholes, like driving across a lava flow. It was strung along the
@@ -44,7 +44,7 @@ I’d seen today that stretched belief. I felt almost as if I had created a
 planet and was now looking down upon it. You may have seen this picture
 already.
 
-{% include fig.html src="SEAsia%2B177.jpg" %}
+{% include fig.html src="SEAsia 177.jpg" %}
 
 I ate curry and then the van pushed on the rest of the way to Vang Vieng.
 

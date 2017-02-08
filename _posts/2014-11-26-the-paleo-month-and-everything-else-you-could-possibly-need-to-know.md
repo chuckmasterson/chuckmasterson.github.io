@@ -96,7 +96,7 @@ incarnation of the diet’s principles that I would strictly abide by for a
 whole month.  Then I would know how I felt on baseline, classic paleo. From
 there I would try out some stuff I had eliminated.
 
-The goal with this reintroduction *wouldn’t *be to see how close I could
+The goal with this reintroduction *wouldn’t* be to see how close I could
 get to eating Easy-Mac every night without getting sick. I was looking to
 choose among a few closely allied diet philosophies.  There’s paleo,
 which is the one that gets talked about the most (and has a surprising amount
@@ -195,7 +195,7 @@ slice alone, and have a glass of tea or wine or something, I can more or less
 forget that the cake is there.  
 
 Wheat products weren’t a problem for me. Even though, it’s true,
-I’d never really been eating paleo, I’d been *thinking *paleo for a
+I’d never really been eating paleo, I’d been *thinking* paleo for a
 pretty good while, and that meant that bread and other stuff made of flour had
 just sort of dropped out of my food vocabulary, especially since I’d been
 living on my own, and I didn’t even think about them as something that
@@ -289,7 +289,7 @@ the poisoning and realize how bad it is.
 my stomach gurgle, but I suspect that’s true of basically everyone. Kefir
 makes me feel awesome.
 
-**Vegetable oil **(industrial ones like canola and soybean oil)**:** I ate a
+**Vegetable oil** (industrial ones like canola and soybean oil)**:** I ate a
 big old bag of thick-cut potato chips. In addition to the modest starch rush, I
 noticed that I felt greasy and nasty inside. I’ve noticed it anytime
 since when I’ve eaten something made with lots of vegetable oil, like
@@ -299,7 +299,7 @@ body, or anyone’s for that matter.
 
 **Rice:** About the same as potatoes.
 
-**Other grains: **Before I get into these, let me take a quick little excursus
+**Other grains:** Before I get into these, let me take a quick little excursus
 about teeth.
 
 Weston Price, the namesake of the diet I mentioned earlier, was a dentist who
@@ -357,7 +357,7 @@ into pure blood glucose even faster than straight-up table sugar does. I never
 realized pizza gave me a sugar rush, but now that I’m paying attention,
 it’s impossible to ignore.
 
-**Beans **(the kind you can buy dry)**:** “Hey, beans aren’t
+**Beans** (the kind you can buy dry)**:** “Hey, beans aren’t
 grains!” No, but they behave similarly. They’ve got the same kinds
 of chemicals, which can be somewhat neutralized by traditional fermenting or
 long soaking. If you eat them unsoaked, they’re actively poisonous—a
@@ -411,7 +411,7 @@ means that modest amounts of potatoes and rice are in order.
 
 #### The takeaway
 
-So the last question is where I go from here.  I’m definitely *not *going
+So the last question is where I go from here.  I’m definitely *not* going
 to keep eating the way I have been the last month, where my almost explicit
 goal has been to eat tons of bad stuff and see how I feel (or occasionally, to
 eat bad stuff because I have this window where I’m giving myself a free
@@ -574,15 +574,15 @@ what to tell you. Probably soon, I’m thinking before Christmas.
 
 * **Not eating** sugar, industrial wheat, and vegetable oil.  
 
-* **Eating just some **starches (including traditionally prepared grains),
+* **Eating just some** starches (including traditionally prepared grains),
   fruit, and maybe beans now and then.  
 
 * **Eating decent amounts of** meat, eggs, kefir, and cheese.  
 
-* **Eating loads of **vegetables.
+* **Eating loads of** vegetables.
 
 * <span style="color: #d9ead3;">**Fasting** sometimes, and paying attention to
-  **cravings **when I notice them.</span> 
+  **cravings** when I notice them.</span> 
 
 Simple as that. Maybe now you wish you had just read this last section instead
 of all that. But this way you know where it came from, and maybe, just

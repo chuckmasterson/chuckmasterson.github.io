@@ -29,8 +29,8 @@ someone that smug deserves.)
 
 For the last few days I’ve been in Fearrington Village, North Carolina, with
 Viki’s parents, mostly relaxing and talking. They’re nice people. I’ve had some
-tasty Hungarian food, namely *fasirt* (mini-meatloaves) and *paprikás csirke
-*(paprika chicken). I learned how to count to ten in Hungarian.
+tasty Hungarian food, namely *fasirt* (mini-meatloaves) and *paprikás csirke*
+(paprika chicken). I learned how to count to ten in Hungarian.
 
 Today we went on a little walk to see some trees that have been yarnbombed --
 covered in yarn. And I learned another wild edible, New Jersey tea. It grows

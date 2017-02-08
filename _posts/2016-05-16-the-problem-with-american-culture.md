@@ -16,4 +16,4 @@ categories:
 ---
 
 The mainstream meme strain drains steam and stains dreams.
-
+{: .no-drop }

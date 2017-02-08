@@ -107,7 +107,7 @@ The next day, we walked to the local cafe, and on the way we saw squirrels
 running around, gathering nuts, climbing on people’s houses. I felt like I knew
 them on a much deeper level than I had before. Now that I’d seen one up close,
 and I’d felt its fur and seen its four big teeth—just four!—and even checked
-what it was eating, I could imagine *being *these squirrels. Jumping
+what it was eating, I could imagine *being* these squirrels. Jumping
 around, finding acorns, grinding them up, just the way my mouth is built to do.
 I looked at them and saw through their eyes.
 

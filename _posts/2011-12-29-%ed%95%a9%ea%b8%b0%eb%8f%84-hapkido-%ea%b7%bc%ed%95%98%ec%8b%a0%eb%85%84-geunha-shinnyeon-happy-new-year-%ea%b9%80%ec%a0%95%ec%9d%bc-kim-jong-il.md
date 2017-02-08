@@ -202,7 +202,7 @@ rank), and also a clerical Buddhist (but I’m not sure if he’s a
 monk—I just know he had cool gray robes). I wandered around speaking weird
 Korean until I noticed that everyone was now facing toward the bell. So I did
 likewise, and a voice came over a loudspeaker from somewhere and announced that
-there would be a countdown (*kaunteudaun *in Korean, so I could tell) and
+there would be a countdown (*kaunteudaun* in Korean, so I could tell) and
 that the monk in charge of the temple would ring the bell first, and that it
 would be rung 33 times. I was proud of myself for deciphering it.
 

@@ -38,7 +38,7 @@ picturing a broad, open, cobblestone square, with beer gardens here and there,
 and people sitting down on benches or whatever to enjoy a leisurely brew. Ha!
 This was a land of giant carnival rides and densely packed concession stands,
 but most importantly, teeming masses and throngs and swarms of people. Most of
-them quite drunk. Many of them wearing *Lederhosen *or *Dirndl*. The
+them quite drunk. Many of them wearing *Lederhosen* or *Dirndl*. The
 first time I saw this clothing I could hardly keep from busting out laughing.
 But at Oktoberfest it’s everywhere, the standard uniform of either the
 local who has a suit of it because tradition calls for it and you wear it at

@@ -51,8 +51,8 @@ being two, but this time we cut out the three-word round and just made round 3
 the round where you spell until you exhaust your strikes. I was fourth on the
 list, and I successfully spelled *organogeny*, which is the process of organs
 forming. Not many people misspelled anything in the first round, but I think at
-least one person did. In the second round I got one right, *legerdemain *(which
-I repeated in a flowery French accent), but screwed up on *bottine *(a little
+least one person did. In the second round I got one right, *legerdemain* (which
+I repeated in a flowery French accent), but screwed up on *bottine* (a little
 French boot thing that women supposedly wore at some point), because I just
 forgot to think, I guess. I could’ve figured out I should use an *o*, but I
 didn’t think about the definition, or about the Spanish word *bota* for “boot”.
@@ -65,7 +65,7 @@ even exist, which they of course shouldn’t. But I still had two strikes, so I
 watched the rest of the round go by.
 
 In round 3 I just really disappointed myself. I got two words right:
-*Pentateuchal* and *mucilaginous*. I spelled *rubefacient* with an *i *(damn
+*Pentateuchal* and *mucilaginous*. I spelled *rubefacient* with an *i* (damn
 schwas!). And then Jen gave me a dirty, unanalyzable word: *sticomythia*. It
 has to do with telling stories back and forth, so the *myth* part was obvious,
 but where the hell was I supposed to have heard the root for talking back and

@@ -19,8 +19,8 @@ categories:
 Korea days has started up a new blog, and a recent post, “<a
 href="https://seanuptonblogs.wordpress.com/2016/08/15/why-do-you-eat-meat/"
 target="_blank">Why Do You Eat Meat?</a>”, was a little about his recent
-decision to be vegan, and a lot about asking meat-eaters why they *aren’t*
-vegan. He wrote it two weeks ago, but I’ve finally gotten around to answering.*
+decision to be vegan, and a lot about asking meat-eaters why they* aren’t 
+*vegan. He wrote it two weeks ago, but I’ve finally gotten around to answering.*
 {: .prefatory }
 
 *Oh, also, this is the second new post this week, in case you didn’t see the

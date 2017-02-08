@@ -41,7 +41,7 @@ turn it in and it’ll stop bothering me once and for all. I decided that I was
 just going to have to have a Barricade Day, where I walled myself off from
 everyone and just wrote. Even so, it took me all of that day, but it’s done at
 least. Now I can blog. And since the application isn’t really exciting, I’ll
-leave that behind and talk about all the stuff I’ve done that *was *exciting.
+leave that behind and talk about all the stuff I’ve done that *was* exciting.
 
 The really big thing that happened was the diversion-vacation that I went on
 with Grandma and Grandpa. This came about as a result of a deal. The deal was

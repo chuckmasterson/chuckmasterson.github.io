@@ -146,7 +146,7 @@ ever see that in America, outside of an organic farm on an intentional
 community? No, and nor would you see produce drying on bamboo mats on the roof
 or by the side of the street. All through the summer stuff is drying all over
 town, sometimes so that you have to step around it on sidewalks so as not to
-squish it: peppers, *chwinamul*, *deodeok *roots, greens I
+squish it: peppers, *chwinamul*, *deodeok* roots, greens I
 haven’t learned anything about. This part of Korea’s culture is
 unfortunately ceding to a youth that wants a machine for everything, but for
 the time being I can still see the workers who are putting up a building in

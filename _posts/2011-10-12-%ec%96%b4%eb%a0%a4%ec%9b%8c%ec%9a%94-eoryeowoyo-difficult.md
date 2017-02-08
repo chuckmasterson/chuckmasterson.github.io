@@ -47,7 +47,7 @@ peed-on-my-lawn dog the man bit.” This gets really awkward when the
 sentences get elaborate. “The dog that I bought earlier from the flea
 market where they have ice cream just bit the man in the expensive-looking
 suit” becomes “The
-I-bought-earlier-from-the-_they-have-ice-cream_-flea-market dog the
+I-bought-earlier-from-the-*they-have-ice-cream*-flea-market dog the
 wearing-an-expensive-looking-suit man bit.” Or, “I dreamt that you
 were a robot” becomes “I a you-were-a-robot dream dreamt.”
 Prepositions are backwards too, which means really they’re what you could

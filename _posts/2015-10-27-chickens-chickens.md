@@ -53,7 +53,7 @@ Nancie’s and a surly but sturdy Norwegian stranger we’d hired, came
 back to Nancie’s house and took the whole works apart. 
 
 {% include fig.html src="20150925_103105.jpg"
-caption="http://4.bp.blogspot.com/-k-vuWq1Aj7w/Vi79x8qiQlI/AAAAAAAADEA/7fGnvRedMaA/s640/20150925_103105.jpg"
+caption="Peter and I start searching for the screws holding this thing together."
 %}
 
 The chicken run came apart without too much effort, just a lot of unfastening
@@ -70,10 +70,9 @@ built with thoughtfully placed handles and disassembly instructions.
 
 First we raked out all the straw left over from the last tenants.  
 
-{% include fig.html src="20150925_115214.jpg" %}
-
-Check out the nest boxes in the back, and the heater on the roof, which Nancie
-included with our package deal.    
+{% include fig.html src="20150925_115214.jpg" caption="Check out the nest boxes
+in the back, and the heater on the roof, which Nancie included with our package
+deal." %}
 
 Then we pulled up the floor looking for how to detach the coop from the
 platform it was on.  

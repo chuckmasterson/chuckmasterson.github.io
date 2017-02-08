@@ -31,21 +31,21 @@ you mix it up to eat it, the bowl from above looks like a pie chart (a pie
 chart with a fried egg in the center). I guess they don’t bother with
 all that separation in the rations. 
   
-{% include fig.html src="Forced%2B068.jpg" %}
+{% include fig.html src="Forced 068.jpg" %}
 
 Here are a few pictures of Myeongdong, the main shopping district for
 fashionable tweens in Seoul. It is an amusing place.
 
-{% include fig.html src="Forced%2B006.jpg" %}
+{% include fig.html src="Forced 006.jpg" %}
 
-{% include fig.html src="Forced%2B007.jpg" %}
+{% include fig.html src="Forced 007.jpg" %}
 
-{% include fig.html src="Forced%2B008.jpg" %}
+{% include fig.html src="Forced 008.jpg" %}
 
 (I think this one may actually be in Chuncheon, but it’s in
 the same spirit.)
 
-{% include fig.html src="Forced%2B031.jpg" %}
+{% include fig.html src="Forced 031.jpg" %}
 
 This is what the street vendor system looks like. These vendors are
 everywhere, but in Myeongdong they aren’t too far away from some kind of
@@ -56,9 +56,9 @@ flat caps, or there must be a *huge* demand for flat caps among the
 foreigner community in Seoul. Or it’s another example of how Korean
 economics don’t really make sense.  
 
-{% include fig.html src="Forced%2B011.jpg" %}
+{% include fig.html src="Forced 011.jpg" %}
 
-{% include fig.html src="Forced%2B013.jpg" caption="Some subway advertisements
+{% include fig.html src="Forced 013.jpg" caption="Some subway advertisements
 make more sense than others." %}
 
 * * *
@@ -67,50 +67,50 @@ Here are pictures from the time we went to Sokcho and Seoraksan—I
 wrote about this a few posts ago. First here’s what the zipline was like.
 We were this high up:
 
-{% include fig.html src="Forced%2B016.jpg" %}
+{% include fig.html src="Forced 016.jpg" %}
 
 And we went over this:
 
-{% include fig.html src="Forced%2B018.jpg" %}
+{% include fig.html src="Forced 018.jpg" %}
 
 Here’s Natalie.
 
-{% include fig.html src="Forced%2B020.jpg" %}
+{% include fig.html src="Forced 020.jpg" %}
 
 There goes Natalie.  
 
-{% include fig.html src="Forced%2B021.jpg" %}
+{% include fig.html src="Forced 021.jpg" %}
 
 While looking for a restaurant or a taxi, we accidentally came across this
 impossible place.
 
-{% include fig.html src="Forced%2B022.jpg" %}
+{% include fig.html src="Forced 022.jpg" %}
 
-{% include fig.html src="Forced%2B023.jpg" %}
+{% include fig.html src="Forced 023.jpg" %}
 
-{% include fig.html src="Forced%2B024.jpg" caption="(Sean and Natalie.)" %}
+{% include fig.html src="Forced 024.jpg" caption="(Sean and Natalie.)" %}
 
-{% include fig.html src="Forced%2B025.jpg" %}
+{% include fig.html src="Forced 025.jpg" %}
 
-{% include fig.html src="Forced%2B026.jpg" %}
+{% include fig.html src="Forced 026.jpg" %}
 
-{% include fig.html src="Forced%2B027.jpg" %}
+{% include fig.html src="Forced 027.jpg" %}
 
-{% include fig.html src="Forced%2B028.jpg" %}
+{% include fig.html src="Forced 028.jpg" %}
 
 Later on, back in town, I took a walk around and looked at things.
 I wasn’t surprised to learn that fishing is important to Yangyang.
 
-{% include fig.html src="Forced%2B029.jpg" %}
+{% include fig.html src="Forced 029.jpg" %}
 
 I was less able to explain this large-balled bull.
 
-{% include fig.html src="Forced%2B030.jpg" %}
+{% include fig.html src="Forced 030.jpg" %}
 
 The following morning we went to Seoraksan. Here are the other three
 considering the enormity of this cable car.  
 
-{% include fig.html src="Forced%2B034.jpg" %}
+{% include fig.html src="Forced 034.jpg" %}
 
 As I recounted before, Sean and I decided the cable car was for sissies, so we
 took the cool way and climbed up to Ulsan Rock. (This is also a part of
@@ -119,54 +119,54 @@ mountain, but rather a sort of complex of peaks all answering to their own
 names and also to Seoraksan.) On the way, we passed a giant Buddha that just
 happened to be there.
 
-{% include fig.html src="Forced%2B037.jpg" %}
+{% include fig.html src="Forced 037.jpg" %}
 
 To contrast with the serenity of the previous shot, here I
 demonstrate my ability to look like a total yokel.
 
-{% include fig.html src="Forced%2B036.jpg" %}
+{% include fig.html src="Forced 036.jpg" %}
 
 Our destination.
 
-{% include fig.html src="Forced%2B039.jpg" %}
+{% include fig.html src="Forced 039.jpg" %}
 
 When we got closer, it started to dawn on us that this was a
 serious rock.
 
-{% include fig.html src="Forced%2B044.jpg" %}
+{% include fig.html src="Forced 044.jpg" %}
 
 I desperately wanted to do this.  
 
-{% include fig.html src="Forced%2B045.jpg" %}
+{% include fig.html src="Forced 045.jpg" %}
 
 I believe I told you that this hike was crowded, but I don’t know if I
 was able to convey to you the severity of the situation. This is what I meant.
 *This*, as I said, is what happens when there are 50 million people in a
 small country and you convince them all that one mountain is the very best.
 
-{% include fig.html src="Forced%2B046.jpg" %}
+{% include fig.html src="Forced 046.jpg" %}
 
-{% include fig.html src="Forced%2B047.jpg" %}
+{% include fig.html src="Forced 047.jpg" %}
 
 But if you can ignore all the humanity for a moment, you can see
 why the ordeal is worth it. Please click on this one to enlarge it.
 
-{% include fig.html src="Forced%2B048.jpg" %}
+{% include fig.html src="Forced 048.jpg" %}
 
-{% include fig.html src="Forced%2B049.jpg" %}
+{% include fig.html src="Forced 049.jpg" %}
 
-{% include fig.html src="Forced%2B055.jpg" %}
+{% include fig.html src="Forced 055.jpg" %}
 
-{% include fig.html src="Forced%2B051.jpg" %}
+{% include fig.html src="Forced 051.jpg" %}
 
-{% include fig.html src="Forced%2B053.jpg" %}
+{% include fig.html src="Forced 053.jpg" %}
 
-{% include fig.html src="Forced%2B059.jpg" %}
+{% include fig.html src="Forced 059.jpg" %}
 
 Unfortunately, the Korean apathy toward nature stretched even to
 here.
 
-{% include fig.html src="Forced%2B060.jpg" %}
+{% include fig.html src="Forced 060.jpg" %}
 
 It puzzles me. They keep the insides of their buildings so clean. Amanda
 and I have to sweep the classroom every day before the end of school.
@@ -187,7 +187,7 @@ somewhere.
 Back at the base, Sean noted that his guidebook had a discrepancy from
 reality. He’s pointing at it with his thumb, if you enlarge this.  
 
-{% include fig.html src="Forced%2B067.jpg" %}
+{% include fig.html src="Forced 067.jpg" %}
 
 * * *
 
@@ -197,16 +197,16 @@ once in a while you see evidence that a lot of Koreans just don’t get it.
 The C here didn’t fall off, it was just never there. I know because there
 was another sign identical to this one that also didn’t have the C.
 
-{% include fig.html src="Forced%2B070.jpg" %}
+{% include fig.html src="Forced 070.jpg" %}
 
 And here’s Sachangni in the fall.
 
-{% include fig.html src="Forced%2B071.jpg" %}
+{% include fig.html src="Forced 071.jpg" %}
 
 The statue of the Buddha that we have next to the temple
 overlooking town.
 
-{% include fig.html src="Forced%2B074.jpg" %}
+{% include fig.html src="Forced 074.jpg" %}
 
 I biked up here the other day to stretch my legs and see a view that
 wasn’t the one from my window. I met a soldier there, and we each spoke a
@@ -222,6 +222,6 @@ and took it home.
 
 The next day I decided I believed him about the worms.
 
-{% include fig.html src="Forced%2B077.jpg" %}
+{% include fig.html src="Forced 077.jpg" %}
 
 

@@ -50,7 +50,7 @@ my entire trip who came right out and said that they didn’t want to carry
 a hitchhiker just because he was a hitchhiker, rather than because their
 trucking company didn’t let them or because their car was already full to
 the brim or whatever. The other hundred people who stopped at that station were
-all going *aquí al lado. *But I did meet some other luckless hitchhikers, a
+all going *aquí al lado.* But I did meet some other luckless hitchhikers, a
 German couple named Elmi and Emmy, with chaotic dreads and exuberantly colored
 clothes. As a courtesy they hitched a little further on from me, but they were
 really just going through the motions; we all knew it was too late and the spot
@@ -267,7 +267,7 @@ The next day was November 14th, the day of the 14N Vaga General (Catalan for
 Because the subway and tram workers were on strike too. And the center of
 Barcelona, where the *manifestación* would be, was two hours away on foot.
 I wandered around indecisive. Along the way I found poster for the local
-*manifestación *and march* *of this particular neighborhood (which goes by
+*manifestación* and march of this particular neighborhood (which goes by
 the entertaining name of Esplugues de Llobregat). I was already late, but with
 no better options, I decided to go where it had been and see if I could figure
 out where I should go from there on foot.
@@ -300,8 +300,8 @@ ahead of us and the odd cops on foot on either side of us. But I guess they had
 resigned to letting the bloc do its thing unimpaired, because they kept that
 distance and didn’t beat anyone, at least that I saw. We chanted as we
 walked: *Tenemos solución: ¡Bankeros a prisión!* (We have the solution: Bankers
-to prison!)* ¡No es crisis, es capitalismo! *(It’s not a crisis,
-it’s capitalism!)* ¡An, anti, anticapitalistas!* People along the
+to prison!) *¡No es crisis, es capitalismo!* (It’s not a crisis,
+it’s capitalism!) *¡An, anti, anticapitalistas!* People along the
 road would shout out encouragement to us, or join in the march, or chant along
 with us.  
 
@@ -455,7 +455,7 @@ for Flame*, a weird prehistorical movie about grunting Neanderthals trying to
 find a flame to carry back to their homeland (they had inexplicably decided to
 live in the middle of a rainy bog). They come across a tribe of *Homo sapiens*,
 who are comparatively the new kid in town, and learn from them that it’s
-possible to *make *fire instead of carrying it forever; they also somehow charm
+possible to *make* fire instead of carrying it forever; they also somehow charm
 a human woman (who spends the whole film naked) back to their bog, with time on
 the journey back for drama and animalesque sex. I also talked with Daz and some
 of the other people there, but I had an early morning, so I went to bed far too

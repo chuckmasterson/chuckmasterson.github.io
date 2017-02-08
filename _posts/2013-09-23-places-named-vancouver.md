@@ -25,7 +25,7 @@ Portland offers, I’ve found myself there three of the four days that
 I’ve been in town. I think I’m done now, though: I was looking for
 two books to see me through for the rest of the time I’ll be
 traveling—nice long ones that’ll keep me busy for a while if there are
-boring moments. I picked up *Crime and Punishment *and *Foucault’s
+boring moments. I picked up *Crime and Punishment* and *Foucault’s
 Pendulum*. That ought to do it. 
 
 And now let us move a bit back in time, because after all I’m still not
@@ -107,7 +107,7 @@ people dare each other to eat. (For that you want [silkworm
 pupae](http://3.bp.blogspot.com/-PkP8vEz1wwY/UFbNN3ul3jI/AAAAAAAAALo/DEQe3n8lczg/s1600/Beondegi.jpg).)
 It’s actually, in my opinion, extremely delicious, not to mention a good way to
 use the leftover blood and intestines from a pig. I hadn’t had any since the
-last time I went to Sachangni’s *oiljang *and got a heaping Styrofoam takeout
+last time I went to Sachangni’s *oiljang* and got a heaping Styrofoam takeout
 full of it and knew I wouldn’t see soondae again for a long time. So I went to
 the Richmond Night Market, the day after I visited Grandma and Grandpa and
 Uncle Howard and Aunt Lois at their hotel right near the market. (The

@@ -50,13 +50,13 @@ time. That will make the hat a little more practical. And once I’ve got
 it smaller, it might not look like I killed an entire forest’s worth of
 cute woodland creatures to get the fur.
 
-{% include fig.html src="Oregon%2BEtc%2B035.jpg" %}
+{% include fig.html src="Oregon Etc 035.jpg" %}
 
 
 But damn me if it’s not the warmest hat on the face of the planet. 
 
 \#2: A stamp. A couple weeks ago it struck me that it’d be pretty cool to
-have an *ex libris *(Latin for “from the books [of]”) stamp
+have an *ex libris* (Latin for “from the books [of]”) stamp
 with my name on it, so I could stamp my many books that I have. *Ex
 libris* stamps (or woodblocks or glue-in inserts) have a long but not widely
 known history. People have been marking their books with them for hundreds of
@@ -80,14 +80,14 @@ pretty straightforward, and I’d done one simple practice stamp to get the
 hang of it. It took a long time of carving—I’d say at least three hours,
 though I didn’t really time it—but I came out in the end with this:
 
-{% include fig.html src="Oregon%2BEtc%2B027.jpg" %}
+{% include fig.html src="Oregon Etc 027.jpg" %}
 
 Here’s what my practice stamp looks like when it’s stamped on 
 paper. Wait a moment and there’ll be a picture of the *ex libris*.
 The stamping job is a bit untidy because I didn’t have an inkpad, so I
 had to use Chinese calligraphy ink on a few thicknesses of paper towel.
 
-{% include fig.html src="Oregon%2BEtc%2B032.jpg" %}
+{% include fig.html src="Oregon Etc 032.jpg" %}
 
 \#3: A journal. I’m almost out of room in my current journal. When I got
 it a year ago, I was looking for a change of pace from the ones I’d been
@@ -148,16 +148,16 @@ lot nicer, but the table saw was right there in the garage.
 
 Here’s what it looks like.
 
-{% include fig.html src="Oregon%2BEtc%2B016.jpg" %}
+{% include fig.html src="Oregon Etc 016.jpg" %}
 
-{% include fig.html src="Oregon%2BEtc%2B018.jpg" caption="Front grocery bag
+{% include fig.html src="Oregon Etc 018.jpg" caption="Front grocery bag
 endpaper, with my *ex libris* stamp on it!" %}
 
-{% include fig.html src="Oregon%2BEtc%2B020.jpg" caption="Inside." %}
+{% include fig.html src="Oregon Etc 020.jpg" caption="Inside." %}
 
-{% include fig.html src="Oregon%2BEtc%2B023.jpg" caption="Back endpaper." %}
+{% include fig.html src="Oregon Etc 023.jpg" caption="Back endpaper." %}
 
-{% include fig.html src="Oregon%2BEtc%2B025.jpg" caption="What the edges look
+{% include fig.html src="Oregon Etc 1025.jpg" caption="What the edges look
 like. Pretty ragged, really. But when Micah saw them, he said, “Whoa, how’d you
 do that?” He thought it looked really cool." %}
 
