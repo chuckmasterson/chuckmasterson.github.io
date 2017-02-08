@@ -265,14 +265,7 @@ article.post {
       content: ']';
     }
   }
-  .footnotes:before {
-    content: '';
-    display: block;
-    margin: $spacing-unit/2 auto;
-    width: 80%;
-    border-top: $green-border-thin;
-  }
-
+  // .footnotes (the list) is later down in a more convenient place
 }
 
 p.filing {
@@ -409,7 +402,9 @@ nav.post-to-post-nav {
 .reply-button + .comment,
 .comment.child + .comment.child,
 .reply-button + #respond,
-#comments + #respond {
+#comments + #respond,
+.footnotes {
+// footnotes are here just because it's convenient, they're unrelated
   &:before {
     display: block;
     width: 8px; height: 8px;
