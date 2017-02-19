@@ -1,16 +1,27 @@
-{% capture cloudinary_escaped_src %}{{ include.src
-  | replace: "'", "_"
-  | replace: " ", "_"
-}}{% endcapture %}
+{% if jekyll.environment == "local" or include.elsewhere %}
+  {% assign src_to_use = include.src %}
+  {% assign img_root = site.image_dirs.local.root %}
+  {% assign lg_dir = site.image_dirs.local.large %}
+  {% assign sm_dir = site.image_dirs.local.small %}
+{% else %}
+  {% capture src_to_use %}{{ include.src
+    | replace: "'", "_"
+    | replace: " ", "_"
+  }}{% endcapture %}
+  {% assign img_root = site.image_dirs.cloudinary.root %}
+  {% assign lg_dir = site.image_dirs.cloudinary.large %}
+  {% assign sm_dir = site.image_dirs.cloudinary.small %}
+{% endif %}
+
 <figure class="image-fig {{ include.class }}">
     <a href="{% if include.elsewhere %}{{ include.src }}
-      {% else %}{{ site.imageroot }}{{ site.imagelarge }}{{ cloudinary_escaped_src }}
+      {% else %}{{ img_root }}{{ lg_dir }}{{ src_to_use }}
       {% endif %}">
       <img
         {% if include.elsewhere %}
             src="{{ include.src | uri_escape }}"
         {% else %}
-            src="{{ site.imageroot }}{{ site.imagesmall }}{{ cloudinary_escaped_src }}"
+            src="{{ img_root }}{{ sm_dir }}{{ src_to_use }}"
         {% endif %}
       />
   </a>

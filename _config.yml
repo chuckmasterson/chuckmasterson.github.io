@@ -6,6 +6,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chuckmasterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # image URLs. Used in fig.html.
+image_dirs:
+  local:
+    root: "/assets/images"
+    large: "/lg/"
+    small: "/sm/"
+  cloudinary:
+    root: "http://res.cloudinary.com/chuckmasterson/image/upload"
+    large: "/"
+    small: "/c_limit,h_450,w_450/"
+
 imageroot: "http://res.cloudinary.com/chuckmasterson/image/upload"
                                     # local: "/assets/images"
 imagelarge: "/"                     # local: "/lg/"
@@ -26,6 +36,7 @@ gems:
   - jekyll-feed
   - github-pages
   - jekyll-redirect-from
+  - jekyll-seo-tags
 exclude:
   - Gemfile
   - Gemfile.lock
