@@ -6,12 +6,87 @@ permalink: /misc/
 
 ## Lists
 
-One list so far. More lists to come. 
+### Lists on this page:
+
+* [My favorite words](#my-favorite-words)
+* [Special moments in music](#special-moments)
+{: .inline-list }
+
+### My favorite words.
+
+*   tantamount 
+*   ramshackle 
+*   dropsy 
+*   throttle (verb) 
+*   ax 
+*   insinuate 
+*   sojourn 
+*   wither 
+*   asunder 
+*   knack 
+*   void 
+*   insipid 
+*   flamboyant 
+*   quail (verb) 
+*   hoick 
+*   hell-for-leather 
+*   bewilder 
+*   countermand 
+*   foist 
+*   underwhelming 
+*   absurd 
+*   jettison 
+*   (re)coagulate (for a group of people) 
+*   filter (verb) 
+*   erasers 
+*   throughput 
+*   parallax 
+*   smarmy 
+*   analemma 
+*   elixir 
+*   nary 
+*   blizzard 
+*   presage 
+*   discombobulate 
+*   bleak 
+*   Transjordanian 
+*   disintegrate 
+*   debacle 
+*   nomad 
+*   dreary 
+*   erode 
+*   obsidian 
+*   brandish 
+*   kiosk 
+*   pockmark 
+*   marbles 
+*   eerie 
+*   slew 
+*   rinky-dink 
+*   blimp 
+*   oak 
+*   buildering (great word, great activity too) 
+*   botch 
+*   cobalt 
+*   nixtamalization 
+*   duh 
+*   disgorge 
+*   vault 
+*   thaw 
+*   consort 
+*   haunch 
+*   dulcimer 
+*   zither 
+*   dirigible 
+*   zeppelin 
+*   blimp
+
 
 * * *
 
-Bits of music that always give me an involuntary
-spasm of being amazed.
+### Special moments.
+
+Bits of music that always give me an involuntary spasm of being amazed.
 
 1. Gustav Holst, _The Planets_, Mars. The moment is about 6½ minutes in,
    depending on the performance. All the chaos, built up the whole time by the
