@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indizhaa Iwidi Iskigamizagining"
+title: "Indizhaa Iwidi Iskigamiziganing"
 subtitle: (I’m going out to sugarbush)
 ---
 
