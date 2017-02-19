@@ -2,6 +2,9 @@
 layout: post
 title: "Indizhaa Iwidi Iskigamiziganing"
 subtitle: (I’m going out to sugarbush)
+categories:
+ - language
+ - land skills
 ---
 
 I might have mentioned it, but I’m studying the Ojibwe language. One thing I’ve learned is the names
