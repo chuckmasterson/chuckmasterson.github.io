@@ -24,7 +24,7 @@ whose&nbsp;mind travels along the same unorthodox lines as mine. Someone
 unattainable, basically. But then I found her. 
 
 {% include fig.html
-src="SAM_1338.JPG"
+src="SAM_1338.jpg"
 caption="While we were exploring a drainage outflow waterfall together."
 %}
 

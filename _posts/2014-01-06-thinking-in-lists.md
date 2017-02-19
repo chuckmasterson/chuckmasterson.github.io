@@ -57,7 +57,7 @@ looking forward to doing when I’m in that place.
 * Drawing stuff. 
 * Making a Mongolian _deel_.
 
-  {% include fig.html src="Adventure 242.JPG" caption="These are two guys I
+  {% include fig.html src="Adventure 242.jpg" caption="These are two guys I
   met in Mongolia. The one on the right is wearing a *deel*." %}
 
   I thought these were pretty much the greatest thing when I went to Mongolia.

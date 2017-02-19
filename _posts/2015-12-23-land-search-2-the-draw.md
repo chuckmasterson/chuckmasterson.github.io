@@ -82,7 +82,7 @@ it, and a chicken enclosure. The lettuce and the chickens both looked happy.
 The house, meanwhile, looked better and better as I got closer. 
 
 
-{% include fig.html src="IMG_1698.JPG" caption="(We approached from the front
+{% include fig.html src="IMG_1698.jpg" caption="(We approached from the front
 left, though. This picture being from the front right.)" %}
 
 
@@ -92,7 +92,7 @@ quilted insulation. And when we rounded the corner I got a better look at the
 greenhouse, which envelops the front of the house. The walls themselves were
 sculpted of soft, friendly cob.  This house had been built with love. 
 
-{% include fig.html src="IMG_1699.JPG" %}
+{% include fig.html src="IMG_1699.jpg" %}
 
 
 So early indications were good that we had found a place we’d like. We couldn’t
@@ -194,10 +194,10 @@ explained, is basswood, a tree that Misty and I both know, that offers you
 leaves that stay green and tasty until they drop, with no refrigeration or
 pesticides required.
 
-{% include fig.html src="IMG_1704.JPG" %}
+{% include fig.html src="IMG_1704.jpg" %}
 
 
-{% include fig.html src="IMG_1702.JPG" %}
+{% include fig.html src="IMG_1702.jpg" %}
 
 At the back porch we had a view of these gardens, as well as the skinned
 carcasses hanging up to freeze from the porch roof, and the woodshed. Shyam
@@ -222,7 +222,7 @@ fine details.
 
 
 
-{% include fig.html src="IMG_1691.JPG" caption="Shyam explains something
+{% include fig.html src="IMG_1691.jpg" caption="Shyam explains something
 awesome to Misty; Lou the dog provides fluffiness." %}
 
 
@@ -234,7 +234,7 @@ trees that I would’ve guessed impossible. And in communities of untold numbers
 of species—all planted in careful chaos, just the way nature would want.
 
 
-{% include fig.html src="IMG_1689.JPG" %}
+{% include fig.html src="IMG_1689.jpg" %}
 
 Back further the land sloped down in a series of “draws”—stormwater
 gullies—that flowed down eventually into the Raspberry River, which once ran
@@ -263,19 +263,19 @@ saw us. We greeted the draft horse, a mare as sturdy as four trees, and her
 little friend, a pony the size of a big dog.
 
 
-{% include fig.html src="IMG_1695.JPG" caption="Astute observers will note that
+{% include fig.html src="IMG_1695.jpg" caption="Astute observers will note that
 the sheep in this photo is not the pony I mentioned." %}
 
 
 
-{% include fig.html src="IMG_1696.JPG" caption="The pony does exist, though."
+{% include fig.html src="IMG_1696.jpg" caption="The pony does exist, though."
 %}
 
 
 Once we’d satisfied ourselves with animal time, Shyam took us up and around to
 see the swamp where the cattails and other edible swamp plants grow, 
 
-{% include fig.html src="IMG_1697.JPG" class="in-para" %}
+{% include fig.html src="IMG_1697.jpg" class="in-para" %}
 
 and the swimming hole and the other outdoor bedrooms, as well as an entire
 house that had been built by people who’d stayed in previous years. (They
@@ -285,7 +285,7 @@ makes it clear that they don’t want to be the royalty of the Draw, issuing
 edicts; they want it to be a real egalitarian community.)
 
 
-{% include fig.html src="IMG_1693%2B%25282%2529.JPG" caption="Basketball, Shyam
+{% include fig.html src="IMG_1693.jpg" caption="Basketball, Shyam
 says, is like meditation for Nat." %}
 
 
