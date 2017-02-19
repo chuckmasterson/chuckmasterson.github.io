@@ -10,7 +10,7 @@ redirect_from:
   - /2004/12/snow-and-also-christmas.html
 categories:
   - creekwalking
-  - cold
+  - fun in the cold
 
 ---
 I knew there was some sort of snowstorm going to happen, but I didn’t know what

@@ -9,7 +9,7 @@ blogger_blog:
 redirect_from:
   - /2009/12/replaceability.html
 categories:
-  - philosophy
+  - deep thoughts
   - meat
 
 ---

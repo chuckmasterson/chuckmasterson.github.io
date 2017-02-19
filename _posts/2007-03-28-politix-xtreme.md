@@ -10,7 +10,6 @@ redirect_from:
   - /2007/03/politix-xtreme_27.html
 categories:
   - politics
-  - USA
   - creekwalking
 
 ---

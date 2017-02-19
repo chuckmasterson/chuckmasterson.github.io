@@ -10,7 +10,7 @@ redirect_from:
   - /2008/08/on-harebrainedness.html
 categories:
   - land skills
-  - philosophy
+  - deep thoughts
   - language
 
 ---

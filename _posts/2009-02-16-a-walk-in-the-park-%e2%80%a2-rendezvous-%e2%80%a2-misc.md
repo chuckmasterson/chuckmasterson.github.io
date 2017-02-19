@@ -11,7 +11,7 @@ redirect_from:
 categories:
   - adventure
   - prairie
-  - snow
+  - fun in the cold
   - climbing
 
 ---

@@ -10,7 +10,7 @@ redirect_from:
   - /2015/08/fragility.html
 categories:
   - new world
-  - philosophy
+  - deep thoughts
   - civilization
 
 ---

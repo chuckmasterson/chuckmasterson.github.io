@@ -10,7 +10,7 @@ redirect_from:
   - /2008/02/demokrasy.html
 categories:
   - college
-  - cold
+  - fun in the cold
   - barefooting
 
 ---
