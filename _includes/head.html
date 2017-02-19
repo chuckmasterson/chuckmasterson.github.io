@@ -26,8 +26,9 @@
   <script src="/assets/js/jquery.magnific-popup.js"></script>
   <script>
   $(document).ready(function(){
-      $(".menu-icon").click(function(){
-        $(".page-list").toggleClass("palm-show");
+      $(".menu-button, .close-button").click(function(){
+        $("#sidebar").toggleClass("open");
+        return false;
       });
   });
   </script>

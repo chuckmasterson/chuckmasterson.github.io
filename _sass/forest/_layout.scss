@@ -111,6 +111,11 @@
 /**
  * Site footer
  */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 .site-footer {
   border-top: $brown-border;
   color: $text-color-dull;
@@ -167,6 +172,8 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  flex: 1;
+  // works with body { display: flex; } to expand main to fill available space
 }
 
 .page-heading {
@@ -318,7 +325,7 @@ header.post-header {
     font-size: 26px;
     padding: 30px 20px;
   }
-  .post-content p {
+  .post-content {
     font-size: 12.5px;
   }
 }
@@ -467,8 +474,8 @@ a.reply-button {
 
 fieldset {
   border: none;
-  margin: 0 0 $spacing-unit/3 0;
-  padding: 0;
+  margin: 0;
+  padding: 0 0 $spacing-unit/3 0;
 }
 label {
   font-family: $title-font-family;
@@ -517,7 +524,10 @@ aside#sidebar {
   nav {
     border-bottom: $green-border-thin; 
   }
-  nav a {
+  section.mobile-controls {
+    display: none;
+  }
+  section.mainnav a {
     display: block;
     padding: 5px 13px;
     &.active {
@@ -537,7 +547,7 @@ aside#sidebar {
       }
     }
   }
-  .sidebar-other {
+  section.sidebar-other {
     padding: 10px 13px;
     h4 {
       font-family: $title-font-family;
@@ -553,10 +563,50 @@ aside#sidebar {
 
 @include media-query($on-tablet) {
   aside#sidebar {
-    display: none;
+    display: block;
+    position: fixed;
+    width: 250px;
+    max-width: 80vw;
+    z-index: 2;
+    height: 100vh;
+    right: -250px;
+    transition: right 0.3s;
+    top: 0;
+    &:target, &.open {
+      right: 0;
+      box-shadow: 0 0 5px #000;
+      transition: right 0.3s;
+    }
+    section.mobile-controls {
+      display: block;
+      padding: 5px 13px;
+      border-bottom: $green-border-thin;
+      font-family: $title-font-family;
+
+      a.close-button {
+        font-size: 18px;
+        display: block;
+        padding: 5px 0;
+        span { float: right; }
+      }
+
+      a.menu-button {
+        display: block;
+        position: absolute;
+        left: -49px;
+        bottom: $spacing-unit;
+        padding: 10px;
+        border: $green-border;
+        border-bottom: none;
+        line-height: 14px;
+        border-radius: 6px 6px 0 0;
+        background-color: $dark-background-color;
+        transform: rotate(-90deg);
+      }
+    }
   }
-  article.post {
-    margin-right: 0;
+  .main-content {
+    padding-right: 0;
   }
 }
 
@@ -568,6 +618,8 @@ aside#sidebar {
   @extend %clearfix;
   & + .wayfinding-block {
     border-top: $green-border-thin;
+    margin-top: 20px;
+    padding-top: 20px;
   }
 }
 .wayfinding-choices, .wayfinding-results {
@@ -671,7 +723,7 @@ li.oct,li.nov,li.dec {
     font-size: 21px;
 
     @include media-query($on-tablet) {
-      font-size: 28px;
+      font-size: 19px;
     }
   }
 
@@ -679,7 +731,7 @@ li.oct,li.nov,li.dec {
     font-size: 16px;
 
     @include media-query($on-tablet) {
-      font-size: 22px;
+      font-size: 14.5px;
     }
   }
 
@@ -689,7 +741,7 @@ li.oct,li.nov,li.dec {
     font-style: italic;
 
     @include media-query($on-tablet) {
-      font-size: 18px;
+      font-size: 14.5px;
     }
   }
 
@@ -698,7 +750,7 @@ li.oct,li.nov,li.dec {
     letter-spacing: 1.5px;
 
     @include media-query($on-tablet) {
-        font-size: 18px;
+      font-size: 12.5px;
     }
   }
 
@@ -707,7 +759,7 @@ li.oct,li.nov,li.dec {
     font-feature-settings: "smcp" 1;
 
     @include media-query($on-tablet) {
-        font-size: 18px;
+      font-size: 14.5px;
     }
   }
 }

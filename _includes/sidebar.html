@@ -1,24 +1,30 @@
 <nav>
-  {% for item in site.data.mainnav %}
-    {% assign class = nil %}
-    {% if item.url == '/' %}
-      {% if page.url == '/' or page.url contains '/blog/' %}
+  <section class="mobile-controls">
+    <a class="menu-button" href="#sidebar">Menu</a>
+    <a class="close-button" href="#">Close<span>×</span></a>
+  </section>
+  <section class="mainnav">
+    {% for item in site.data.mainnav %}
+      {% assign class = nil %}
+      {% if item.url == '/' %}
+        {% if page.url == '/' or page.url contains '/blog/' %}
+          {% assign class = 'active' %}
+        {% endif %}
+      {% elsif page.url contains item.url %}
         {% assign class = 'active' %}
-      {% endif %}
-    {% elsif page.url contains item.url %}
-      {% assign class = 'active' %}
-  {% endif %}
-  <a class="{{ class }}" href="{{ item.url | relative_url }}">
-    <span class="title">{{ item.title }}</span>
-    <span class="description">
-      {% if class == nil %}
-      {{ item.description }}
-      {% else %}
-      You Are Here
-      {% endif %}
-    </span>
-  </a>
-  {% endfor %}
+    {% endif %}
+    <a class="{{ class }}" href="{{ item.url | relative_url }}">
+      <span class="title">{{ item.title }}</span>
+      <span class="description">
+        {% if class == nil %}
+        {{ item.description }}
+        {% else %}
+        You Are Here
+        {% endif %}
+      </span>
+    </a>
+    {% endfor %}
+  </section>
 </nav>
 {% if site.data.othernav %}
 <section class="sidebar-other">
