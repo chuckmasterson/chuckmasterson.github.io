@@ -14,8 +14,9 @@
   background-color: $background-color;
   border-bottom: $green-border;
   padding: 15px 0;
-  z-index: 1;
+  z-index: 2;
   position: relative;
+  box-shadow: 0 0 5px #000;
 
   .tagline {
     color: $grey-color;
@@ -39,7 +40,7 @@
     }
   }
 }
-
+/*
 .site-nav {
   font-family: $title-font-family;
 
@@ -105,7 +106,7 @@
     }
   }
 }
-
+*/
 
 
 /**
@@ -306,13 +307,17 @@ p.filing {
 
 header.post-header {
   font-family: $title-font-family;
+  em, strong {
+    font-family: $base-font-family;
+    font-size: 95%;
+  }
   padding: 40px;
   text-align: center;
   color: $pop-color;
   text-shadow: 3px 3px 2px #000;
+  line-height: 1.2;
   h1, h1 a {
     font-size: 26px;
-    line-height: 26px;
     color: $pop-color;
     font-weight: $base-font-weight;
   }
@@ -344,18 +349,25 @@ nav.post-to-post-nav {
     span {
       display: block;
     }
+    p {
+      margin: 0;
+    }
+    em, strong {
+      font-family: $base-font-family;
+      font-size: 95%;
+    }
     width: 50%;
     padding: 5px 15px;
     display: inline-block;
   }
-  .prev-post {
+  .next-post {
     > span:before {
       content: "« ";
     }
     float: left;
     text-align: left;
   }
-  .next-post {
+  .prev-post {
     > span:after {
       content: " »";
     }
@@ -573,7 +585,7 @@ aside#sidebar {
     position: fixed;
     width: 250px;
     max-width: 80vw;
-    z-index: 2;
+    z-index: 1;
     height: 100vh;
     right: -250px;
     transition: right 0.3s;
@@ -602,7 +614,7 @@ aside#sidebar {
         position: absolute;
         left: -57px;
         transform: rotate(-90deg);
-        bottom: $spacing-unit;
+        top: $spacing-unit;
       }
       a.menu-button {
         display: block;

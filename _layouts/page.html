@@ -9,7 +9,7 @@ layout: default
           {{ page.title | escape | markdownify }}
       </h1>
       {% if page.subtitle %}
-      <p class="subtitle">{{ page.subtitle }}</p>
+      <p class="subtitle">{{ page.subtitle | escape | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
       {% endif %}
   </header>
 

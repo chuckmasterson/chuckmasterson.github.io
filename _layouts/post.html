@@ -15,7 +15,7 @@ layout: default
             {{ page.title | escape | markdownify }}
         </h1>
         {% if page.subtitle %}
-            <p class="subtitle">{{ page.subtitle }}</p>
+            <p class="subtitle">{{ page.subtitle | escape | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
         {% endif %}
       </header>
 
@@ -47,13 +47,13 @@ layout: default
 
 </article>
 <nav class="post-to-post-nav">
-  <div class="prev-post">
-    <span>{{ page.previous.date | date: "%b %-d, %Y" }}</span>
-    <a href="{{ page.previous.url }}">{{ page.previous.title | escape }}</a>
-  </div>
   <div class="next-post">
     <span>{{ page.next.date | date: "%b %-d, %Y" }}</span>
-    <a href="{{ page.next.url }}">{{ page.next.title | escape }}</a>
+    <a href="{{ page.next.url }}">{{ page.next.title | escape | markdownify }}</a>
+  </div>
+  <div class="prev-post">
+    <span>{{ page.previous.date | date: "%b %-d, %Y" }}</span>
+    <a href="{{ page.previous.url }}">{{ page.previous.title | escape | markdownify }}</a>
   </div>
   <div class="wayfinding-link">
     Find other posts:
