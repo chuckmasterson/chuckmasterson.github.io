@@ -220,12 +220,14 @@ pre {
   text-align: left;
 }
 .text-center,
-.post-content p.text-center {
+.post-content p.text-center,
+article.comment p.text-center {
   text-align: center;
   text-indent: 0;
 }
 .text-right,
-.post-content p.text-right {
+.post-content p.text-right,
+article.comment p.text-right {
   text-align: right;
   text-indent: 0;
 }

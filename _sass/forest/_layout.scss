@@ -219,7 +219,7 @@ article.post {
   width: 100%;
   margin-bottom: $spacing-unit/2;
 }
-.post-content {
+.post-content, article.comment {
 
   p {
     margin: 0;
@@ -234,11 +234,26 @@ article.post {
   h1+p,h2+p,h3+p,h4+p,h5+p,h6+p,hr+p {
     text-indent: 0;
   }
+  p.text-center, p.text-right {
+    margin: 10px auto;
+  }
   hr {
     border: 0;
     height: $spacing-unit;
     background-color: transparent;
   }
+
+  .footnote {
+      &:before {
+          content: '[';
+      }
+      &:after {
+          content: ']';
+      }
+  }
+  // .footnotes (the list) is later down in a more convenient place
+}
+.post-content {
 
   > p.prefatory + p:not(.prefatory) {
     margin-top: 10px;
@@ -264,15 +279,6 @@ article.post {
       max-height: 85vh;
     }
   }
-  .footnote {
-    &:before {
-      content: '[';
-    }
-    &:after {
-      content: ']';
-    }
-  }
-  // .footnotes (the list) is later down in a more convenient place
 }
 
 p.filing {
