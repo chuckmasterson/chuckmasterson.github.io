@@ -836,6 +836,13 @@ ul.dated-list {
     padding: 2px 8px;
   }
 }
+.gloss {
+  margin: $spacing-unit/3 auto;
+  line-height: 1.2;
+  td {
+    padding: 0 4px;
+  }
+}
 
 /**
  * _includes/fig.html
