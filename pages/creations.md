@@ -29,12 +29,12 @@ I’ve made some fonts!
 
 
 *   [Newt
-    Serif.](https://looseleaf.chuckmasterson.com/newt/) First one
+    Serif.](http://looseleaf.chuckmasterson.com/newt/) First one
     I finished and put up for sale. Whimsical serif.
-*   [Solveig.](https://looseleaf.chuckmasterson.com/solveig/) Stressed
+*   [Solveig.](http://looseleaf.chuckmasterson.com/solveig/) Stressed
     sans-serif. Sort of like Optima but more interesting and a little less
     practical.
-*   [Walleye.](https://looseleaf.chuckmasterson.com/walleye/) Text
+*   [Walleye.](http://looseleaf.chuckmasterson.com/walleye/) Text
     serif with a massive character set covering Cyrillic and polytonic Greek.
 
 ### T-shirts
