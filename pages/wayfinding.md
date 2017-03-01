@@ -48,7 +48,7 @@ $(document).ready(function(){
           <span class="li-date">
             {{ post.date | date: '%b %-d, %Y' }}
           </span>
-          <a href="{{ post.url }}">{{ post.title }}</a></li>
+          <a href="{{ post.url }}">{{ post.title | markdownify | replace: "<p>","" | replace: "</p>","" }}</a></li>
         {% endif %}
         {% endfor %}
         {% endfor %}
@@ -81,7 +81,7 @@ $(document).ready(function(){
           <span class="li-date">
             {{ post.date | date: '%b %-d, %Y' }}
           </span>
-          <a href="{{ post.url }}">{{ post.title }}</a></li>
+          <a href="{{ post.url }}">{{ post.title | markdownify | replace: "<p>","" | replace: "</p>","" }}</a></li>
         {% endif %}
         {% endfor %}
         {% endfor %}
@@ -142,7 +142,7 @@ $(document).ready(function(){
               <span class="li-date">
                 {{ post.date | date: '%b %-d, %Y' }}
               </span>
-              <a href="{{ post.url }}">{{ post.title }}</a></li>
+              <a href="{{ post.url }}">{{ post.title | markdownify | replace: "<p>","" | replace: "</p>","" }}</a></li>
       {% if forloop.last %}
           </ul>
         </div>
