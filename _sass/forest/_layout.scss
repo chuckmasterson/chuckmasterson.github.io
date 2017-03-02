@@ -220,6 +220,9 @@ article.post {
   line-height: 1.8;
   width: 100%;
   margin-bottom: $spacing-unit/2;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
 }
 .post-content, article.comment {
 

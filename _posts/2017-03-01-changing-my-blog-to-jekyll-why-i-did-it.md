@@ -40,7 +40,7 @@ it consistently, and the little colored icon squares you use to get to them show
 to on time when you wake up your phone or your computer. 
 
 Just getting to that point was hard won. It’s true, computers do work pretty well for the things
-that a lot of people really want to do: edit documents, give directions, read email, watch ~~porn~~
+that a lot of people really want to do: edit documents, get directions, read email, watch ~~porn~~
 videos. But consider what it took to achieve that: millions of man-hours; the creation of an entire
 new industrial sector; concomitant factories in poor areas of distant countries; a purgatory period
 of many years in which computers existed but were useless for everyday purposes to all but the most
@@ -134,7 +134,7 @@ And it’s in this same spirit---to finally answer the question I implied in the
 I reprogrammed this blog.
 
 That, of course, doesn’t make much sense if you don’t know how the old system worked or how the new
-one does. So I’ll sum those up very briefly.
+one does. So I’ll sum those up briefly.
 
 **Blogger,** which I just moved away from, is a service run by Google. To write a post I would log
 on, type a bunch of words, and press a big “Publish” button. In the course of that I might also
