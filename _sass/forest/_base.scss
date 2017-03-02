@@ -44,6 +44,11 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 4;
 }
 pre {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
   margin: $spacing-unit/2 0;
   line-height: 1.5;
 }
@@ -233,5 +238,7 @@ article.comment p.text-right {
 }
 .hidden {
   display: none;
-
+}
+.small {
+  font-size: $small-font-size;
 }

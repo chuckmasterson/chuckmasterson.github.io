@@ -14,6 +14,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #b1c3b0 !default;
 $text-color-dull:  darken($text-color, 25%) !default;
+$text-color-bright:lighten($text-color, 15%) !default;
 $background-color: #002800 !default;
 $med-background-color: #0b240b !default;
 $dark-background-color: #001a00 !default;

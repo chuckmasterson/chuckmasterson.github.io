@@ -239,6 +239,9 @@ article.post {
   p.text-center, p.text-right {
     margin: 10px auto;
   }
+  strong {
+    color: $text-color-bright;
+  }
   hr {
     border: 0;
     height: $spacing-unit;
@@ -855,7 +858,7 @@ ul.dated-list {
   margin-right: auto;
   border: $green-border-thin;
   background-color: $med-background-color;
-  a {
+  > a {
     display: block;
     position: relative; 
   }
@@ -878,11 +881,16 @@ ul.dated-list {
   &.white img {
     background-color: #fff;
   }
+  &.left, &.right {
+    width: 50%;
+  }
   &.left {
     float: left;
+    margin: 0 15px 10px 0;
   }
   &.right {
     float: right;
+    margin: 0 0 10px 15px;
   }
 }
 .image-fig-positioning + .image-fig-positioning {
