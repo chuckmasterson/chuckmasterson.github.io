@@ -93,8 +93,8 @@ $(document).ready(function(){
 
 
 <section class="wayfinding-block">
-  <h2 id="date-archive">By Date</h2>
   <div class="wayfinding-choices">
+    <h2 id="date-archive">By Date</h2>
 
     {% for post in site.posts  %}
       {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

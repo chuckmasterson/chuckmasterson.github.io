@@ -645,6 +645,7 @@ aside#sidebar {
 
 .wayfinding-block {
   @extend %clearfix;
+  display: table-row;
   & + .wayfinding-block {
     border-top: $green-border-thin;
     margin-top: 20px;
@@ -653,8 +654,7 @@ aside#sidebar {
 }
 .wayfinding-choices, .wayfinding-results {
   width: 50%;
-  display: inline-block;
-  float: left;
+  display: table-cell;
   @extend %clearfix;
   font-size: $small-font-size;
 }
@@ -671,6 +671,8 @@ aside#sidebar {
   display: none;
   &:target, &.chosen {
     display: block;
+    position: sticky;
+    top: 0;
   }
   &.chosen ~ .wayfinding-section:target {
     display: none;
