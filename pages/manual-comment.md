@@ -44,7 +44,7 @@ $(document).ready(function(){
 });
 
 </script>
-<form action="https://formspree.io/comment@chuckmasterson.com" method="POST">
+<form action="https://formspree.io/comment@mail.chuckmasterson.com" method="POST">
   <fieldset>
   <textarea type="text" rows="6" class="comment-message" id="comment-form-message" placeholder="Your comment" name="text" spellcheck="true"></textarea>
   </fieldset>
