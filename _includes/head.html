@@ -6,7 +6,8 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" media="screen" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" media="print" href="{{ "/assets/print.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/magnific-popup.css" | absolute_url }}">
 
   <link rel="stylesheet" href="{{ "/assets/fonts/Fanwood/web fonts/stylesheet.css" | absolute_url }}">

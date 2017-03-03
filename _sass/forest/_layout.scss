@@ -11,7 +11,7 @@
 }
 
 .site-title {
-  background-color: $background-color;
+  background-color: $text-background-color;
   border-bottom: $green-border;
   padding: 15px 0;
   z-index: 1;
@@ -64,7 +64,6 @@
     padding: 9px 15px;
     box-shadow: 0 1px 5px #111;
     border: $green-border;
-    background-color: $dark-background-color;
     border-radius: 0 0 10px 10px;
     border-top: none;
     position: relative;
@@ -103,7 +102,6 @@
       }
     }
     .page-link.active {
-        background-color: $dark-background-color;
     }
   }
 }
@@ -121,7 +119,7 @@ body {
 .site-footer {
   border-top: $brown-border;
   color: $text-color-dull;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
   padding: $spacing-unit 0;
   p + p {
     margin-top: 10px;
@@ -214,7 +212,7 @@ body {
  */
 article.post {
   border: $brown-border;
-  background-color: $brown-color;
+  background-color: $container-background-color;
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
   line-height: 1.8;
@@ -296,7 +294,7 @@ p.filing {
 }
 
 .post-container {
-  background-color: $background-color;
+  background-color: $text-background-color;
   border-top: 1px solid rgba(0,0,0,.35);
   padding: 0 40px 40px 40px;
   &:first-child {
@@ -352,7 +350,7 @@ header.post-header {
 
 nav.post-to-post-nav {
   border: $brown-border;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
   font-family: $title-font-family;
   .prev-post, .next-post {
     span {
@@ -424,7 +422,7 @@ nav.post-to-post-nav {
     // #respond doesn't get given any special class when moved
     // to child positioning, so have to use sibling selector
     padding-left: $spacing-unit/3;
-    border-left: 5px solid $green-color;
+    border-left: 5px solid $brand-color-dark;
     padding-bottom: $spacing-unit;
     padding-top: $spacing-unit;
   }
@@ -488,7 +486,7 @@ a.reply-button {
   padding: 3px 10px 3px 10px;
   background-color: #001a00;
   font-family: $title-font-family;
-  border: $green-border;
+  border: $brand-border-dark;
   border-left-width: 5px;
   border-radius: 0 15px 15px 0px;
 }
@@ -514,7 +512,7 @@ textarea, input {
   box-shadow: 0px 0px 2px 2px rgba(0,0,0,.25) inset;
   padding: 5px;
   border: 1px solid $brown-color;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
   font-size: $small-font-size;
   color: $grey-color-light;
 }
@@ -547,7 +545,7 @@ aside#sidebar {
   margin-left: -225px;
   float: right;
   border: $green-border;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
   nav {
     border-bottom: $green-border-thin; 
   }
@@ -558,7 +556,7 @@ aside#sidebar {
     display: block;
     padding: 5px 13px;
     &.active {
-      background-color: $background-color;
+      background-color: $text-background-color;
     }
     & + a {
       border-top: $green-border-thin;
@@ -633,7 +631,7 @@ aside#sidebar {
         box-shadow: 0 0 5px #000;
         line-height: 14px;
         border-radius: 6px 6px 0 0;
-        background-color: $dark-background-color;
+        background-color: $text-background-color-dark;
       }
     }
   }
@@ -721,7 +719,7 @@ ul.calendar li {
   position: absolute;
   text-transform: uppercase;
   text-align: center;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
   font-family: $title-font-family;
   a {
     color: $pale-pop-color;
@@ -831,7 +829,7 @@ ul.dated-list {
 }
 .button {
   display: inline-block;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
   border: none;
   padding: 5px 10px;
   border-radius: 6px;
@@ -862,7 +860,7 @@ ul.dated-list {
   margin-left:  auto;
   margin-right: auto;
   border: $green-border-thin;
-  background-color: $med-background-color;
+  background-color: $text-background-color-med;
   > a {
     display: block;
     position: relative; 
@@ -874,7 +872,7 @@ ul.dated-list {
     border: $green-border-thin;
     border-top: 0;
     margin-top: -1px;
-    background-color: $med-background-color;
+    background-color: $text-background-color-med;
   }
   &.topcaption figcaption {
     caption-side: top;

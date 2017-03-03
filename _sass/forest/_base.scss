@@ -22,8 +22,8 @@ html {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: #20160b;
-  background-image: url('/assets/images/design/brown-felt.png');
+  background-color: $body-background-color;
+  background-image: $body-background-image;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -151,7 +151,7 @@ pre,
 code {
   border: 1px solid #080808;
   border-radius: 3px;
-  background-color: $dark-background-color;
+  background-color: $text-background-color-dark;
 }
 
 code {

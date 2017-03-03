@@ -12,35 +12,35 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #b1c3b0 !default;
-$text-color-dull:  darken($text-color, 25%) !default;
-$text-color-bright:lighten($text-color, 15%) !default;
+$text-color:       black !default;
+$text-color-dull:  lighten($text-color, 25%) !default;
+$text-color-bright:$text-color;
 
-$text-background-color:     #002800 !default;
-$text-background-color-med: #0b240b !default;
-$text-background-color-dark:#001a00 !default;
+$text-background-color:      transparent !default;
+$text-background-color-med:  transparent !default;
+$text-background-color-dark: transparent !default;
 
-$body-background-color: #20160b;
-$body-background-image: url('/assets/images/design/brown-felt.png');
+$body-background-color: transparent;
+$body-background-image: none;
 
-$brown-color:        #331a0a !default;
-$container-background-color: $brown-color;
-$brown-border:       2px solid $brown-color !default;
+$brown-color:      transparent !default;
+$container-background-color: transparent;
+$brown-border:     2px solid $brown-color !default;
 $green-border-color: #1f4110 !default;
 $green-border:       2px solid $green-border-color !default;
 $green-border-thin:  1px solid $green-border-color !default;
-$brand-color:        #87c16a !default;
+$brand-color:        #555 !default;
 $brand-color-dark:   darken($brand-color, 25%) !default;
 $brand-border-dark:  2px solid $brand-color-dark;
-$pop-color:          #e5e470 !default;
-$pale-pop-color:     #ececbd !default;
+$pop-color:        $text-color;
+$pale-pop-color:   $text-color-dull;
 
-$grey-color:       #999 !default;
+$grey-color:       #333 !default;
 $grey-color-light: lighten($grey-color, 25%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    100% !default;
 
 $on-palm:          600px !default;
 $on-tablet:        850px !default;
@@ -65,3 +65,45 @@ $on-tablet:        850px !default;
   "forest/monokai"
   // todo include magnific-popup.css
 ;
+
+// Override some things for print.
+#sidebar {
+  display: none;
+}
+.main-content {
+  padding-right: 0;
+}
+* {
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+
+article.post a:not( [href^="#"] ):not(.mfp-trigger) {
+  // that is, all links that don't go to somewhere on the same page
+  text-decoration: underline !important;
+
+  &:after {
+    content: " (" attr(href) ")";
+    font-size: $small-font-size;
+    font-style: italic;
+  }
+
+  &[href^="/"]:after {
+    content: " (www.chuckmasterson.com" attr(href) ")"; 
+  }
+}
+
+.image-fig,
+.image-fig figcaption {
+  border: none;
+}
+
+.reversefootnote,
+.reply-button,
+#respond,
+.post-to-post-nav {
+  display: none !important;
+}
+.comment__avatar img {
+  background-color: black;
+}
