@@ -14,7 +14,7 @@
 {% endif %}
 
 <figure class="image-fig {{ include.class }}">
-    <a href="{% if include.elsewhere %}{{ include.src }}
+    <a class="mfp-trigger" href="{% if include.elsewhere %}{{ include.src }}
       {% else %}{{ img_root }}{{ lg_dir }}{{ src_to_use }}
       {% endif %}">
       <img
