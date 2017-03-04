@@ -309,7 +309,7 @@ var addComment = {
         comm        = t.I( commId ),
         respond     = t.I( respondId ),
         cancel      = t.I( 'cancel-comment-reply-link' ),
-        parent      = t.I( 'comment-parent' ),
+        parent      = t.I( 'comment-replying-to' ),
         post        = t.I( 'comment-post-slug' ),
         commentForm = respond.getElementsByTagName( 'form' )[0];
 
@@ -343,7 +343,7 @@ var addComment = {
                 return;
             }
 
-            t.I( 'comment-parent' ).value = t.I( 'comment-parent' ).getAttribute( 'data-initial-value' );
+            t.I( 'comment-replying-to' ).value = "";
             temp.parentNode.insertBefore( respond, temp );
             temp.parentNode.removeChild( temp );
             this.style.display = 'none';

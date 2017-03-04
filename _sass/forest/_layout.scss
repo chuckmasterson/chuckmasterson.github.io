@@ -504,8 +504,11 @@ fieldset {
 }
 label {
   font-family: $title-font-family;
-  color: $pale-pop-color;
   font-weight: $base-font-weight;
+  color: $pop-color;
+  small {
+    color: $pale-pop-color;
+  }
 }
 textarea, input {
   font-family: $base-font-family;

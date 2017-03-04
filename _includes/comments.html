@@ -10,18 +10,20 @@
 
     <!-- Start static comments -->
     <div id="comments" class="js-comments">
-        <h2 class="page__section-label">
-            {% if site.data.comments[page.slug].size > 1 %}
-                {{ site.data.comments[page.slug] | size }}
-            {% endif %}
-            Comments
-        </h2>
 
         {% assign comments = site.data.comments[commentslug] | sort %}
+
+        <h2 class="page__section-label">
+            {% if comments.size > 1 %}
+                {{ comments.size }}
+            {% endif %}
+            Comment{% unless comments.size == 1 %}s{% endunless %}
+        </h2>
+
         {% for comment in comments %}
             {% assign id      = comment[1]._id %}
             {% assign index   = forloop.index %}
-            {% assign p       = comment[1]._parent %}
+            {% assign p       = comment[1].replying_to %}
             {% assign parent  = p | to_integer %}
             {% assign avatar  = comment[1].avatar %}
             {% assign email   = comment[1].authoremail %}
@@ -72,20 +74,28 @@
             </fieldset>
             <fieldset>
                 <input type="text" id="comment-form-name" name="fields[author]" spellcheck="false" />
-                <label for="comment-form-name">Name <span class="required">*</span></label>
+                <label for="comment-form-name">Name <small>required</small></label>
             </fieldset>
             <fieldset>
                 <input type="email" id="comment-form-email" name="fields[authoremail]" spellcheck="false" />
-                <label for="comment-form-email">Email <small>(optional—for <a href="https://en.gravatar.com/">Gravatar</a>s and reply notifications)</small></label>
+                <label for="comment-form-email">Email 
+                    <small>optional—for email notifications and avatars 
+                        <a href="http://en.gravatar.com/support/how-to-sign-up/" target="_blank">(change your avatar)</a>
+                    </small>
+                </label>
             </fieldset>
             <fieldset>
-                <input type="url" id="comment-form-url" name="fields[authorurl]" spellcheck="false" />
-                <label for="comment-form-url">Link to some online profile of yours <small>(optional)</small></label>
+                <input type="checkbox" value="{{ commentslug }}" id="options_parent" name="options[parent]">
+                <label for="options[parent]">
+                    Get notified when someone else comments on this post
+                    <small>(unsubscribe anytime)</small>
+                </label>
+
             </fieldset>
             <fieldset class="hidden" style="display:none;">
                 <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-                <input type="hidden" id="comment-parent" name="options[parent]" 
-                       value="{{ commentslug }}" data-initial-value="{{ commentslug }}">
+                <input type="hidden" id="comment-replying-to" name="fields[replying_to]" 
+                       value="{{ commentslug }}" >
                 <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ commentslug }}">
                 <label for="comment-form-location">Leave blank if you are a human</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
