@@ -1,5 +1,4 @@
 <section class="comments-section">
-<!-- % if site.repository and site.staticman.branch % -->
 {% if page.legacyslug.size > 0 %}
 {% capture commentslug %}{{ page.legacyslug }}{% endcapture %}
 {% else %}
@@ -8,11 +7,9 @@
 
 {% if site.data.comments[commentslug] %}
 
-    <!-- Start static comments -->
     <div id="comments" class="js-comments">
 
         {% assign comments = site.data.comments[commentslug] | sort %}
-
         <h2 class="page__section-label">
             {% if comments.size > 1 %}
                 {{ comments.size }}
