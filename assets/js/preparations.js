@@ -277,8 +277,9 @@ $(document).ready(function(){
             data: $(this).serialize(),
             contentType: 'application/x-www-form-urlencoded',
             success: function (data) {
-                $('#comment-form-submit').html('Submitted').addClass('btn--disabled');
+                $('#comment-form-submit').html('Submitted!').addClass('btn--disabled');
                 $('#comment-form .js-notice').removeClass('notice--danger').addClass('notice--success');
+                $('#comment-form input, #comment-form button, #comment-form textarea').attr('disabled', 'disabled');
                 showAlert('success');
             },
             error: function (err) {

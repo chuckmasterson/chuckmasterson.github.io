@@ -515,11 +515,27 @@ textarea, input {
   background-color: $text-background-color-dark;
   font-size: $small-font-size;
   color: $grey-color-light;
+  &:disabled {
+    color: rgba(255,255,255,.2);
+  }
+}
+button:disabled {
+  color: rgba(255,255,255,.2);
+  cursor: default;
 }
 textarea.comment-message {
   width: 100%;
   font-family: $mono-font-family;
   display: block;
+}
+.js-notice {
+  text-align: center;
+  display: block;
+  font-family: $title-font-family;
+  strong {
+    font-weight: normal;
+    color: $pale-pop-color;
+  }
 }
 
 /**
