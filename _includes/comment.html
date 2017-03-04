@@ -1,27 +1,27 @@
-<article id="comment{% if p %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endif %}" 
-    class="js-comment comment {% if p %}child{% endif %}">
+<article id="comment{% if is_top_level %}{{ include.id | prepend: '-' }}{% else %}{{ id | prepend: '-' }}{% endif %}" 
+    class="js-comment comment {% unless is_top_level %}child{% endunless %}">
 
 <div class="comment__avatar">
-    {% if include.email %}
-      <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | escape }}">
+    {% if include.email.size > 0 %}
+      <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=identicon&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=identicon&s=120 2x" alt="{{ include.name | escape }}">
     {% else %}
     {% include makeavatar avatarname=include.name %}
     {% endif %}
 </div>
 
 <h3 class="comment__author-name">
-    {% unless include.url == blank %}
-    <a rel="external nofollow" href="{{ include.url }}">
-        {{ include.name }}
-    </a>
+    {% if include.url.size > 0 %}
+        <a rel="external nofollow" href="{{ include.url }}">
+            {{ include.name }}
+        </a>
     {% else %}
         {{ include.name }}
-    {% endunless %}
+    {% endif %}
 </h3>
 
 <div class="comment__timestamp">
     {% if include.date %}
-      {% if include.index %}<a href="#comment{% if p %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
+      {% if include.index %}<a href="#comment{% if is_top_level %}{{ include.id | prepend: '-' }}{% else %}{{ id | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
         <time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%B %d, %Y' }}</time>
         {% if include.index %}</a>{% endif %}
     {% endif %}
@@ -40,7 +40,7 @@
   {% assign p       = reply[1]._parent %}
   {% assign parent  = p | to_integer %}
   {% assign avatar  = reply[1].avatar %}
-  {% assign email   = reply[1].email %}
+  {% assign email   = reply[1].authoremail %}
   {% assign name    = reply[1].author %}
   {% assign url     = reply[1].authorurl %}
   {% assign date    = reply[1].date %}

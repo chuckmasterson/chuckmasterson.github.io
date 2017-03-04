@@ -24,12 +24,19 @@
             {% assign p       = comment[1]._parent %}
             {% assign parent  = p | to_integer %}
             {% assign avatar  = comment[1].avatar %}
-            {% assign email   = comment[1].email %}
+            {% assign email   = comment[1].authoremail %}
             {% assign name    = comment[1].author %}
             {% assign url     = comment[1].authorurl %}
             {% assign date    = comment[1].timestamp %}
             {% assign message = comment[1].text %}
-            {% if p == nil %}
+
+            {% if p == commentslug or p == nil %}
+              {% assign is_top_level = true %}
+            {% else %}
+              {% assign is_top_level = false %}
+            {% endif %}
+
+            {% if is_top_level %}
               {% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
 
               {% unless page.comments_locked == true %}
@@ -69,7 +76,7 @@
             </fieldset>
             <fieldset>
                 <input type="email" id="comment-form-email" name="fields[authoremail]" spellcheck="false" />
-                <label for="comment-form-email">Email <small>(optional—for avatar images via <a href="https://en.gravatar.com/">Gravatar</a>)</small></label>
+                <label for="comment-form-email">Email <small>(optional—for <a href="https://en.gravatar.com/">Gravatar</a>s and reply notifications)</small></label>
             </fieldset>
             <fieldset>
                 <input type="url" id="comment-form-url" name="fields[authorurl]" spellcheck="false" />
@@ -77,7 +84,8 @@
             </fieldset>
             <fieldset class="hidden" style="display:none;">
                 <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-                <input type="hidden" id="comment-parent" name="options[parent]" value="">
+                <input type="hidden" id="comment-parent" name="options[parent]" 
+                       value="{{ commentslug }}" data-initial-value="{{ commentslug }}">
                 <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ commentslug }}">
                 <label for="comment-form-location">Leave blank if you are a human</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
@@ -96,8 +104,8 @@
             <!-- End comment form alert messaging -->
             <fieldset>
                 <button type="submit" id="comment-form-submit" class="button">Submit Comment</button>
-                <!--<input type="checkbox" id="subscribe-field" name="options[subscribe]" value="authoremail">
-                    <label for="subscribe-field">Email me when someone replies to me</label>-->
+                <input type="checkbox" id="subscribe-field" name="options[subscribe]" value="authoremail">
+                <label for="subscribe-field">Email me when someone else comments on this post <small>(unsubscribable)</small></label>
             </fieldset>
         </form>
     </div>

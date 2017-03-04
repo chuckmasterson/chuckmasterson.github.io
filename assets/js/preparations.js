@@ -261,7 +261,7 @@ $(document).ready(function(){
     $("a").smoothScroll({offset: -30, excludeWithin: [".wayfinding-block", "#sidebar"]});
 
 
-    /* Comment JavaScript, courtesy of MMistakes */
+/* Comment JavaScript, courtesy of MMistakes */
 
     var $comments = $('.js-comments');
 
@@ -306,11 +306,11 @@ var addComment = {
         var div, element, style, cssHidden,
         t           = this,
         comm        = t.I( commId ),
-            respond     = t.I( respondId ),
-            cancel      = t.I( 'cancel-comment-reply-link' ),
-                parent      = t.I( 'comment-parent' ),
-                post        = t.I( 'comment-post-slug' ),
-                    commentForm = respond.getElementsByTagName( 'form' )[0];
+        respond     = t.I( respondId ),
+        cancel      = t.I( 'cancel-comment-reply-link' ),
+        parent      = t.I( 'comment-parent' ),
+        post        = t.I( 'comment-post-slug' ),
+        commentForm = respond.getElementsByTagName( 'form' )[0];
 
         if ( ! comm || ! respond || ! cancel || ! parent || ! commentForm ) {
             return;
@@ -342,7 +342,7 @@ var addComment = {
                 return;
             }
 
-            t.I( 'comment-parent' ).value = '0';
+            t.I( 'comment-parent' ).value = t.I( 'comment-parent' ).getAttribute( 'data-initial-value' );
             temp.parentNode.insertBefore( respond, temp );
             temp.parentNode.removeChild( temp );
             this.style.display = 'none';

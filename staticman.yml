@@ -55,6 +55,7 @@ comments:
   notifications:
     # Enable notifications
     enabled: true
+    fromAddress: "comment@mail.chuckmasterson.com"
 
       # (!) ENCRYPTED
       #
