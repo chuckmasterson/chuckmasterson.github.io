@@ -82,8 +82,8 @@
                 </label>
             </fieldset>
             <fieldset>
-                <input type="checkbox" value="{{ commentslug }}" id="options_parent" name="options[parent]">
-                <!--<label for="options[parent]">
+                <!--<input type="checkbox" value="{{ commentslug }}" id="options_parent" name="options[parent]">
+                <label for="options[parent]">
                     Get notified when someone else comments on this post
                     <small>(unsubscribe anytime)</small>
                     </label>-->
@@ -92,7 +92,7 @@
             <fieldset class="hidden" style="display:none;">
                 <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
                 <input type="hidden" id="comment-replying-to" name="fields[replying_to]" 
-                       value="{{ commentslug }}" >
+                       value="{{ commentslug }}" data-original-value="{{ commentslug }}">
                 <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ commentslug }}">
                 <label for="comment-form-location">Leave blank if you are a human</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>

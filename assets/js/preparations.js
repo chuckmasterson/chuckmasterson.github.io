@@ -343,7 +343,7 @@ var addComment = {
                 return;
             }
 
-            t.I( 'comment-replying-to' ).value = "";
+            t.I( 'comment-replying-to' ).value = t.I( 'comment-replying-to' ).getAttribute( 'data-original-value' );
             temp.parentNode.insertBefore( respond, temp );
             temp.parentNode.removeChild( temp );
             this.style.display = 'none';
