@@ -3,7 +3,7 @@ email: WhyWouldIWantYouToBeAbleTo@Email.Me
 description: >
     *“What news! how much more important to know what that is which was never old!”* —Thoreau
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chuckmasterson.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.chuckmasterson.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # image URLs. Used in fig.html.
 image_dirs:
