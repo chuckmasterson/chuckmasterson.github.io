@@ -417,6 +417,7 @@ nav.post-to-post-nav {
 .comment {
   h3 {
     margin-top: 0;
+    font-weight: $base-font-weight;
   }
   &.child, & + #respond {
     // #respond doesn't get given any special class when moved
