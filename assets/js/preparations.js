@@ -260,8 +260,10 @@ $(document).ready(function(){
 
     $("a").smoothScroll({offset: -30, excludeWithin: [".wayfinding-block", "#sidebar"]});
 
+    // adds a thin non-breaking space between quotes for fancy typographical correctness
+    $(".post-content")[0].innerHTML = $(".post-content")[0].innerHTML.replace(/“‘/g, "“&#8239;‘").replace(/’”/g, "’&#8239;”");
 
-/* Comment JavaScript, courtesy of MMistakes */
+    /* Comment JavaScript, courtesy of MMistakes */
 
     var $comments = $('.js-comments');
 
