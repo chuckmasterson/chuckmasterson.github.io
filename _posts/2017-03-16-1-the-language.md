@@ -15,8 +15,8 @@ prefatory: |
   
   * * *
   
-  *Language note:* Anishinaabewaki /ə·nish·ih·*nah*·*beh*·wə·*kih*/ is *Anishinaabe*
-  + *aki* ‘earth, land’.
+  *Language note:* Anishinaabewaki /ə·nish·ih·*nah*·*beh*·wə·*kih*/ is *Anishinaabe* +
+  *aki* ‘earth, land’.
 
 ---
 
