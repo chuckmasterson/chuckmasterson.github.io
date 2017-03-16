@@ -10,11 +10,10 @@ redirect_from:
   - /2006/07/that-was-brief.html
 categories:
   - work
-
+prefatory: >-
+  *Note: Greatly shortened in 2017 to remove details, some personal but most
+  merely boring and pointless.*
 ---
-*Note: Greatly shortened in 2017 to remove details, some personal but most
-merely boring and pointless.*
-{: .prefatory }
 
 It was eight days after I started working at Subway: that is, about two weeks
 ago, but I’ve been putting off writing about it, for no particular

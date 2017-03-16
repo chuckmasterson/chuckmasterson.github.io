@@ -11,16 +11,16 @@ redirect_from:
 categories:
   - new world
   - nature
+prefatory: >-
+  *Note from 2017. I'm somewhat disillusioned with large-scale organizing in
+  the style of 350; it feels like it's missing something. I wouldn't preface this
+  to say I disagree with some things I said, since I would have to preface half
+  my older posts, but in this case I felt uneasy about it even while I was
+  writing.  While I'm still obviously in favor of not wrecking the Earth, I felt
+  and still feel that this post was forced and perfunctory, a way to prove to
+  myself that I was really a Good Environmentalist.*
 
 --- 
-*Note from 2017. I'm somewhat disillusioned with large-scale organizing in
-the style of 350; it feels like it's missing something. I wouldn't preface this
-to say I disagree with some things I said, since I would have to preface half
-my older posts, but in this case I felt uneasy about it even while I was
-writing.  While I'm still obviously in favor of not wrecking the Earth, I felt
-and still feel that this post was forced and perfunctory, a way to prove to
-myself that I was really a Good Environmentalist.* 
-{: .prefatory }
 
 I went to Washington, DC. So far I’ve mentioned practically nothing about
 it, and it’s almost as if I hadn’t gone there at all, and I

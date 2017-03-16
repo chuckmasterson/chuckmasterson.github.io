@@ -16,14 +16,13 @@ tags:
   - Czechia
   - Germany
   - Poland
+prefatory: >-
+  *Note from 2017: Frustration with Blogger caused me to flee to Google Photos’
+  superior photo-displaying capabilities. Migrating to Jekyll has allowed me to
+  bring the photos back here to the blog. Which is just as well, since the Google
+  link died.*
 
 ---
-
-*Note from 2017: Frustration with Blogger caused me to flee to Google Photos’
-superior photo-displaying capabilities. Migrating to Jekyll has allowed me to
-bring the photos back here to the blog. Which is just as well, since the Google
-link died.* 
-{: .prefatory }
 
 Well, it only took 6 months, but I’m finally putting up the next installment in
 my giant backlog of photos. This time again I’m linking to [an album I made:

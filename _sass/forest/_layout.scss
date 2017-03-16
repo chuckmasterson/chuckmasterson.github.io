@@ -222,7 +222,7 @@ article.post {
      -moz-hyphens: auto;
           hyphens: auto;
 }
-.post-content, article.comment {
+.prefatory, .post-content, article.comment {
 
   p {
     margin: 0;
@@ -245,7 +245,7 @@ article.post {
   }
   hr {
     border: 0;
-    height: $spacing-unit;
+    height: $spacing-unit / 2;
     background-color: transparent;
   }
 
@@ -259,15 +259,21 @@ article.post {
   }
   // .footnotes (the list) is later down in a more convenient place
 }
+section.prefatory {
+  margin-bottom: 10px;
+}
 .post-content {
-
+/*
   > p.prefatory + p:not(.prefatory) {
     margin-top: 10px;
-  }
-
+  } */
+/*
   > p:not(.prefatory):not(.no-drop):first-child,
   > p.force-drop,
-  > p.prefatory + p:not(.prefatory) {
+  > p.prefatory + p:not(.prefatory) */
+
+  > p:first-child:not(.no-drop),
+  p.force-drop {
     text-indent: 0;
     &:first-letter {
       font-size: 52px;
@@ -772,6 +778,7 @@ li.oct,li.nov,li.dec {
   padding-bottom: $spacing-unit;
 
   h2 {
+    clear: both;
     font-size: 21px;
 
     @include media-query($on-tablet) {
@@ -780,6 +787,7 @@ li.oct,li.nov,li.dec {
   }
 
   h3 {
+    clear: both;
     font-size: 16px;
 
     @include media-query($on-tablet) {
@@ -788,9 +796,11 @@ li.oct,li.nov,li.dec {
   }
 
   h4 {
+    clear: both;
     font-size: 16px;
     font-weight: $base-font-weight;
     font-style: italic;
+    em { font-style: normal; }
 
     @include media-query($on-tablet) {
       font-size: 14.5px;
@@ -798,6 +808,7 @@ li.oct,li.nov,li.dec {
   }
 
   h5 {
+    clear: both;
     font-size: 14px;
     letter-spacing: 1.5px;
 
@@ -807,6 +818,7 @@ li.oct,li.nov,li.dec {
   }
 
   h6 {
+    clear: both;
     font-size: 14px;
     font-feature-settings: "smcp" 1;
 

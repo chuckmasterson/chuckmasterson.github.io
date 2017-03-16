@@ -12,12 +12,10 @@ categories:
   - work
 tags:
   - Crowduck
-
+prefatory: >-
+  *Note: Greatly shortened in 2017 to remove details, some personal but most
+  merely boring and pointless.*
 ---
-
-*Note: Greatly shortened in 2017 to remove details, some personal but most
-merely boring and pointless.*
-{: .prefatory }
 
 [...] Ah, and I’ve gotten a comment from
 someone else who goes to Crowduck! It hadn’t occurred to me, actually, to

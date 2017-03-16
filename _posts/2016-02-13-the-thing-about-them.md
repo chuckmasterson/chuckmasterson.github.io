@@ -18,7 +18,6 @@ categories:
 *(This may be information you already know, if you’ve been using non-binary
 pronouns for a while. If you’re not looking for a long read, you might skip
 down to section II.)*
-{: .prefatory }
 
 Singular *they* has been declared the Word of the Year by the American
 Dialect Society. That’s when you use *they* to mean just one person, of

@@ -12,19 +12,18 @@ categories:
   - meat
   - deep thoughts
   - friends
+prefatory: >-
+  *Again a **note to people who aren’t Sean Upton:** I’ve been having a bit of
+  back-and-forth with Sean, a good friend of mine from my Korea days who’s
+  recently gone vegan. He started it with a post called [“Why Do You Eat
+  Meat?”](https://seanuptonblogs.wordpress.com/2016/08/15/why-do-you-eat-meat/),
+  and then I wrote my previous post, <a href="{% post_url
+  2016-08-30-why-i-eat-meat %}" target="_blank">“Why I Eat Meat”</a>; Sean came
+  back with [“Why I Still Don’t Eat
+  Meat”](https://seanuptonblogs.wordpress.com/2016/09/01/why-i-still-dont-eat-meat-a-reply/)—and
+  that brings us to here.*
 
 ---
-
-*Again a **note to people who aren’t Sean Upton:** I’ve been having a bit of
-back-and-forth with Sean, a good friend of mine from my Korea days who’s
-recently gone vegan. He started it with a post called <a
-href="https://seanuptonblogs.wordpress.com/2016/08/15/why-do-you-eat-meat/"
-target="_blank">“Why Do You Eat Meat?”</a>, and then I wrote my previous post,
-<a href="{% post_url 2016-08-30-why-i-eat-meat %}" target="_blank">“Why I Eat Meat”</a>;
-Sean came back with <a
-href="https://seanuptonblogs.wordpress.com/2016/09/01/why-i-still-dont-eat-meat-a-reply/"
-target="_blank">“Why I Still Don’t Eat Meat”</a>—and that brings us to here.*
-{: .prefatory }
 
 Hello again Sean, 
 

@@ -12,10 +12,10 @@ categories:
   - high school
   - krokay
   - barefooting
+prefatory: >-
+  [Note: This is really long. Start when you have time to finish.]
 
 ---
-[Note: This is really long. Start when you have time to finish.]
-{: .prefatory}
 
 I’ve been busy, but I can’t really pretend that I’ve been too busy for two
 entire months to write something for you folks to digest. You must feel

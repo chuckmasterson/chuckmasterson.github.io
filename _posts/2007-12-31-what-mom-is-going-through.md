@@ -10,22 +10,20 @@ redirect_from:
   - /2007/12/what-mom-is-going-through.html
 categories:
   - religion
-
+prefatory: >-
+  *[Note from 2017: This is part of a series of posts I wrote after suddenly
+  discovering that religion can be questioned. I felt like I had broken into
+  uncharted territories of thought and needed to reveal the way to the sad
+  unenlightened. Drunk on this conviction, and still emotionally underdeveloped
+  following a very introverted childhood, I proceeded to become the most
+  condescending kind of atheist and also blindly wreak emotional havoc among the
+  Christian parts of my family. Thankfully this was a phase. My current thoughts
+  on religion are quite different, and at some point if I see fit to blog about
+  them, you'll be able to find them in the "religion" category here. I'm leaving
+  the posts up as a window into that ugly time.]*
 ---
-*[Note from 2017: This is part of a series of posts I wrote after suddenly
-discovering that religion can be questioned. I felt like I had broken into
-uncharted territories of thought and needed to reveal the way to the sad
-unenlightened. Drunk on this conviction, and still emotionally underdeveloped
-following a very introverted childhood, I proceeded to become the most
-condescending kind of atheist and also blindly wreak emotional havoc among the
-Christian parts of my family. Thankfully this was a phase. My current thoughts
-on religion are quite different, and at some point if I see fit to blog about
-them, you'll be able to find them in the "religion" category here. I'm leaving
-the posts up as a window into that ugly time.]*
-{: .prefatory }
-
 There’s no way I can imagine it completely. But I’ll try.
-{: .prefatory }
+{: .no-drop }
 
 * * *
 

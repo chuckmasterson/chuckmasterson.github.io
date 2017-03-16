@@ -12,14 +12,13 @@ categories:
   - friends
   - adventure
   - permaculture
+prefatory: >-
+  *It’s a two-fer blog! Here’s part one, Old Friends Season. Or you can skip to
+  part two, [Permaculture Made Manifest](#pmm), which is possibly more
+  interesting to you if you don’t care about excuses for not writing and stories
+  of who I’ve been hanging out with.*
 
 ---
-
-*It’s a two-fer blog! Here’s part one, Old Friends Season. Or you can skip to
-part two, [Permaculture Made Manifest](#pmm), which is possibly more
-interesting to you if you don’t care about excuses for not writing and stories
-of who I’ve been hanging out with.* 
-{: .prefatory }
 
 From all corners and eras of my life, they started coming. One in July, and
 then a flurry in August, and more still to come: the old friends.

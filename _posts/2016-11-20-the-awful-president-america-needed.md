@@ -11,13 +11,11 @@ redirect_from:
 categories:
   - politics
   - deep thoughts
+prefatory: >-
+  *(I hope you guys like ten-page essays. That seems to be all I’m capable of
+  writing these days.)*
 
 ---
-
-
-*(I hope you guys like ten-page essays. That seems to be all I’m capable of
-writing these days.)* 
-{: .prefatory }
 
 So: Trump, huh?
 
