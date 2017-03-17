@@ -11,6 +11,9 @@ prefatory: |
   **Part III: The Spirits**
   {: .text-center }
 published: true
+categories:
+  - religion
+  - Anishinaabe
 ---
 
 It’s trivially easy to point out that there’s something missing in our culture’s relationship with
