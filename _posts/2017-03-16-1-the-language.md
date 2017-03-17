@@ -93,7 +93,7 @@ forests and the lakes. I should learn the language they understand, so I can und
 ### What’s Ojibwe? What’s it like?
 
 Ojibwe, Ojibwa, Chippewa, and Anishinaabe are all different names for the same group of people.
-*Anishinaabe* is the how I usually hear the people named when someone’s speaking the language, but
+*Anishinaabe* is how I usually hear the people named when someone’s speaking the language, but
 the same person might use *Ojibwe* when they’re speaking English, or might still use *Anishinaabe*.
 It’s only a little confusing.
 
@@ -114,7 +114,7 @@ water---that’s manoomin, what you may know as wild rice.
 You already speak some Ojibwe, believe it or not. Ever heard of a moose? English grabbed that word
 straight from Ojibwe---*moonz*. And a moccasin, too: it started out as *makizin*. *Chipmunk* is how
 settlers garbled the word *ajidamoo* (which actually means *squirrel*). Somehow our word *pecan*
-made it to English from Ojibwe *pecan*, though you won’t find pecans growing in Ontario. 
+made it to English from Ojibwe *bagaan*, though you won’t find pecans growing in Ontario. 
 
 And then there are all the place names. Mississippi (*Misi-ziibi*, ‘big river’), Milwaukee
 (*Mino-aki*, ‘good land’), Chicago (*Zhigaagong*, ‘at the skunk place’, which seems somehow
@@ -206,7 +206,7 @@ like paints.” And:
 > verbs for exactly how people shift position. *Miinoshin* describes how someone turns this way and
 > that until ready to make a determined move, *iskwishin* how a person behaves when tired of one
 > position and looking for one more comfortable. The best speakers are the most inventive, and come
-> up with new words all of he time. *Mookegidaazo* describes the way a baby looks when outrage is
+> up with new words all of the time. *Mookegidaazo* describes the way a baby looks when outrage is
 > building and coming to the surface where it will result in a thunderous squawl. There is a verb
 > for the way a raven opens and shuts its claws in the cold and a verb for what would happen if
 > a man fell off a motorcycle with a pipe in his mouth and drove the stem of it through the back of
@@ -220,7 +220,7 @@ of these, each one with a sensible prefix to go along with it: *remember* is *mi
 *mikw-* ‘find’; *forget* is *wanendam* from *wan-* ‘lose’; *think* is *inendam* from *in-* ‘in such
 a way’, *happy* is *minwendam* from *mino-* ‘good’, *excited* is *ombendam* from *omb-* ‘up’. You
 can sub out the intransitive *-endam* for the transitive *-enim* to make it something you do to
-someone: You can forget someone *minwenim*, be excited about someone *ombenim*, and so on. You can
+someone: You can forget someone *wanenim*, be excited about someone *ombenim*, and so on. You can
 see how easy it is to make words up. I just did it with *ombenim* and I’ve only been learning in my
 spare time for less than a year.
 
@@ -275,7 +275,8 @@ lifeways.
 But there is, still, such a thing as Ojibwe culture. It’s alive and well, and it’s not the same
 thing as U.S. culture, despite the best efforts of a hundred years of assimilation policy. It
 belongs to the present; it’s not built around a veneration for the past and a wish that it would
-return exactly as it was. Its stories and teachings have wisdom you can use now and in the future.
+return exactly as it was. Its stories and teachings have wisdom that people can use right now and 
+in the future.
 
 And the core of that wisdom is, indeed, passed down from the thousands and thousands of years in
 which the Anishinaabe people lived from the Earth, lived closely with it and had to know everything
