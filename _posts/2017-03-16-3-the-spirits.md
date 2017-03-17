@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Spirits
-subtitle: "Anishinaabewaki Immigrant: Part III"
+subtitle: 'Anishinaabewaki Immigrant: Part III'
 tags:
   - religion
   - Anishinaabe
@@ -10,7 +10,7 @@ prefatory: |
   [Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
   **Part III: The Spirits**
   {: .text-center }
-
+published: true
 ---
 
 It’s trivially easy to point out that there’s something missing in our culture’s relationship with
@@ -158,7 +158,7 @@ the position of our bodies, and even our consciousness---is the human brain’s 
 organizing a world that is basically composed of particles vibrating and moving in an unimaginable
 number of ways with no inherent meaning or qualities.
 
-All three of them *embrace* science and the knowledge of the world it’s given us. Instead of
+All three of them *embrace* science and the knowledge it’s given us of the world. Instead of
 ignoring it or insisting that it’s all lies, they show that if you take what we’ve learned and keep
 going, you end up, whether you intended to or not, with a world that’s far more mysterious and
 subtle than we usually imagine. A world in which spirits may, after all, be able to live.
