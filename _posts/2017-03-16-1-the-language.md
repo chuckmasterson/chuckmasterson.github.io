@@ -2,7 +2,7 @@
 layout: post
 title: The Language
 subtitle: "Anishinaabewaki Immigrant: Part I"
-tags:
+categories:
   - language
   - Anishinaabe
 
