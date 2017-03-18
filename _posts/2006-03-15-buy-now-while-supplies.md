@@ -11,11 +11,12 @@ redirect_from:
 categories:
   - high school
   - Not a Real School
-prefatory: >-
-  *Note: Greatly edited in 2017 to remove details, some personal, most merely
-  pointless and boring.*
 
 ---
+
+*Note: Greatly edited in 2017 to remove details, some personal, most merely
+pointless and boring.*
+{: .prefatory }
 
 Last time I updated, it seems, was in January. Well. I, uh, I guess I
 don’t really have an excuse to give you. I mean, I could think one up,

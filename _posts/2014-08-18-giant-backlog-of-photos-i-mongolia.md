@@ -13,12 +13,14 @@ categories:
   - Year of Adventure
 tags:
   - Mongolia
-prefatory: >-
-  *Note from 2017: Frustration with Blogger caused me to flee to Google Photos’
-  superior photo-displaying capabilities. Migrating to Jekyll has allowed me to
-  bring the photos back here to the blog. Which is just as well, since the Google
-  link died.*
+
 ---
+
+*Note from 2017: Frustration with Blogger caused me to flee to Google Photos’
+superior photo-displaying capabilities. Migrating to Jekyll has allowed me to
+bring the photos back here to the blog. Which is just as well, since the Google
+link died.*
+{: .prefatory }
 
 Since nobody seemed to have an opinion strong enough to mention, I’m going to
 go about putting up the photos from my travels in whatever way I see fit. I’ve

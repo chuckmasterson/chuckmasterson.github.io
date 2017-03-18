@@ -6,15 +6,16 @@ subtitle: |
 categories:
   - meta
   - technology
-prefatory: |
-  *This is the first of two posts about redoing my blog, although the other one will be aimed at
-  a different audience, mostly consisting of programmers trying to do the same thing I did.*
-
-  *I’m aware that I promised to write about sugarbush. My time there turned out not to be a solid week
-  but several discontinuous days, and I haven’t yet spent all the time I’m planning to spend there.
-  I’ll write when I have, but meanwhile I’ve been wanting to write this.*
 ---
 
+*This is the first of two posts about redoing my blog, although the other one will be aimed at
+a different audience, mostly consisting of programmers trying to do the same thing I did.*
+{: .prefatory }
+
+*I’m aware that I promised to write about sugarbush. My time there turned out not to be a solid week
+but several discontinuous days, and I haven’t yet spent all the time I’m planning to spend there.
+I’ll write when I have, but meanwhile I’ve been wanting to write this.*
+{: .prefatory }
 
 I'm going to take on a bit of a challenge: I’m going to try to make some very nerdy programming
 stuff interesting to regular people, people who have no interest in code other than that it should
@@ -223,30 +224,25 @@ subtitle: |
   *or,* Getting Right with Technology.\\
   (For those who don't code.)
 categories:
-  - meta
-  - technology
-prefatory: |
-  *This is the first of two posts about redoing my blog, although
-  the other one will be aimed at a different audience, mostly
-  consisting of programmers trying to do the same thing I did.*
-  
-  *I’m aware that I promised to write about sugarbush. My time
-  there turned out not to be a solid week but several
-  discontinuous days, and I haven’t yet spent all the time I’m
-  planning to spend there.  I’ll write when I have, but meanwhile
-  I’ve been wanting to write this.*
+- meta
+- technology
 ---
 
+*This is the first of two posts about redoing my blog, although the
+other one will be aimed at a different audience, mostly consisting of
+programmers trying to do the same thing I did.* 
+{: .prefatory }
 
-I'm going to take on a bit of a challenge: I’m going to try to
-make some very nerdy programming stuff interesting to regular
-people, people who have no interest in code other than that it
-should work---even people who fear code and want nothing to do
-with it. I’m going to try to explain why I spent what probably
-totaled up to at least a full work week, and maybe two,
-reprogramming this blog from the ground up. Bear with me; I
-really am going to attempt to put in some ideas that you have a
-chance of caring about. [...]
+*I’m aware that I promised to write about sugarbush. My time there
+turned out not to be a solid week but several discontinuous days, and
+I haven’t yet spent all the time I’m planning to spend there. I’ll write
+when I have, but meanwhile I’ve been wanting to write this.* 
+{: .prefatory }
+
+I'm going to take on a bit of a challenge: I’m going to try to make some
+very nerdy programming stuff interesting to regular people, people who
+have no interest in code other than that it should work---even people
+who fear code and want nothing to do with it. [...]
 ```
 
 ---and the Cloud can bugger off.[^3]

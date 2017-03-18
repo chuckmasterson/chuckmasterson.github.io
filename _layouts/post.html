@@ -19,11 +19,6 @@ layout: default
         {% endif %}
       </header>
 
-      {% if page.prefatory %}
-        <section class="prefatory">
-          {{ page.prefatory | markdownify }}
-        </section>
-      {% endif %}
       <div class="post-content" itemprop="articleBody">
         {{ content }}
       </div>

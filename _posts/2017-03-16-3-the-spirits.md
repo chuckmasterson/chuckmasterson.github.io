@@ -2,16 +2,15 @@
 layout: post
 title: The Spirits
 subtitle: 'Anishinaabewaki Immigrant: Part III'
-prefatory: |
-  [Part I: The Language](/blog/2017/03/16/1-the-language) ·
-  [Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
-  **Part III: The Spirits**
-  {: .text-center }
-published: true
 categories:
   - religion
   - Anishinaabe
 ---
+
+[Part I: The Language](/blog/2017/03/16/1-the-language) ·
+[Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
+**Part III: The Spirits**
+{: .text-center }
 
 It’s trivially easy to point out that there’s something missing in our culture’s relationship with
 nature. The evidence is our entire way of life.

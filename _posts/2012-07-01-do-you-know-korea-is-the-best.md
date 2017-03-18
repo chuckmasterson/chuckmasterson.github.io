@@ -13,12 +13,13 @@ categories:
   - bad culture
 tags:
   - Korea
-prefatory: >-
-  (Note: I didn’t plan it, but this ended up kind of preposterously long.
-  But I think it’s probably the last of my big learn-all-about-Korea posts,
-  so just bear with me and next time I’ll write more adventure stories or
-  something.)
+
 ---
+(Note: I didn’t plan it, but this ended up kind of preposterously long.
+But I think it’s probably the last of my big learn-all-about-Korea posts,
+so just bear with me and next time I’ll write more adventure stories or
+something.)
+{: .prefatory}
 
 Let’s talk about Korea’s nationalism. Oh come on. This will be fun.
 

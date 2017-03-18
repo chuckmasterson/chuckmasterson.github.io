@@ -10,10 +10,12 @@ redirect_from:
   - /2014/11/the-paleo-month-and-everything-else-you.html
 categories:
   - food
-prefatory: >-
-  *(Now updated with some stuff I forgot, to make this post even more
-  comprehensive. New stuff in <span style="color: #d9ead3;">green</span>.)*
+
 ---
+
+*(Now updated with some stuff I forgot, to make this post even more
+comprehensive. New stuff in <span style="color: #d9ead3;">green</span>.)* {:
+.prefatory }
 
 Let’s talk about food. This seems an appropriate week for it.  
 

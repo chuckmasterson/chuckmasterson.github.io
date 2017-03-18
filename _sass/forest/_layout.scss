@@ -222,7 +222,7 @@ article.post {
      -moz-hyphens: auto;
           hyphens: auto;
 }
-.prefatory, .post-content, article.comment {
+.post-content, article.comment {
 
   p {
     margin: 0;
@@ -259,21 +259,14 @@ article.post {
   }
   // .footnotes (the list) is later down in a more convenient place
 }
-section.prefatory {
-  margin-bottom: 10px;
-}
 .post-content {
-/*
-  > p.prefatory + p:not(.prefatory) {
+  > .prefatory + p:not(.prefatory) {
     margin-top: 10px;
-  } */
-/*
+  }
   > p:not(.prefatory):not(.no-drop):first-child,
   > p.force-drop,
-  > p.prefatory + p:not(.prefatory) */
+  > .prefatory + p:not(.prefatory) {
 
-  > p:first-child:not(.no-drop),
-  p.force-drop {
     text-indent: 0;
     &:first-letter {
       font-size: 52px;

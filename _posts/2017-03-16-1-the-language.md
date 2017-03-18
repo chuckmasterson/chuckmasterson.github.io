@@ -11,18 +11,17 @@ excerpt: |
   (that’s why I believe them), but even I get tired of reading nothing else here. It’s much more fun
   when I can tell a story, and maybe some opinions happen to be part of the story.
 
-prefatory: |
-  
-  **Part I: The Language** ·
-  [Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
-  [Part III: The Spirits](/blog/2017/03/16/3-the-spirits)
-  {: .text-center }
-
 ---
+
+**Part I: The Language** ·
+[Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
+[Part III: The Spirits](/blog/2017/03/16/3-the-spirits)
+{: .text-center .prefatory }
 
 + Now with audio! That was fun to do. Also, my pronunciations are strictly not authoritative.
 + *Language note:* Anishinaabewaki{% include ogg src="anishinaabewaki" %} is *Anishinaabe* +
   *aki*{% include ogg src="aki" %} ‘earth, land’.
+{: .prefatory }
 
 If you read this blog to find out what’s going on in my life, for a while I haven’t really been
 giving you much to go on. A lot of opinions, and that’s pretty much it. I kinda like my opinions
@@ -30,7 +29,6 @@ giving you much to go on. A lot of opinions, and that’s pretty much it. I kind
 when I can tell a story, and maybe some opinions happen to be part of the story. That
 way *you* find out what the heck I’m up to these days, and *I* know that I took some belief I had
 and lived it. So I’m going to try to do more of that. Starting right now:
-{: .force-drop }
 
 * * *
 
