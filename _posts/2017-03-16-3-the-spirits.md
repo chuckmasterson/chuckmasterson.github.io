@@ -2,9 +2,6 @@
 layout: post
 title: The Spirits
 subtitle: 'Anishinaabewaki Immigrant: Part III'
-tags:
-  - religion
-  - Anishinaabe
 prefatory: |
   [Part I: The Language](/blog/2017/03/16/1-the-language) ·
   [Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
