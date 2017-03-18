@@ -5,6 +5,11 @@ subtitle: "Anishinaabewaki Immigrant: Part I"
 categories:
   - language
   - Anishinaabe
+excerpt: |
+  If you read this blog to find out what’s going on in my life, for a while I haven’t really been
+  giving you much to go on. A lot of opinions, and that’s pretty much it. I kinda like my opinions
+  (that’s why I believe them), but even I get tired of reading nothing else here. It’s much more fun
+  when I can tell a story, and maybe some opinions happen to be part of the story.
 
 prefatory: |
   
@@ -12,13 +17,12 @@ prefatory: |
   [Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
   [Part III: The Spirits](/blog/2017/03/16/3-the-spirits)
   {: .text-center }
-  
-  * * *
-  
-  *Language note:* Anishinaabewaki /ə·nish·ih·*nah*·*beh*·wə·*kih*/ is *Anishinaabe* +
-  *aki* ‘earth, land’.
 
 ---
+
++ Now with audio! That was fun to do. Also, my pronunciations are strictly not authoritative.
++ *Language note:* Anishinaabewaki{% include ogg src="anishinaabewaki" %} is *Anishinaabe* +
+  *aki*{% include ogg src="aki" %} ‘earth, land’.
 
 If you read this blog to find out what’s going on in my life, for a while I haven’t really been
 giving you much to go on. A lot of opinions, and that’s pretty much it. I kinda like my opinions
@@ -26,6 +30,7 @@ giving you much to go on. A lot of opinions, and that’s pretty much it. I kind
 when I can tell a story, and maybe some opinions happen to be part of the story. That
 way *you* find out what the heck I’m up to these days, and *I* know that I took some belief I had
 and lived it. So I’m going to try to do more of that. Starting right now:
+{: .force-drop }
 
 * * *
 
@@ -98,7 +103,8 @@ the same person might use *Ojibwe* when they’re speaking English, or might sti
 It’s only a little confusing.
 
 You might see *Anishinaabeg* sometimes, which is just the plural. A couple other words to be aware
-of are *Ojibwemowin* and *Anishinaabemowin.* The *-mowin* suffix means you’re talking specifically
+of are *Ojibwemowin* and *Anishinaabemowin*{% include ogg src="anishinaabemowin" %}. The
+*-mowin* suffix means you’re talking specifically
 about the language (and not just about the people or the culture), is all.
 
 The Anishinaabe nation is a large one, and northern. The language has been spoken around fires from
@@ -112,20 +118,22 @@ following a prophecy and a miigis shell in the stars to the land here where food
 water---that’s manoomin, what you may know as wild rice.
 
 You already speak some Ojibwe, believe it or not. Ever heard of a moose? English grabbed that word
-straight from Ojibwe---*moonz*. And a moccasin, too: it started out as *makizin*. *Chipmunk* is how
-settlers garbled the word *ajidamoo* (which actually means *squirrel*). Somehow our word *pecan*
-made it to English from Ojibwe *bagaan*, though you won’t find pecans growing in Ontario. 
+straight from Ojibwe---*moonz*.{% include ogg src="moonz" %} And a moccasin, too: it started out as *makizin*.{% include ogg
+src="makizin" %} *Chipmunk* is how
+settlers garbled the word *ajidamoo*{% include ogg src="ajidamoo" %} (which actually means ‘squirrel’). Somehow our word *pecan*
+made it to English from Ojibwe *bagaan*, though you won’t find pecans growing in Ontario. (It means ‘nut’ here.)
 
-And then there are all the place names. Mississippi (*Misi-ziibi*, ‘big river’), Milwaukee
-(*Mino-aki*, ‘good land’), Chicago (*Zhigaagong*, ‘at the skunk place’, which seems somehow
+And then there are all the place names. Mississippi (*Misi-ziibi* {% include ogg src="misi-ziibi" %}, ‘big river’), Milwaukee
+(*Mino-aki*, ‘good land’), Chicago (*Zhigaagong*,{% include ogg src="zhigaagong" %} ‘at the skunk place’, which seems somehow
 fitting), Manitoba (*Manidoo-baa*, ‘spirit straits’), Menominee (*Manoominii*, ‘wild rice people’),
 Michigan (*Mishi-gamaa*, ‘it’s a big body of water’), and small towns, counties, and rivers all
 around Anishinaabewaki (Anishinaabe country).
 
 Ojibwe is part of the Algonquian family of languages. Languages from the same family are the sources
 of the long, complicated, yet compellingly rhythmic place names you’ll find in New England, like
-Narragansett, Massachusetts, Piscataqua, Passadumkeag, Squannacook, Pemigewasset, Winnipesaukee, and
-Lake Chargoggagoggmanchauggagoggchaubunagungamaugg.
+Narragansett, Massachusetts, Piscataqua, Passadumkeag,{% include ogg src="passadumkeag" %} Squannacook, Pemigewasset, Winnipesaukee, and
+Lake Chargoggagoggmanchauggagoggchaubunagungamaugg.{% include ogg
+src="chargoggagoggmanchauggagoggchaubunagungamaugg" %}
 
 Keeping the same spirit, Ojibwe is not a language known for its brevity. Beginning to learn the
 language requires a definite mental adjustment.
@@ -133,12 +141,13 @@ language requires a definite mental adjustment.
 There are some notions that can be expressed with simple, short words. A lot of animals’ names, for
 example, are friendly and bite-size, like *makwa* ‘bear’, *migizi* ‘bald eagle’, *nigig* ‘otter’,
 *adik* ‘reindeer’, and *amik* ‘beaver’ (and not including *mashkode-bizhiki* ‘buffalo’ and
-*ogiishkimanisii* ‘kingfisher’).
+*ogiishkimanisii*{% include ogg src="ogiishkimanisii" %} ‘kingfisher’).
 
 Saying much about those animals, though, will mean that sooner rather than later, you’re going to
 have to use a verb. Most of Ojibwe is verbs. A sentence that English would express with several
 words might correspond to an Ojibwe sentence consisting of a single verb. For example, to say “I’ll
-try to speak Ojibwe with her”, you’d use a single word: *Inga-gagwe-anishinaabemotawaa.* All our
+try to speak Ojibwe with her”, you’d use a single word: *Inga-gagwe-anishinaabemotawaa.* {% include
+ogg src="inga-gagwe-anishinaabemotawaa" %} All our
 words are in there somewhere:
 
 In- | ga- | gagwe- | anishinaabe
@@ -155,8 +164,8 @@ start talking, or talk slow.
 Sometimes, like in that last example, all the little bits seem, to an English-speaking mind,
 sensible and there for a reason. But other times, it seems like a word is far longer than it has any
 reasonable need to be. Like, for example, the Ojibwe word for Red Lake (a big lake and big center of
-Anishinaabe culture in Northern Minnesota): *Miskwaagamiiwi-zaaga’iganiing*, which for all that
-essentially just means “At the red lake”:
+Anishinaabe culture in Northern Minnesota): *Miskwaagamiiwi-zaaga’iganiing*,{% include ogg
+src="miskwaagamiiwi-zaaga'iganiing" %} which for all that essentially just means “At the red lake”:
 
 Miskwaa- | gami-                | (i)wi- | zaaga’igan | -iing
 Red      | like a body of water | it is  | lake       | at

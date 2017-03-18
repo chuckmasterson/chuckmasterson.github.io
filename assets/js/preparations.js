@@ -260,6 +260,23 @@ $(document).ready(function(){
 
     $("a").smoothScroll({offset: -30, excludeWithin: [".wayfinding-block", "#sidebar"]});
 
+    // audio play button
+    var playing = false;
+
+    $('.audio-button').click(function() {
+      audioId = $(this).attr("id");
+      $(this).toggleClass("down");
+
+      if (playing == false) {
+        document.getElementById( audioId + '-audio' ).play();
+        playing = true;
+
+      } else {
+        document.getElementById( audioId + '-audio' ).pause();
+        playing = false;
+      }
+
+    });
     /* Comment JavaScript, courtesy of MMistakes */
 
     var $comments = $('.js-comments');

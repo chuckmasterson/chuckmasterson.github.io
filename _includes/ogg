@@ -1,0 +1,1 @@
+<audio id="{{ include.src }}-audio"><source src="/assets/audio/{{ include.src }}.ogg" type="audio/ogg"></audio><a id="{{ include.src }}" class="audio-button"><img src="/assets/svg/spkr.svg"></a>

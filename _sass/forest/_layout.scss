@@ -882,6 +882,16 @@ ul.dated-list {
   }
 }
 
+.audio-button {
+  cursor: pointer;
+  position: relative;
+  bottom: 2px;
+  margin: 0 3px;
+  img {
+    width: 15px;
+  }
+}
+
 /**
  * _includes/fig.html
  */
