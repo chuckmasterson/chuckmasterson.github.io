@@ -291,6 +291,9 @@ article.post {
     }
   }
 }
+.preview p:last-of-type:after {
+  content: ' …';
+}
 
 p.filing {
   text-align: center;

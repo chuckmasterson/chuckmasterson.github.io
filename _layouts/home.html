@@ -25,8 +25,8 @@ layout: default
                 {% endif %}
             </header>
 
-            <div class="post-content" itemprop="articleBody">
-                {{ post.excerpt | replace: "</p>", " …</p>" }}
+            <div class="post-content preview" itemprop="articleBody">
+                {{ post.excerpt }}
                 <div class="text-center whole-post-link">
                     <a class="button button-compact" href="{{ post.url }}">Read the whole post</a>
                 </div>
