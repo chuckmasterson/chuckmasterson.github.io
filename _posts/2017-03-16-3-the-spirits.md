@@ -5,18 +5,21 @@ subtitle: 'Anishinaabewaki Immigrant: Part III'
 categories:
   - religion
   - Anishinaabe
+excerpt_separator: <!--sep-->
 ---
 
 [Part I: The Language](/blog/2017/03/16/1-the-language) ·
 [Part II: The Sugar](/blog/2017/03/16/2-the-sugar) ·
 **Part III: The Spirits**
-{: .text-center }
+{: .text-center .prefatory }
 
 It’s trivially easy to point out that there’s something missing in our culture’s relationship with
 nature. The evidence is our entire way of life.
 
 But what is it that’s missing, that’s wrong? It’s harder to answer that than it is to know that
 *something*’s wrong. If we knew the answer already, maybe we wouldn’t be doing it.
+
+<!--sep-->
 
 For example, here’s a potential answer: our legal system. It’s set up to allow corporations to treat
 the environment as a free grab bag from which they can rip commodities, as well as

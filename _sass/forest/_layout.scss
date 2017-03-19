@@ -263,10 +263,9 @@ article.post {
   > .prefatory + p:not(.prefatory) {
     margin-top: 10px;
   }
-  > p:not(.prefatory):not(.no-drop):first-child,
+  > p:first-child,
   > p.force-drop,
   > .prefatory + p:not(.prefatory) {
-
     text-indent: 0;
     &:first-letter {
       font-size: 52px;
@@ -275,6 +274,13 @@ article.post {
       float: left;
       margin: 8px 2px -4px 0;
     }
+  }
+  > p.prefatory:first-letter {
+    font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+    float: none;
+    margin: 0;
   }
   figure {
     margin-left: auto;
