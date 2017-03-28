@@ -45,7 +45,9 @@
       <id>{{ post.id | absolute_url | xml_escape }}</id>
       <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
 
+        {% if post.subtitle %}
         {{ post.subtitle | prepend: "(" | append: ")" | markdownify | strip | xml_escape }}
+        {% endif %}
         {{ post.prefatory | markdownify | strip | xml_escape }}
         {{ post.content | strip | xml_escape }}
 
