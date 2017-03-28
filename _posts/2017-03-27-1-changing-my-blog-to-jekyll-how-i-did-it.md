@@ -103,9 +103,10 @@ own.
 
 Once you find the damn thing, you can click through to your blog’s image album, and in the top
 corner there’ll be a “...” button. From that you can download all your photos in a big giant zip
-folder.
-
-I didn’t do this, though, because I had a different plan.
+folder. (As I recall, I didn't actually do this, because I realized that I still had copies of all 
+the Blogger photos on my hard drive. So as I was going through all the posts to insert `figure`
+includes for the images, I would make sure each image got moved over to the site's images folder. 
+For some reason I was under the belief that this saved me work. I'm not sure it did.)
 
 #### Step 5: Figure out image displaying.
 
