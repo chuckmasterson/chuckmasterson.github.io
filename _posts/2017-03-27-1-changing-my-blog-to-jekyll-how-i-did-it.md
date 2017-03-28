@@ -93,7 +93,8 @@ nnoremap <leader>rb :%s/<\(\/\)\?b>/**/g<CR>
 #### Step 4: Get my images.
 
 Blogger uploads your images to Google Photos, but then it hides them from you in a secret area just
-for Blogger images. They don’t seem to have mentioned this to anyone. The only way was by going to
+for Blogger images. They don’t seem to have mentioned this to anyone. The only way I found them was 
+by going to
 the Blogger menu: `Help`, then typed in “images”, and clicked on “Add images and videos to your
 blog”. It says there, “Images in your blog are stored in a Google Album Archive...”, with a link.
 Apparently if you’re logged in to Google, though, you can just go to
