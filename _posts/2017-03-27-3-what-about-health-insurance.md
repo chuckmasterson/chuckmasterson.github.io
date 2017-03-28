@@ -42,7 +42,7 @@ It’s pretty easy to grow a few cabbages instead of buying them from the grid. 
 make your own computer. And then there are some parts of life that the grid has explicitly claimed
 a monopoly on, and you’re not even *allowed* to provide them for yourself (unless you own a company
 big enough to get a license). Things like: Roads. Gasoline. Phone lines. Internet cabling. And:
-health insurance.
+healthcare.
 
 It’s true that you can get a little healthcare from some friend of yours who studies Chinese
 healing, and even give yourself some healthcare from a first-aid kit. But go much beyond that into,
