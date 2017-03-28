@@ -200,8 +200,11 @@ an internet connection. The bit in `cloudinary.small` tells Cloudinary to shrink
       {% endif %}
     />
   </a>
-  {% if include.caption %} <figcaption> {{ include.caption | markdownify }} </figcaption> {% endif
-  %} 
+  {% if include.caption %}
+    <figcaption> 
+      {{ include.caption | markdownify }} 
+    </figcaption> 
+  {% endif %} 
 </figure> 
 {% endraw %}
 ```
