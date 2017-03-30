@@ -4,6 +4,7 @@ description: >
     *“What news! how much more important to know what that is which was never old!”* —Thoreau
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.chuckmasterson.com" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: America/Chicago
 
 # image URLs. Used in fig.html.
 image_dirs:
