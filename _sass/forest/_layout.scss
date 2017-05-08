@@ -902,8 +902,7 @@ ul.dated-list {
   clear: both;
   display: table;
   padding: 2px;
-  margin-left:  auto;
-  margin-right: auto;
+  margin: $spacing-unit/3 auto;
   border: $green-border-thin;
   background-color: $text-background-color-med;
   > a {
