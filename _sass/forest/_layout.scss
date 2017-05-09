@@ -243,6 +243,9 @@ article.post {
   strong {
     color: $text-color-bright;
   }
+  a strong {
+    color: inherit;
+  }
   hr {
     border: 0;
     height: $spacing-unit / 2;
