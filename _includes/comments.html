@@ -11,7 +11,7 @@
 
         {% assign comments = site.data.comments[commentslug] | sort %}
         <h2 class="page__section-label">
-            {% if comments.size > 1 %}
+            {% if comments.size > 0 %}
                 {{ comments.size }}
             {% endif %}
             Comment{% unless comments.size == 1 %}s{% endunless %}
