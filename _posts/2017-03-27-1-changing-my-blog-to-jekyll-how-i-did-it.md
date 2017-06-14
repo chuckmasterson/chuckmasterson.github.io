@@ -3,6 +3,7 @@ layout: post
 title: "Changing My Blog to Jekyll: *How* I Did It"
 subtitle: For those who want to make a Jekyll blog.
 categories: [meta, computers]
+comments_locked: true
 ---
 
 *This is the second of two posts about redoing my blog. This one is mainly for other people who’d
