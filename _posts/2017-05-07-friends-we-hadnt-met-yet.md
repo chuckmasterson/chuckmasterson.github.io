@@ -1,7 +1,7 @@
 ---
 title: Friends We Hadn't Met Yet
 categories:
-  - Homestead Tour
+  - Year of Transformation
   - interesting people
   - Anishinaabe
   - The Draw

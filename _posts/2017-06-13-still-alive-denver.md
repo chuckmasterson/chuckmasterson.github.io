@@ -1,7 +1,7 @@
 ---
 title: "Still Alive: Denver"
 categories:
-  - Homestead Tour
+  - Year of Transformation
   - Still Alive
 tags:
   - The West
