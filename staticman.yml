@@ -47,6 +47,13 @@ comments:
     # branch. If set to `true`, a pull request will be created for your approval.
     # Otherwise, entries will be published to the main branch automatically.
   moderation: false
+  
+  akismet:
+    enabled: true
+    author: "author"
+    content: "text"
+    # hopefully that's done right
+  
 
     # Name of the site. Used in notification emails.
   name: "Chuck Masterson’s Actual Blog"

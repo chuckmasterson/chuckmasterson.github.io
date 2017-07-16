@@ -11,7 +11,7 @@
 
         {% assign comments = site.data.comments[commentslug] | sort %}
         <h2 class="page__section-label">
-            {% if comments.size > 1 %}
+            {% if comments.size > 0 %}
                 {{ comments.size }}
             {% endif %}
             Comment{% unless comments.size == 1 %}s{% endunless %}
@@ -116,7 +116,9 @@
     </div>
     <!-- End new comment form -->
 {% else %}
-    <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to <a href="{{ site.url }}/contact/">contact me</a>.</em></p>
+    <div id="respond">
+      <p><em>Comments on this post are closed.</em></p>
+    </div>
 {% endunless %}
 <!-- % endif % !-->
 </section>
