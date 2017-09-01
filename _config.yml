@@ -33,7 +33,7 @@ paginate: 7
 paginate_path: /blog/page-:num/
 
 # theme: forest
-gems:
+plugins:
   # - jekyll-feed
   - github-pages
   - jekyll-redirect-from
