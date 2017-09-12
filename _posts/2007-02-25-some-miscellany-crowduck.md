@@ -1,5 +1,5 @@
 ---
-title: Some miscellany | Crowduck
+title: Some miscellany · Crowduck
 date: 2007-02-25T23:53:00+00:00
 author: Chuck
 layout: post
