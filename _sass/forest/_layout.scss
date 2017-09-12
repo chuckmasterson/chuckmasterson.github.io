@@ -206,6 +206,11 @@ body {
 .whole-post-link {
   margin-top: $spacing-unit;
 }
+.home .post .prefatory:not(:only-of-type) {
+  /* the pseudo bit means I don't have to put an excerpt_separator in all
+   * my old posts that have a prefatory paragraph at the beginning */
+  display: none;
+}
 
 /**
  * Posts
