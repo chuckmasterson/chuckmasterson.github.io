@@ -161,8 +161,8 @@ there?
 Or for that matter, what if the ashram had never worked out, but Misty had
 still been raised by Mike and Michelle? The perspectives on life that come from
 being transgender, from having worked as a prostitute, from having been always
-outside the system---these would have defined "normal" for Misty. And very
-possibly, Misty would have had the experience of feeling normal themself.
+outside the system---these would have defined "normal" for Misty. And, Misty
+believes, they would even have had the experience of feeling normal themself.
 
 All we could conclude was that it would have been a very different life.
 
