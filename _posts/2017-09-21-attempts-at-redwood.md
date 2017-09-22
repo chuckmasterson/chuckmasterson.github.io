@@ -21,9 +21,10 @@ During the [Year of Adventure](/wayfinding/#topic-year-of-adventure), I visited 
 
 Under the quiet shade of the redwoods there, I realized, unexpectedly, that if I wanted to write about this experience, I could never manage it in prose. I've barely ever written poetry, but I still recognized that only a poem could come close to conveying the experience---and even then anything I could write would only be an attempt. I even found the title for the group of poems I would have to write---“Attempts at a Redwood”---but didn't start while I was there, and after I left and thought about starting the effort, the feeling was too hard to bring back.
 
-Last month I went again, with Misty, and this time I started writing before we left. Now I've finished it---I've done what I can with the unfamiliar tool of poetry to explain something that is probably fundamentally unexplainable.
+Last month I went again, with Misty, and this time I started writing before we left, so I wouldn't lose the spirt of the experience. I didn't finish there, but I have now---I've done what I can with the unfamiliar tool of poetry to explain something that is probably fundamentally unexplainable.
 
 * * *
+{: .visible }
 
 <section class="poem" markdown="1">
 
