@@ -7,6 +7,7 @@ categories:
   - Year of Transformation
 tags:
   - Cascadia
+excerpt_separator: <!--sep-->
 ---
 
 > *The redwoods, once seen, leave a mark or create a vision that stays with you always. No one has ever successfully painted or photographed a redwood tree. The feeling they produce is not transferable.*
@@ -15,6 +16,8 @@ tags:
 {: .prefatory}
 
 During the [Year of Adventure](/wayfinding/#topic-year-of-adventure), I visited the redwoods. At Jedediah Smith Redwoods State Park, little campsites, carpeted in the soft brown litterfall that the trees let go, are nestled almost immaterially amid giant trunks. Even the most intrusive RV looks unprepossessing in the soft light and gently dwarfing perspective that reigns under this canopy, and in the hike-and-bike section where I stayed, our little clearings with our little tents felt like warm vole burrows.
+
+<!--sep-->
 
 Under the quiet shade of the redwoods there, I realized, unexpectedly, that if I wanted to write about this experience, I could never manage it in prose. I've barely ever written poetry, but I still recognized that only a poem could come close to conveying the experience---and even then anything I could write would only be an attempt. I even found the title for the group of poems I would have to write---“Attempts at a Redwood”---but didn't start while I was there, and after I left and thought about starting the effort, the feeling was too hard to bring back.
 
