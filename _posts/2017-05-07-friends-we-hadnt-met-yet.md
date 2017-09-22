@@ -6,6 +6,7 @@ categories:
   - Anishinaabe
   - The Draw
   - friends
+  - hitchhiking
 tags:
   - Midwest
   - The South
