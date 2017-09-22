@@ -316,7 +316,7 @@ blockquote {
   }
 }
 
-.preview p:last-of-type:after {
+.preview > p:last-of-type:after {
   content: ' …';
 }
 
