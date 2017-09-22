@@ -191,7 +191,7 @@ Last month I went again, with Misty, and this time I started writing before we l
 ### The Fallen
 
 - Here and there
-- My unpeaceful foosteps
+- My unpeaceful footsteps
 - Resound hollowly
 - On airier ground---
 - Knocking on the hard crust of good bread.
