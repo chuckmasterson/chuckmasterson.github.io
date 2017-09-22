@@ -113,7 +113,7 @@ Last month I went again, with Misty, and this time I started writing before we l
 - Has stolen the evidence everyone guarded
   - From their tombs,
 - Its otherwise perfect crime
-- Still slyly let slip
+- Still slyly disclosed
 - Only by its old friend.
 ^
 - Having begun to grasp, I look up,
