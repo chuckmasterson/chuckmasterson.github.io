@@ -64,7 +64,7 @@ Last month I went again, with Misty, and this time I started writing before we l
 - To the tree it came from.
 - A drop from a waterfall:
 - The small miracle in your hand
-- Barely a shade of a hint
+- A wisp of a hint
 - Of the miracle above you.
 - In a universe diffuse, desert, and entropic
 - A life solid and sure
@@ -137,7 +137,7 @@ Last month I went again, with Misty, and this time I started writing before we l
 - A room hollowed beneath
 - By flames whose echoes,
 - Graven in polygons of char,
-- Still make my fingers shy lest they burn.
+- Still make my fingers shy from imagined embers.
 ^
 - A creature whose home is at once
 - Underground, upon the earth, and in the heavens
@@ -273,7 +273,7 @@ Last month I went again, with Misty, and this time I started writing before we l
   - The peace of a rainstorm
   - The peace of a violent wind
 ^
-- The air is filled each dawn
+- Their air is filled each dawn
   - And each dusk
   - And each moment between,
 - The short endlessness of twenty-four hours
