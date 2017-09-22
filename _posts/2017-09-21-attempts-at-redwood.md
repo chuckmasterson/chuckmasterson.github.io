@@ -283,7 +283,7 @@ Last month I went again, with Misty, and this time I started writing before we l
 - Is to appreciate it.
 ^
 - Together these organ pipes sound
-- The single silent note
+- The single silent chord
 - Of creation.
 
 
