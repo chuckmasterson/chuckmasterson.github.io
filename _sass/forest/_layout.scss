@@ -922,9 +922,9 @@ ul.dated-list {
 .poem ul {
   list-style: none outside;
   padding-left: 0;
-  margin-left: $spacing-unit;
+  margin-left: $spacing-unit / 2;
   li, li li {
-    text-indent: -$spacing-unit;
+    text-indent: -$spacing-unit / 2;
   }
   ul {
     margin-top: 0;
