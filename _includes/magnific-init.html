@@ -14,7 +14,12 @@ $(document).ready(function() {
       },
       image: {
         titleSrc: function(item) {
-          return item.el.parents('figure').find('figcaption').html();
+          // returns null string if no caption present - without this,
+          // during a slideshow, uncaptioned pictures get left with the
+          // previous photo's caption
+          var figcaptionEl = item.el.parents('figure').find('figcaption');
+          if (figcaptionEl.length > 0) { return figcaptionEl.html(); }
+          else { return ""; }
         },
         markup: '<div class="mfp-figure">'+
           '<div class="mfp-close"></div>'+
