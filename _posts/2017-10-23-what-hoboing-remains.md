@@ -25,7 +25,7 @@ Some people come to this area with connections, with a job already lined up. We 
 
 And that's what we've been doing for the last couple weeks here: a bit of trimming, a bit of odd jobs. Our grower is a very nice person who cooks amazing meals for us. We sleep camped out under a canopy on a hill with an amazing view of the valley around.
 
-(You may be unsurprised to know that I'm being very moderate with my consumption of the crop ("Sparing, some might say," as Misty puts it). I've never been much of a toker; it mostly just makes me fall asleep. But hey, it's legalized in this state, and you won't find it any fresher, so I've been enjoying a little of it.)
+You may be unsurprised to know that I'm being very moderate with my consumption of the crop ("Sparing, some might say," as Misty puts it). I've never been much of a toker; it mostly just makes me fall asleep. But hey, it's legalized in this state, and you won't find it any fresher, so I've been enjoying a little of it. But I'm really here for the work, not for the weed.
 
 We're not sure how much longer we'll stay here. It's a beautiful October here, but the thing is, you would barely know it, because we trim inside, and only see the sun during breaks. We also go a little nuts sitting down all day long, and can feel carpal tunnel setting in from scissor-handing all the time. We'll probably keep on adventuring further down the road within a couple weeks.
 
