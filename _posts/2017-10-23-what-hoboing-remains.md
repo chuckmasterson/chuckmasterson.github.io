@@ -28,4 +28,4 @@ And that's what we've been doing for the last couple weeks here: a bit of trimmi
 
 We're not sure how much longer we'll stay here. It's a beautiful October here, but the thing is, you would barely know it, because we trim inside, and only see the sun during breaks. We also go a little nuts sitting down all day long, and can feel carpal tunnel setting in from scissor-handing all the time. We'll probably keep on adventuring further down the road within a couple weeks.
 
-Speaking of breaks, we're on a rare half-day because our grower's gone to a different town for the evening, and I'm eager to seize the daylight while it's here. So I'm going to wrap it up here and go on a walk.
+Speaking of breaks, we're on a rare half-day because our grower's gone to a different town for the evening, and I'm eager to seize the daylight while it's here. So I'm going to wrap it up here and go on a walk with Misty.
