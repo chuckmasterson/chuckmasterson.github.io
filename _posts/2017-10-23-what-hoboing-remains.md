@@ -2,6 +2,7 @@
 title: What Hoboing Remains
 categories:
   - Year of Transformation
+  - adventure
 tags:
   - The West
 ---
