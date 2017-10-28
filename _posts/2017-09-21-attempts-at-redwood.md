@@ -8,6 +8,7 @@ categories:
 tags:
   - Cascadia
 excerpt_separator: <!--sep-->
+published: true
 ---
 
 > *The redwoods, once seen, leave a mark or create a vision that stays with you always. No one has ever successfully painted or photographed a redwood tree. The feeling they produce is not transferable.*
@@ -102,9 +103,9 @@ Last month I went again, with Misty, and this time I started writing before we l
 - Its brown expanse a landform;
 - It forms its own background,
 - And it must be *explored*,
-- Wandered around.
-- Surely it is not part of a forest
-- But a whole forest in itself?
+- Mysteries on its far side discovered.
+- Surely it is not a dweller in the forest's realm
+- But a realm itself?
 ^
 - Or here:
 - Blocken, blackened bark
@@ -158,7 +159,7 @@ Last month I went again, with Misty, and this time I started writing before we l
 - All silences.
 ^
 - I should have known
-- From long acquaintance with the leafed:
+- From long acquaintance with the green:
 - As it falls to us who crawl and climb and fly
 - To breathe the air
   - That they steadily render
@@ -262,12 +263,14 @@ Last month I went again, with Misty, and this time I started writing before we l
 - With all that time?
 ^
 - A tree does not look down
-- From eyes set in its crown
-- It perceives what it breathes
-- Through the pores of its leaves:
+- From eyes amid its crown
+- It perceives
+  - What its leaf-pores breathe,
+  - What its root-hairs wind among,
+  - What its bark deflects and admits:
 - Uncountable patient awarenesses.
 ^
-- Up there they are knowing
+- Up there they are knowing, in this way,
   - The peace of hanging mist
   - The peace of sunlight
   - The peace of a rainstorm
