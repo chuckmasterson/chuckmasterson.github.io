@@ -3,6 +3,7 @@ title: Back Behind the Burger King
 categories:
   - Year of Transformation
   - interesting people
+  - hitchhiking
   - bad culture
 tags:
   - Great Plains
