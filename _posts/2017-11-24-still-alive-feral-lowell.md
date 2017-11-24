@@ -1,0 +1,21 @@
+---
+title: "Still Alive: Feral Farm and Lowell, Idaho"
+categories:
+  - Still Alive
+  - Year of Transformation
+tags:
+  - Cascadia
+  - The West
+---
+
+A couple months ago on our last loop through Minneapolis, Misty and I went to the switchyard to find a freight west to the coast. If you find the right one and you're stealthy enough during the crew changes, you can get a non-stop ride all the way to Seattle or Portland. That evening we walked back behind an industry building and snuck back behind some tanker cars parked off on a little spur, and ran into some other people.
+
+There were three of them, and we sat and shared some beers and some stories, and when one of them, Hannah, heard about Misty's and my tour of off-grid communities, she told us about a place she'd just been: Feral Farm, out in Washington State. An anarchist, permaculture farm, she told us, and it sounded good to us, so a few weeks later we found them online and called them up.
+
+And that's how we ended up in Feral Farm, just outside the little town of Rockport, in the foggy ankles of the Cascades. Feral Farm (not affiliated with [Wild Roots Feral Futures](/wayfinding#category-feral), which is an anarchist *gathering* rather than an anarchist *farm*) turns out to be mostly the product of the Dutch work ethic of one guy, Matt von Boven, who's been working the land here for twenty years. He's planted chestnuts, cedars, [medlars](https://en.wikipedia.org/wiki/Mespilus_germanica), [service trees](https://en.wikipedia.org/wiki/Sorbus_domestica), [serviceberries](https://en.wikipedia.org/wiki/Amelanchier_alnifolia), walnuts, and lots more---"My thing is, I just plant some of every edible species I can find," he says. He's also built several little buildings, one-room affairs: a yurt that he lives in, a couple rustic cabins that he's lately been renting out on Airbnb to make a little money. Misty and I stay in the library, a standalone cabin with a rain-protected breezeway, wonderfully warm and cozy during the soaking wet days and nights of Washington. There's no electricity, but there's a wood stove and a good stock of candles that Matt bought at 50¢ per 44-count box after Chanukah was over one year.
+
+We've been there for about two weeks now, doing the 2½ hours of work per day that Matt asks of us, and listening to his stories about people who've come through. The farm is a pretty shoestring place. All the buildings are made from scrap scavenged from abandoned buildings and other structures around the area, and the trees are mostly planted directly from seed. Food is as basic as it gets: potatoes, beans, rice, occasional cuts of roadkill deer, and the harvests of the forest farm. There's no running water and no electricity. But we're as happy as can be anyhow: we get to do useful stuff, and in the evenings we're surrounded with excellent books. Unexpectedly, we've been finding that this little one-person farm has been a great place for us to learn about interpersonal dynamics---we've learned from his stories, and we've learned more about each other, here in this little wood-heated crucible. It's been a beautiful time, and we'll probably stay for another couple weeks. We could stay all winter if we want. We haven't decided what's next yet.
+
+Right now, I'm not there. I've hitched to Lowell, Idaho, where my cousin Travis invited me to a family Thanksgiving with family I never quite knew I had: my second cousin Lara, who was a clown for Ringling Bros., met her husband (another clown) at the circus, and then, as time went by, started spending less time clowning with him and more time helping him and his brother run his family's rafting resort in the middle of nowhere in Idaho. The resort is pretty much the only commercial establishment in town, and it's surrounded by forest and right at the confluence of the Selway and Lochsa (*lock*-saw) rivers where they become the Clearwater.
+
+I've spent the last couple days hearing about the old Ringling days, learning what Travis is up to, catching up on the Ohio beanch of the family, and eating lots and lots of food. Soon, I'm headed back to Feral Farm. For now, I'd better wrap up---I'm running out of time at this computer in the school library where Lara works. Till next time I have the internet.
