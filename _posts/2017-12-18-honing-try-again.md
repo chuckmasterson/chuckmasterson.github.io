@@ -34,7 +34,8 @@ this lifetime I might begin to feel they aren’t.
 ^
 - One latter day,
 - Having exhausted other resorts,
-- An important Questioner hiked up to ask:
+- An important Questioner hiked up
+- To ask, for governmental advisement:
 - “How can we save our world?”
 - “Couldn’t say. Never been there.”
 - So the Questioner let him stand
