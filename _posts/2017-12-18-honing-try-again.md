@@ -1,5 +1,5 @@
 ---
-title: "Honing · Try Again"
+title: "Honing • Try Again"
 categories:
   - poetry
   - writing
