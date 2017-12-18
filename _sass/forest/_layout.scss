@@ -220,7 +220,7 @@ article.post {
   background-color: $container-background-color;
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
-  line-height: 1.8;
+  line-height: 1.9;
   width: 100%;
   margin-bottom: $spacing-unit/2;
   -webkit-hyphens: auto;
@@ -280,7 +280,7 @@ article.post {
       font-family: $fancy-font-family;
       line-height: 45px;
       float: left;
-      margin: 8px 2px -4px 0;
+      margin: 11px 2px -5px 0;
     }
   }
   > p.no-drop:first-letter,
@@ -300,7 +300,23 @@ article.post {
     }
   }
 }
-.preview p:last-of-type:after {
+
+blockquote {
+  &.prefatory {
+    border: none;
+    font-size: $small-font-size;
+  }
+  cite {
+    display: block;
+    font-style: normal;
+    text-align: right;
+    &:before {
+      content: '—';
+    }
+  }
+}
+
+.preview > p:last-of-type:after {
   content: ' …';
 }
 
@@ -847,6 +863,7 @@ hr.visible {
   border: none;
   border-top: $green-border-thin;
   margin: $spacing-unit/2 $spacing-unit;
+  height: 0;
 }
 ul.inline-list {
   margin-left: 0;
@@ -900,6 +917,21 @@ ul.dated-list {
   margin: 0 3px;
   img {
     width: 15px;
+  }
+}
+
+.poem ul {
+  list-style: none outside;
+  padding-left: 0;
+  margin-left: $spacing-unit / 2;
+  li, li li {
+    text-indent: -$spacing-unit / 2;
+  }
+  ul {
+    margin-top: 0;
+  }
+  + ul {
+    margin-top: 1.4em;
   }
 }
 
