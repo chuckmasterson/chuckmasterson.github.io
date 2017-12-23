@@ -23,9 +23,9 @@ this lifetime I might begin to feel they aren’t.
 * * *
 {: .visible }
 
-## Try Again
-
 <section class="poem" markdown="1">
+
+## Try Again
 
 - A certain Madman
 - In the hills outside the capital

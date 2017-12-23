@@ -920,20 +920,26 @@ ul.dated-list {
   }
 }
 
-.poem ul {
-  list-style: none outside;
-  padding-left: 0;
-  margin-left: $spacing-unit / 2;
-  li, li li {
-    text-indent: -$spacing-unit / 2;
-  }
+.poem {
+  width: fit-content;
+  max-width: 90%;
+  margin: auto;
   ul {
-    margin-top: 0;
-  }
-  + ul {
-    margin-top: 1.4em;
+      list-style: none outside;
+      padding-left: 0;
+      margin-left: $spacing-unit / 2;
+      li, li li {
+      text-indent: -$spacing-unit / 2;
+    }
+    ul {
+      margin-top: 0;
+    }
+    + ul {
+      margin-top: 1.4em;
+    }
   }
 }
+
 
 /**
  * _includes/fig.html
