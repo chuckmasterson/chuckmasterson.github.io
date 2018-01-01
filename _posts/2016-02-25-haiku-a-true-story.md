@@ -12,6 +12,7 @@ redirect_from:
 categories:
   - irrelevancies
   - writing
+  - poetry
 
 ---
 
