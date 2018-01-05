@@ -33,7 +33,7 @@ skills, as far as I can tell. He comes to own the title to the land he’s on th
 hard work and luck. The luck part was that he had the connections to get into the weed-growing
 business, but the rest of the story is pretty much composed of hard work. While he was publicly
 leveling land and planting fruit trees and making trails and roads to set up a farm, the real
-sustaining work of the farm for most of its first twenty years was all the pot plants he’d hidden in
+sustaining work of the farm for most of its first fifteen years was all the pot plants he’d hidden in
 scattered locations throughout the dense forest, and his daily trips along clandestine untraceable
 trails to go tend to them. He didn’t get rich off it, but he did make enough money to buy a piece of
 paper that says he’s allowed to live on that plot and landscape it too.
