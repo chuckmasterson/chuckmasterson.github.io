@@ -25,7 +25,15 @@ imagesmall: "/c_limit,h_450,w_450/" # local: "/sm/"
 github_username: chuckmasterson
 repository: chuckmasterson/chuckmasterson.github.io
 jquery_version: 3.1.1
-author: Chuck
+
+author:
+  chuck:
+    pic: "/assets/images/design/chuck.jpg"
+    name: "Chuck"
+guest_authors:
+  misty:
+    pic: "/assets/images/design/misty.jpg"
+    name: "Misty"
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,10 @@
+{% assign pic_source = site.guest_authors.[include.author].pic %}
+{% assign human_readable_name = site.guest_authors.[include.author].name %}
+<div class="author-box">
+  <img class="author-pic" src="{{ pic_source }}" />
+  <span class="author-name">by 
+    <a href="/wayfinding#author-{{ include.author }}">
+      {{ human_readable_name }}
+    </a>
+  </span>
+</div>

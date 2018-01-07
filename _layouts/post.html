@@ -17,6 +17,9 @@ layout: default
         {% if page.subtitle %}
             <p class="subtitle">{{ page.subtitle | escape | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
         {% endif %}
+        {% if page.author %}
+          {% include author.html author=page.author %}
+        {% endif %}
       </header>
 
       <div class="post-content" itemprop="articleBody">

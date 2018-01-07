@@ -363,6 +363,30 @@ header.post-header {
     font-size: 17px;
     margin: 0 auto;
   }
+
+  .author-box {
+    display: inline-block;
+    margin-top: 2em;
+    border-radius: 37px 0  0 37px;
+    border: $green-border-thin;
+    background-color: #001a00;
+    padding: 2px;
+  }
+  .author-pic {
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+  }
+  .author-name {
+    display: inline-block;
+    font-family: $base-font-family;
+    font-style: italic;
+    text-shadow: -1px -1px rgb(0,0,0);
+    padding: 0 30px;
+    height: 70px;
+    line-height: 68px;
+}
+
   @include media-query($on-palm){
     padding: 40px 20px;
   }
