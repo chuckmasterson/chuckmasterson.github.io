@@ -6,7 +6,10 @@ categories:
   - fun in the cold
 ---
 
-<section class="poetry" markdown="1">
+Here comes another poem. They keep happening. I hope that's okay.
+{: .no-drop }
+
+<section class="poem" markdown="1">
 - In the sky and the ocean
 - Around its eternal dance
 - Water abides slow-motion
