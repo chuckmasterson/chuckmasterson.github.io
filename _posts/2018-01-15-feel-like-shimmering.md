@@ -10,6 +10,7 @@ Here comes another poem. They keep happening. I hope that's okay.
 {: .no-drop }
 
 * * *
+{: .visible }
 
 <section class="poem" markdown="1">
 - In the sky and the ocean
