@@ -1,5 +1,4 @@
 ---
-published: false
 title: What ARC Is and Why We're in Minnesota in January
 categories:
   - Year of Transformation
