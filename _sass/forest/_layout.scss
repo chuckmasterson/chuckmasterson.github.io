@@ -658,7 +658,12 @@ aside#sidebar {
     ul {
       font-size: $small-font-size;
       font-family: $title-font-family;
-
+      list-style: none outside;
+      padding-left: 0;
+      margin-left: $spacing-unit / 2;
+      li {
+        text-indent: -$spacing-unit / 2;
+      }
     }
   }
 }
@@ -945,9 +950,6 @@ ul.dated-list {
 }
 
 .poem {
-  width: fit-content;
-  max-width: 90%;
-  margin: auto;
   ul {
       list-style: none outside;
       padding-left: 0;
@@ -962,6 +964,11 @@ ul.dated-list {
       margin-top: 1.4em;
     }
   }
+}
+section.poem {
+  width: fit-content;
+  max-width: 90%;
+  margin: auto;
 }
 
 
