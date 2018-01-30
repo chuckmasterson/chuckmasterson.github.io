@@ -17,8 +17,8 @@ layout: default
         {% if page.subtitle %}
             <p class="subtitle">{{ page.subtitle | escape | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
         {% endif %}
-        {% if page.author %}
-          {% include author.html author=page.author %}
+        {% if page.guest_author %}
+          {% include author.html author=page.guest_author %}
         {% endif %}
       </header>
 
