@@ -4,8 +4,6 @@ layout: page
 permalink: /lists/
 ---
 
-## Lists
-
 ### Lists on this page:
 
 * [Obscure but amazing things I like](#obscure-but-amazing-things-i-like)
