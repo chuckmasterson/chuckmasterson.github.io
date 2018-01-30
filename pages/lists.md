@@ -24,12 +24,12 @@ permalink: /lists/
     an electric light.
 
     He was a poet. His poetry is inexplicable and somehow extremely compelling.
-    > ### The Happening
+    > #### The Happening
     > - I put my hand in my pocket
     > - To see what was happening there.
     {: .poem }
 
-    > ### The Forgetful Fowl
+    > #### The Forgetful Fowl
     > - Today, absentmindedly, I laid a Granny Smith.
     > - It was sold as a *extra-large egg*,
     > - Two and thruppence for six.
@@ -40,7 +40,7 @@ permalink: /lists/
     > - Then she took it back again.
     {: .poem }
 
-    > ### Wow
+    > #### Wow
     > - "Why don't you sit down and go away?"
     > - "I can't sit down and go away!"
     > - "Yes you can," I said,
