@@ -1006,7 +1006,7 @@ section.poem {
     background-color: #fff;
   }
   &.left, &.right {
-    width: 50%;
+    max-width: 50%;
   }
   &.left {
     float: left;

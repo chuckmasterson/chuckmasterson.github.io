@@ -17,7 +17,7 @@
     <a class="mfp-trigger" href="{% if include.elsewhere %}{{ include.src }}
       {% else %}{{ img_root }}{{ lg_dir }}{{ src_to_use }}
       {% endif %}">
-      <img
+      <img {% if include.title %}title="{{ include.title }}"{% endif %}
         {% if include.elsewhere %}
             src="{{ include.src | uri_escape }}"
         {% else %}
