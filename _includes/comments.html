@@ -136,16 +136,16 @@
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
             </fieldset>
             <!-- Start comment form alert messaging -->
-            <p class="hidden js-notice">
-            <span id="js-notice-success" class="js-notice-text hidden">
-              <strong>Thanks for your comment!</strong> It will show on the site once it’s been processed.
-            </span>
-            <span id="js-notice-failure" class="js-notice-text hidden">
-              <strong>Sorry, there was an error submitting your comment.</strong> Please make sure all the
-              required fields are filled in and try again. If it still won't work, you can
-              <a href="/manual-comment?slug={{ commentslug | uri_encode }}">comment manually.</a>
-            </span>
-            </p>
+            <div class="hidden js-notice">
+              <span id="js-notice-success" class="js-notice-text hidden">
+                <strong>Thanks for your comment!</strong> It will show on the site once it’s been processed.
+              </span>
+              <span id="js-notice-failure" class="js-notice-text hidden">
+                <strong>Sorry, there was an error submitting your comment.</strong> Please make sure all the
+                required fields are filled in and try again. If it still won't work, you can
+                <a href="/manual-comment?slug={{ commentslug | uri_encode }}">comment manually.</a>
+              </span>
+            </div>
             <!-- End comment form alert messaging -->
             <fieldset>
                 <button type="submit" id="comment-form-submit" class="button">Submit Comment</button>
