@@ -227,7 +227,7 @@ article.post {
      -moz-hyphens: auto;
           hyphens: auto;
 }
-.post-content, article.comment {
+.post-content, section.comments-section {
 
   p {
     margin: 0;
@@ -476,13 +476,18 @@ nav.post-to-post-nav {
     margin-top: 0;
     font-weight: $base-font-weight;
   }
+  &.child {
+    padding-bottom: $spacing-unit/2;
+  }
+  &.child:last-child {
+    padding-bottom: 0;
+  }
   &.child, & + #respond {
     // #respond doesn't get given any special class when moved
     // to child positioning, so have to use sibling selector
     padding-left: $spacing-unit/3;
     border-left: 5px solid $brand-color-dark;
-    padding-bottom: $spacing-unit;
-    padding-top: $spacing-unit;
+    padding-top: $spacing-unit/2;
   }
   &.child + .comment.child {
     padding-top: 0;
@@ -531,6 +536,16 @@ nav.post-to-post-nav {
     height: 100%;
   }
 }
+article.comment header {
+  line-height: 1.5;
+  .comment__source-link {
+    display: none;
+    color: $brand-color-dark;
+  }
+  &:hover .comment__source-link {
+    display: inline;
+  }
+}
 .comment__author-name,
 .comment__timestamp {
   font-family: $title-font-family;
@@ -539,14 +554,25 @@ nav.post-to-post-nav {
   clear: left;
   padding: $spacing-unit/3 0;
 }
-a.reply-button {
-  display: inline-block;
-  padding: 3px 10px 3px 10px;
-  background-color: #001a00;
-  font-family: $title-font-family;
+a.reply-button, a.cancel-button {
   border: $brand-border-dark;
-  border-left-width: 5px;
+  display: inline-block;
+  background-color: #001a00;
+  padding: 3px 10px 3px 10px;
+  font-family: $title-font-family;
   border-radius: 0 15px 15px 0px;
+}
+// These are mostly the same but need some tweaks because .cancel-button
+// manifests as a child element and .reply-button just looks like one.
+a.reply-button {
+  border-left-width: 5px;
+}
+a.cancel-button {
+  margin-left: -10px;
+  border-left: 0;
+}
+#comment-form {
+  margin-bottom: $spacing-unit/2;
 }
 #comment-form-submit {
   font-size: 14px;

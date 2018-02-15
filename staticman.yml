@@ -14,12 +14,11 @@ comments:
         format: "timestamp-seconds"
 
   moderation: false
-  
   name: "Chuck Masterson’s Actual Blog"
   notifications:
     enabled: true
-    apiKey: "HLbPxjGJbtwP7lnCTnph+cwTyLa38e+zGPB7c0xrePE9XGBtVEODjUshhlNIFyNzSWdH5Ez364iSRCpwxIluam70nyHdg4HWNHNl+Ol3mgg8AAFWKi3VlQTsmz/gBwKj/X0C1BSgq39QpGixBYQ12E4AorBBUFE8yC0xAkVvSMs="
-    domain: "QHjodP6gI1JyxrYShV2FBuwJFRrVCb0SC83n2GvDc0PtFd2g4eXzfkI73/dWskwHvAf1qRpYb0bAcBDYhJYpZoJd1Md6MFQet+DquHLovXNS9SUntAWSkIfgh+spRcnkjcjGHBOnfW/stOJvR+RxIcYWnm/hgRmsSPbR6Wq/kn8="
+    apiKey: "rwIKc+08m8XIIhy4qPcnRQP3RH3hf8Q7EkC+rA0B+hhJUTlM+rn4lEqKJnOKJq2yvAuUbX4HQrt0h6aG7pKOc9d9ONm/nzLVmCb+/rBHwaYCMz76if46EMZcibCWbe+GyoYvqLQimjAIYqglDKlFE7CBPSkbjU7uzRm0i0k1CxQ="
+    domain: "UI14wWltCuju5wOUY6N90tuE0qwjZo7Aw6s9S/EdeDfE5dmwoH2Oq06HbHghAeS/WULJg35ym10SJYh+xLLI4t70d2HKa9R4t1luvqIB24lsV5t20IYob1vfJn+OLOlCKyHJx7S9rhKaa38LaRd7kspPoj4IwraCmj+hIRKOvto="
     fromAddress: "comment@mail.chuckmasterson.com"
 
 

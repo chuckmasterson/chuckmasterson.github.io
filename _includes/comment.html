@@ -1,15 +1,16 @@
 <article id="comment{% if is_top_level %}{{ include.id | prepend: '-' }}{% else %}{{ id | prepend: '-' }}{% endif %}" 
 class="js-comment comment {% if p %}{% unless p == commentslug %}child{% endunless %}{% endif %}">
 
-<div class="comment__avatar">
+<header>
+  <div class="comment__avatar">
     {% if include.email.size > 0 %}
       <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=identicon&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=identicon&s=120 2x" alt="{{ include.name | escape }}">
     {% else %}
     {% include makeavatar avatarname=include.name %}
     {% endif %}
-</div>
+  </div>
 
-<h3 class="comment__author-name">
+  <h3 class="comment__author-name">
     {% if include.url.size > 0 %}
         <a rel="external nofollow" href="{{ include.url }}">
             {{ include.name }}
@@ -17,41 +18,40 @@ class="js-comment comment {% if p %}{% unless p == commentslug %}child{% endunle
     {% else %}
         {{ include.name }}
     {% endif %}
-</h3>
+  </h3>
 
-<div class="comment__timestamp">
+  <span class="comment__timestamp">
     {% if include.date %}
-      {% if include.index %}<a href="#comment{% if is_top_level %}{{ include.id | prepend: '-' }}{% else %}{{ id | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
-        <time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%B %d, %Y, %l:%M %P' }}</time>
-        {% if include.index %}</a>{% endif %}
+    {% if include.index %}<a href="#comment{% if is_top_level %}{{ include.id | prepend: '-' }}{% else %}{{ id | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
+      <time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%B %d, %Y, %l:%M %P' }}</time>
+      {% if include.index %}</a>{% endif %}
     {% endif %}
-</div>
+  </span>
+  <a class="comment__source-link small"
+     href="https://github.com/{{ site.repository }}/blame/master/_data/comments/{{ commentslug }}/{{ include.filename }}.yml">History</a>
+</header>
 
 <div class="comment__content">
     {{ include.message | markdownify }}
 </div>
 
-</article>
-
 {% assign replies = site.data.comments[commentslug] | sort %}
 {% for reply in replies %}
-  {% assign index   = forloop.index | prepend: '-' | prepend: include.index %}
-  {% assign id      = reply[1]._id %}
-  {% assign p       = reply[1].replying_to %}
-  {% assign parent  = p | to_integer %}
-  {% assign avatar  = reply[1].avatar %}
-  {% assign email   = reply[1].authoremail %}
-  {% assign name    = reply[1].author %}
-  {% assign url     = reply[1].authorurl %}
-  {% assign date    = reply[1].date %}
-  {% assign message = reply[1].text %}
+  {% assign filename = reply[0] %}
+  {% assign index    = forloop.index | prepend: '-' | prepend: include.index %}
+  {% assign id       = reply[1]._id %}
+  {% assign p        = reply[1].replying_to %}
+  {% assign parent   = p | to_integer %}
+  {% assign avatar   = reply[1].avatar %}
+  {% assign email    = reply[1].authoremail %}
+  {% assign name     = reply[1].author %}
+  {% assign url      = reply[1].authorurl %}
+  {% assign date     = reply[1].date %}
+  {% assign message  = reply[1].text %}
   {% if p == include.id %}
-    {% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+    {% include comment.html filename=filename index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
   {% endif %}
-
-  {% if forloop.last %}
-  {% endif %}
-
 
 {% endfor %}
 
+</article>

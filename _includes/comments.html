@@ -18,16 +18,17 @@
         </h2>
 
         {% for comment in comments %}
-            {% assign id      = comment[1]._id %}
-            {% assign index   = forloop.index %}
-            {% assign p       = comment[1].replying_to %}
-            {% assign parent  = p | to_integer %}
-            {% assign avatar  = comment[1].avatar %}
-            {% assign email   = comment[1].authoremail %}
-            {% assign name    = comment[1].author %}
-            {% assign url     = comment[1].authorurl %}
-            {% assign date    = comment[1].timestamp %}
-            {% assign message = comment[1].text %}
+            {% assign filename = comment[0] %}
+            {% assign id       = comment[1]._id %}
+            {% assign index    = forloop.index %}
+            {% assign p        = comment[1].replying_to %}
+            {% assign parent   = p | to_integer %}
+            {% assign avatar   = comment[1].avatar %}
+            {% assign email    = comment[1].authoremail %}
+            {% assign name     = comment[1].author %}
+            {% assign url      = comment[1].authorurl %}
+            {% assign date     = comment[1].timestamp %}
+            {% assign message  = comment[1].text %}
 
             {% if p == commentslug or p == nil %}
               {% assign is_top_level = true %}
@@ -36,11 +37,12 @@
             {% endif %}
 
             {% if is_top_level %}
-              {% include comment.html index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
+              {% include comment.html filename=filename index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
 
               {% unless page.comments_locked == true %}
               <a rel="nofollow"
                 class="reply-button"
+                id="comment-{{ comment[1]._id }}-reply-button"
                 href="#comment-{{ comment[1]._id }}"
                 onclick="return addComment.moveForm('comment-{{ comment[1]._id }}', '{{ comment[1]._id }}', 'respond', '{{ commentslug }}')">
                 Reply
@@ -58,13 +60,50 @@
     <div id="respond">
         <header>
           <h2 class="page__section-label">Leave a Comment</h2>
-          <a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">
-              Cancel replying (make this comment general)
-          </a>
         </header>
-        <p class="instruct">
-        Hit Enter twice for a new paragraph. You can use asterisks to make <code>*<em>italics</em>*</code> and <code>**<strong>bold</strong>**</code>, and you can make links like so: <code>[<u>link says this</u>](and goes to this address)</code>. Other fancy formatting possible via <a href="https://kramdown.gettalong.org/quickref.html">Markdown</a>.
-        </p>
+        <div class="instruct" id="instruct-truncated">
+
+          <p> Hit Enter twice for a new paragraph. You can use asterisks to
+          make <code>*<em>italics</em>*</code> and
+          <code>**<strong>bold</strong>**</code>, and you can make links like
+          so: <code>[<u>link says this</u>](and goes to this address)</code>.
+          Other fancy formatting possible via <a
+          href="https://kramdown.gettalong.org/quickref.html">Markdown</a>.
+          (<em><a href="javascript:void(0);" onclick="javascript:readMoreToggle('instruct');">More</a></em>) 
+          </p>
+
+        </div>
+        <div style="display: none;" class="instruct" id="instruct-full">
+
+          <p> Hit Enter twice for a new paragraph. You can use asterisks to
+          make <code>*<em>italics</em>*</code> and
+          <code>**<strong>bold</strong>**</code>, and you can make links like
+          so: <code>[<u>link says this</u>](and goes to this address)</code>.
+          Other fancy formatting possible via <a
+          href="https://kramdown.gettalong.org/quickref.html">Markdown</a>.
+          </p>
+
+          <p>
+          Your email address is stored encrypted and only used to get
+          your <a href="http://en.gravatar.com/">Gravatar</a> and send
+          you emails about comments you request notifications for.
+          </p>
+
+          <p>Most commenting systems keep their moderators honest by giving
+          them the power only to delete comments. The way mine works is that
+          I’m able to edit comments, but I only will for two reasons: to fix
+          glitchy formatting, or to change references to names of those who
+          don’t want to be identified, including me. If you suspect your
+          comment has been tampered with, you can always click the link next to
+          its timestamp that says “See revisions” (mouse over to make this
+          appear) and look at its history, which I can’t tamper with. (<em><a
+          href="javascript:void(0);"
+          onclick="javascript:readMoreToggle('instruct');">Less</a></em>)
+          </p>
+
+        </div>
+
+
         <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/master/comments">
             <fieldset>
                 <textarea type="text" rows="6" class="comment-message" id="comment-form-message" placeholder="Your comment" name="fields[text]" spellcheck="true"></textarea>
@@ -81,13 +120,12 @@
                     </small>
                 </label>
             </fieldset>
-            <fieldset><!--
+            <fieldset>
                 <input type="checkbox" value="authoremail" id="options_subscribe" name="options[subscribe]">
                 <label for="options[subscribe]">
                     Get notified when someone else comments on this post
                     <small>(unsubscribe anytime)</small>
                 </label>
-            -->
             </fieldset>
             <fieldset class="hidden" style="display:none;">
                 <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
@@ -113,6 +151,10 @@
                 <button type="submit" id="comment-form-submit" class="button">Submit Comment</button>
             </fieldset>
         </form>
+        <a rel="nofollow" class="cancel-button" id="cancel-comment-reply-link" 
+          href="{{ page.url | absolute_url }}#respond" style="display:none;">
+          Cancel replying (make this comment general)
+        </a>
     </div>
     <!-- End new comment form -->
 {% else %}

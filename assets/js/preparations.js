@@ -110,14 +110,14 @@
                     var link = this,
                     $link = $(this),
                     thisOpts = $.extend({}, opts, $link.data('ssOpts') || {}),
-                        exclude = opts.exclude,
-                        excludeWithin = thisOpts.excludeWithin,
-                            elCounter = 0, ewlCounter = 0,
-                            include = true,
-                                clickOpts = {},
-                                hostMatch = ((location.hostname === link.hostname) || !link.hostname),
-                                    pathMatch = thisOpts.scrollTarget || ( $.smoothScroll.filterPath(link.pathname) === locationPath ),
-                                    thisHash = escapeSelector(link.hash);
+                    exclude = opts.exclude,
+                    excludeWithin = thisOpts.excludeWithin,
+                    elCounter = 0, ewlCounter = 0,
+                    include = true,
+                    clickOpts = {},
+                    hostMatch = ((location.hostname === link.hostname) || !link.hostname),
+                    pathMatch = thisOpts.scrollTarget || ( $.smoothScroll.filterPath(link.pathname) === locationPath ),
+                    thisHash = escapeSelector(link.hash);
 
                     if ( !thisOpts.scrollTarget && (!hostMatch || !pathMatch || !thisHash) ) {
                         include = false;
@@ -251,6 +251,10 @@
 
 })(jQuery);
 
+function readMoreToggle(id){
+  $("#" + id + "-truncated, #" + id + "-full").toggle();
+}
+
 $(document).ready(function(){
 
     $(".menu-button, .close-button").click(function(){
@@ -258,7 +262,7 @@ $(document).ready(function(){
         return false;
     });
 
-    $("a").smoothScroll({offset: -30, excludeWithin: [".wayfinding-block", "#sidebar"]});
+    $("a").smoothScroll({offset: -30, excludeWithin: [".wayfinding-block", "#sidebar", ".comments-section"]});
 
     // audio play button
     var playing = false;
@@ -318,6 +322,10 @@ $(document).ready(function(){
 
 // Staticman comment replies
 // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js
+// Also this function added from StackOverflow because it weirdly didn't exist when insertBefore did
+function insertAfter(newNode, referenceNode) {
+      referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+}
 var addComment = {
     moveForm: function( commId, parentId, respondId, postId ) {
         var div, element, style, cssHidden,
@@ -349,6 +357,8 @@ var addComment = {
         }
         parent.value = parentId;
         cancel.style.display = '';
+        t.I( comm.id + '-reply-button' ).style.display = 'none';
+        $.smoothScroll({ scrollTarget: '#respond' });
 
         cancel.onclick = function() {
             var t       = addComment,
@@ -359,11 +369,13 @@ var addComment = {
                 return;
             }
 
+            t.I( 'comment-' + t.I( 'comment-replying-to' ).value + '-reply-button' ).style.display = '';
             t.I( 'comment-replying-to' ).value = t.I( 'comment-replying-to' ).getAttribute( 'data-original-value' );
             temp.parentNode.insertBefore( respond, temp );
             temp.parentNode.removeChild( temp );
             this.style.display = 'none';
             this.onclick = null;
+            $.smoothScroll({ scrollTarget: '#respond' });
             return false;
         };
 
