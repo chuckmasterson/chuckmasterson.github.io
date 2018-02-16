@@ -85,8 +85,8 @@
 
           <p>
           Your email address is stored encrypted and only used to get
-          your <a href="http://en.gravatar.com/">Gravatar</a> and send
-          you emails about comments you request notifications for.
+          your <a href="http://en.gravatar.com/">Gravatar</a><span class="hide-when-emails-busted"> and send
+            you emails about comments you request notifications for</span>.
           </p>
 
           <p>Most commenting systems keep their moderators honest by giving
@@ -114,12 +114,12 @@
             <fieldset>
                 <input type="email" id="comment-form-email" name="fields[authoremail]" spellcheck="false" />
                 <label for="comment-form-email">Email 
-                    <small>optional—for <!--email notifications and -->avatars 
+                    <small>optional—for <span class="hide-when-emails-busted">email notifications and </span>avatars 
                         <a href="http://en.gravatar.com/support/how-to-sign-up/" target="_blank">(change your avatar)</a>
                     </small>
                 </label>
             </fieldset>
-            <fieldset>
+            <fieldset class="hide-when-emails-busted">
                 <input type="checkbox" value="authoremail" id="options_subscribe" name="options[subscribe]">
                 <label for="options[subscribe]">
                     Get notified when someone else comments on this post
