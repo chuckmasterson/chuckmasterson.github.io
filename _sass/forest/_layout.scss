@@ -289,11 +289,11 @@ article.post {
   }
   > p.no-drop:first-letter,
   > p.prefatory:first-letter {
-    font-size: inherit;
-    font-family: inherit;
-    line-height: inherit;
-    float: none;
-    margin: 0;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    line-height: inherit !important;
+    float: none !important;
+    margin: 0 !important;
   }
   figure {
     margin-left: auto;
