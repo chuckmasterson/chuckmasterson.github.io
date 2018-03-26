@@ -8,8 +8,8 @@ permalink: /about/
     elsewhere="true" %}
 
 Hi. My name is Chuck Masterson. (Well, no it isn’t really, but I use that name to blog here for
-reasons I’ve never fully explained.) I like lakes, campfires with good friends, books, and living as
-though industrial civilization had already collapsed.
+reasons I’ve never fully explained.) I like lakes, campfires with good friends, languages, books,
+and living as though industrial civilization had already collapsed.
 {: .force-drop }
 
 I grew up middle-class and suburban in Ohio, and I’ve been slowly recovering ever since. I’m
