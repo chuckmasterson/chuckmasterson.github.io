@@ -1,6 +1,5 @@
 ---
-title: DRAFT
-published: false
+title: Slow Drip and Bright Fire
 categories:
   - Anishinaabe  
   - Year of Listening
@@ -26,4 +25,4 @@ Slowly, I'm figuring out how I fit into this. I start the fire in the morning an
 
 And I have, here and there, been able to teach some of the kids some of that---but I think the way I help them most is just by doing sugarbush: by showing that here is a person who believes there's worth in taking time out of standard life to just walk around collecting sap and boil it down into syrup. By being outside and by living both the give and the take with nature---through gathering sap and leaving tobacco offerings and prayers.
 
-While I was at ARC, I was in a familiar setting, a big house with meal times and a familiar culture, and found it easy to understand what it means to be present. At sugarbush it's taken me a little longer. I'm out in the snow all the time, and I'm a foreigner, an immigrant as long as I live no matter how much I eventually assimilate.
+While I was at ARC, I was in a familiar setting, a big house with meal times and familiar culture, and found it easy to understand what it means to be present. At sugarbush it's taken me a little longer. I'm out in the snow all the time, and I'm a foreigner, an immigrant as long as I live no matter how much I eventually learn about how to live in this culture. But I'm coming to understand how to live here too, to help heal wounds, to help reconnect the disconnected in whatever small way I can. This is what I'm here for.
