@@ -52,7 +52,7 @@ I stepped out of the plane at
 Bangkok’s Suvarnabhumi Airport and after escaping from the secure zones I
 passed this sign:
 
-{% include fig.html src="SEAsia%2B341.jpg" %}
+{% include fig.html src="SEAsia_341.jpg" %}
 
 I was in a very different country.
 
@@ -92,7 +92,7 @@ for a while, and then snapped a few pictures of how different it was, feeling
 like the strangeness was fleeting and I needed to make sure I caught it before
 Bangkok turned into Iowa City. I took a picture of some roofs from my window.
 
-{% include fig.html src="SEAsia%2B001.jpg" %}
+{% include fig.html src="SEAsia_001.jpg" %}
 
 But almost everything in the city was more interesting than those roofs.
 

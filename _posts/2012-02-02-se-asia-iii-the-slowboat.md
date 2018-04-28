@@ -81,7 +81,7 @@ probably as long as three. It had a roof but instead of having windows it was
 open-air.
 
 
-{% include fig.html src="SEAsia%2B125.jpg" %}
+{% include fig.html src="SEAsia_125.jpg" %}
 
 
 As I got on I discovered with some dismay that the boat was completely full of

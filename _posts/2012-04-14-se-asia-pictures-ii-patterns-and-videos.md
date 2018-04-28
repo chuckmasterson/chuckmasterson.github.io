@@ -21,8 +21,7 @@ tags:
 > On my hair, the clothes I wear, my savoir faire is patterns,  
 > All I see is patterns,  
 > The patterns that repeat.
-> 
-> —“Weird” Al Yankovic
+> <cite>“Weird” Al Yankovic</cite>
 
 #### Wat Rajbophit, Bangkok
 

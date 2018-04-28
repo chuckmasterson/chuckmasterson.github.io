@@ -47,7 +47,7 @@ name in engraved gold lettering.
 
 
 
-{% include fig.html src="SEAsia%2B144.jpg" %}
+{% include fig.html src="SEAsia_144.jpg" %}
 
 Some time ago, UNESCO visited Luang Prabang and decided that the French
 colonists who’d lived there and built luxurious houses for themselves had
@@ -220,7 +220,7 @@ whatsoever for any food I wasn’t intimately familiar with, so I found a
 restaurant on the shore of the Mekong and ate something Western and watched the
 sun go down. The sunset made me feel better about life, though.  
 
-{% include fig.html src="SEAsia%2B170.jpg" %}
+{% include fig.html src="SEAsia_170.jpg" %}
 
 I walked to Utopia and on my way I
 ran into Michelle (and Ivan, the Alaskan fisher from the boat) and talked to
@@ -284,7 +284,7 @@ capture everything, but I knew I’d have to rely heavily on my memory to
 get the whole feeling. Even so, though, here’s an attempt. (I had a
 panorama, but the camera stitched it wrong.) 
 
-{% include fig.html src="SEAsia%2B156.jpg" %}
+{% include fig.html src="SEAsia_156.jpg" %}
 
 I’d reserved my place in the
 new guesthouse too early, so I went back and brought my luggage this time. I

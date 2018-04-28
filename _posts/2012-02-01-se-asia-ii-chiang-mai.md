@@ -69,7 +69,7 @@ enough, even if they all kind of started blending together after a while.
 Here’s one:
 
 
-{% include fig.html src="SEAsia%2B089.jpg" %}
+{% include fig.html src="SEAsia_089.jpg" %}
 
 
 After two or three, I kept on going to the next ones more out of a sense of
@@ -255,7 +255,7 @@ wandering around half-randomly. We stopped in at the waterfall first and hung
 out on it.
 
 
-{% include fig.html src="SEAsia%2B100.jpg" %}
+{% include fig.html src="SEAsia_100.jpg" %}
 
 Then we took the trail well farther than I had, leading us to an enormous
 rock that had presumably once rested on the ground, but had now had all the
