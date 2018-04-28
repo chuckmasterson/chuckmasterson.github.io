@@ -140,9 +140,10 @@ a {
  */
 blockquote {
     padding: 0 $spacing-unit / 2;
-    margin: 1em;
+    margin: 1em auto;
     border-left: 3px solid $brand-color;
     clear: both;
+    display: table;
 }
 
 /**
