@@ -14,6 +14,7 @@ categories:
   - interesting people
 tags:
   - The West
+comments_locked: true
 
 ---
 
