@@ -1,5 +1,3 @@
-
-
 ---
 title: Play Catch-up
 subtitle: A month and a half of back posts
