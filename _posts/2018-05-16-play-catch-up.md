@@ -110,21 +110,23 @@ I spent three days and three nights there, trying to remember how to meditate, h
 
 Something kept echoing in my mind---a friend of mine, another student of Pebaam's, told me he was studying Lakota tradition until his teacher passed on, and that teacher had told him you don't just mix and match spiritual traditions. You have to pick one and dig in deep, respect it and have humility about how much you think you know. Otherwise things that are supposed to interweave and make sense together won't connect, and you'll find yourself knowing possibly even less than when you started. "Don't cross the pipes," he said. After so long learning Anishinaabe traditions, when I sang, 
 
+<section class="poem">
 - Buddham saranam gacchami,
 - Sangha saranam gacchami,
 - Dhammam saranam gaccham,
-{: .poem }
+</section>
 
 instead of
 {: .run-in }
 
+<section class="poem">
 - Biindigen,
 - Zhaawanogaawi-asemaa;
 - Biindigen,
 - Waabanowi-asemaa;
 - Biindigen,
 - Ogimaawi-midewi-asemaa,
-{: .poem }
+</section>
 
 I felt like I'd woken up in an unfamiliar room. 
 {: .run-in }
