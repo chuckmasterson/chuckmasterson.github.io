@@ -149,8 +149,8 @@ I left at noon and stopped only twice, besides short breathers: once at a bike s
 
 But on the way, I had an amazing time. The first day was a shake-out period for problems with the gear setup, but once I rejiggered the load at that bike shop, there weren't any more problems, so I just enjoyed the Hardwood Creek/Sunset Prairie Bike Trail, twenty-two miles of former Northern Pacific railroad grade paved by two counties, threading between I-35 and US-61 and neatly far enough away from both that I rarely had to listen to them. Instead I got to sniff cherry blossoms and watch horses and cattle graze. Spring has at last arrived in Minnesota, and it's making up for lost time. The weather is the cloud-tempered sun and breezy warmth that makes a whole Minnesota winter---even this year's with its two feet of April snow---feel worth it. The frogs are peeping up a thunderous chorus. The small towns I passed through---Hugo, Wyoming, North Branch---seemed clean and newly minted. This is going to be a good trip.
 
-I've been at ARC a few days, at first just recovering, then hanging out and giving tattoos. It's become known that I do tattoos. I gave one yesterday to Medora, another ARC community member, and after I finish writing here it's Misty's turn for another.
+I've been at ARC a few days, at first just recovering, then hanging out and giving tattoos. It's become known that I do tattoos. I gave one yesterday to Medora, another ARC community member, an epic ten-hour fern (stick-and-poke is much slower than with a machine), and after I finish writing here it's Misty's turn.
 
-{% include fig.html src="SAM_1812" %}
+{% include fig.html src="SAM_1812" caption="I feel like it's always been there, but now other people can see it too."%}
 
 So I guess I'd better get to it.
