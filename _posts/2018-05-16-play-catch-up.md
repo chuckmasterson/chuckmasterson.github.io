@@ -1,6 +1,26 @@
 ---
 title: Play Catch-up
 subtitle: A month and a half of back posts
+excerpt: |
+  The syruping season usually lasts about three weeks, from the 
+  first time it warms up enough for the sap to flow, until the 
+  tree starts turning all the sucrose in its sap into cellulose, 
+  which it uses to build leaves and begin spring. This year it 
+  lasted seven weeks. When I was planning, I figured I’d be there 
+  the entire time, because I had the whole month of March and a 
+  little of April to spare. But spring teased us week after week: 
+  we’d have a few days above 40°, and think, “Ah, good, as soon 
+  as this melts the snow, the roots will be warm enough to send 
+  up sap.” And then it’d go back down to highs of 31°. “Maybe 
+  next week.” Well, next week and next week brought the second 
+  coldest April on record in Minnesota. Canada geese, trumpeter 
+  swans, and sandhill cranes who had winged back up in mid-March 
+  with the breath of warm promise in the air were stuck flying 
+  around in circles, looking for something to eat in the snow 
+  or in the little patch of open water under the Independence 
+  Street bridge where a stream brought deep water up to the 
+  surface. I woke up on April Fools’ Day to 3½ inches of snow 
+  on my tent.
 categories:
   - Year of Listening
   - Anishinaabe
@@ -18,7 +38,8 @@ tags:
 
 {% include fig.html src="SAM_1773" %}
 
-The syruping season usually lasts about three weeks, from the first time it warms up enough for the sap to flow, until the tree starts turning all the sucrose in its sap into cellulose, which it uses to build leaves and begin spring. This year it lasted seven weeks. When I was planning, I figured I'd be there the entire time, because I had the whole month of March and a little of April to spare. But spring teased us week after week: we'd have a few days above 40°, and think, "Ah, good, as soon as this melts the snow, the roots will be warm enough to send up sap." And then it'd go back down to highs of 31°. "Maybe next week." Well, next week and next week brought the second coldest April on record in Minnesota. Canada geese, trumpeter swans, and sandhill cranes who had winged back up in mid-March with the breath of warm promise in the air were stuck flying around in circles, looking for something to eat in the snow or in the little patch of open water under the Independence Street bridge where a stream brought deep water up to the surface. I woke up on April Fools' Day to 3½ inches of snow on my tent. 
+The syruping season usually lasts about three weeks, from the first time it warms up enough for the sap to flow, until the tree starts turning all the sucrose in its sap into cellulose, which it uses to build leaves and begin spring. This year it lasted seven weeks. When I was planning, I figured I'd be there the entire time, because I had the whole month of March and a little of April to spare. But spring teased us week after week: we'd have a few days above 40°, and think, "Ah, good, as soon as this melts the snow, the roots will be warm enough to send up sap." And then it'd go back down to highs of 31°. "Maybe next week." Well, next week and next week brought the second coldest April on record in Minnesota. Canada geese, trumpeter swans, and sandhill cranes who had winged back up in mid-March with the breath of warm promise in the air were stuck flying around in circles, looking for something to eat in the snow or in the little patch of open water under the Independence Street bridge where a stream brought deep water up to the surface. I woke up on April Fools' Day to 3½ inches of snow on my tent.
+{: .run-in }
 
 {% include fig.html src="SAM_1781" %}
 
