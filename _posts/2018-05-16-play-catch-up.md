@@ -2,7 +2,7 @@
 title: Play Catch-up
 subtitle: A month and a half of back posts
 excerpt: |
-  The syruping season usually lasts about three weeks, from the 
+  <p>The syruping season usually lasts about three weeks, from the 
   first time it warms up enough for the sap to flow, until the 
   tree starts turning all the sucrose in its sap into cellulose, 
   which it uses to build leaves and begin spring. This year it 
@@ -20,7 +20,7 @@ excerpt: |
   or in the little patch of open water under the Independence 
   Street bridge where a stream brought deep water up to the 
   surface. I woke up on April Fools’ Day to 3½ inches of snow 
-  on my tent.
+  on my tent.</p>
 categories:
   - Year of Listening
   - Anishinaabe
