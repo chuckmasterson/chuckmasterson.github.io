@@ -13,7 +13,7 @@ comments:
       options:
         format: "timestamp-seconds"
 
-  moderation: false
+  moderation: true
   name: "Chuck Masterson’s Actual Blog"
   notifications:
     enabled: true
