@@ -151,6 +151,6 @@ But on the way, I had an amazing time. The first day was a shake-out period for 
 
 I've been at ARC a few days, at first just recovering, then hanging out and giving tattoos. It's become known that I do tattoos. I gave one yesterday to Medora, another ARC community member, an epic ten-hour fern (stick-and-poke is much slower than with a machine), and after I finish writing here it's Misty's turn.
 
-{% include fig.html src="SAM_1812" caption="I feel like it's always been there, but now other people can see it too."%}
+{% include fig.html src="SAM_1812" caption="“I feel like it's always been there, but now other people can see it too.”"%}
 
 So I guess I'd better get to it.
