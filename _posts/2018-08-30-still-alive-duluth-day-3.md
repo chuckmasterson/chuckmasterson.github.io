@@ -1,5 +1,6 @@
 ---
-title: "Still Alive: Duluth (Day 3)"
+title: "Still Alive: Circle Tour---Setting Out"
+subtitle: "Duluth (Day 3)"
 categories:
   - biking
   - Year of Listening
