@@ -1,5 +1,5 @@
 ---
-title: "Circle Tour: The Canadian North Shore"
+title: "Circle Tour---The Canadian North Shore"
 subtitle: "Sault Ste. Marie (Day 21)"
 categories:
   - biking
