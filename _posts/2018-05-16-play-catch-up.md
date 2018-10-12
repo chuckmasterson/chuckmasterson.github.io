@@ -36,29 +36,29 @@ tags:
 
 ### Bottling up the season
 
-{% include fig.html src="SAM_1773" %}
+{% include fig.html src="SAM_1773.jpg" %}
 
 The syruping season usually lasts about three weeks, from the first time it warms up enough for the sap to flow, until the tree starts turning all the sucrose in its sap into cellulose, which it uses to build leaves and begin spring. This year it lasted seven weeks. When I was planning, I figured I'd be there the entire time, because I had the whole month of March and a little of April to spare. But spring teased us week after week: we'd have a few days above 40°, and think, "Ah, good, as soon as this melts the snow, the roots will be warm enough to send up sap." And then it'd go back down to highs of 31°. "Maybe next week." Well, next week and next week brought the second coldest April on record in Minnesota. Canada geese, trumpeter swans, and sandhill cranes who had winged back up in mid-March with the breath of warm promise in the air were stuck flying around in circles, looking for something to eat in the snow or in the little patch of open water under the Independence Street bridge where a stream brought deep water up to the surface. I woke up on April Fools' Day to 3½ inches of snow on my tent.
 {: .run-in }
 
-{% include fig.html src="SAM_1781" %}
+{% include fig.html src="SAM_1781.jpg" %}
 
 More snow came later in the week. We occasionally got a few gallons of sap, but by five weeks into sugarbush, we had boiled that into not even twenty gallons of syrup; last year we made seventy. More snow came in the next few days, and I realized I wouldn't be able to stay until the end of the season. I've been working on going with the flow and letting life take me wherever it wants to, but even so, there was something I needed to take care of.[^3]
 {: .run-in }
 
-{% include fig.html src="SAM_1801" %}
+{% include fig.html src="SAM_1801.jpg" %}
 
 [^3]: After I left, naturally, the season finally started in earnest, and despite a 15-inch blizzard on April 14--15, they brought the total up to forty-five gallons, and everyone who came to get some at the closing ceremony left happy.
 
 ### A spot of bother
 
-{% include fig.html src="P82A0278" %}
+{% include fig.html src="P82A0278.jpg" %}
 
 Back in October, on our way out to Portland, Misty and I rode fast trains down the High Line. It's seventeen hundred miles of track from Minneapolis to either Seattle or Portland, depending on which way your train forks at Spokane (usually the wrong way, it seems), where BNSF runs their longest-distance hotshots. We got pulled off once in Glasgow, Montana (150 miles into Montana's seven hundred) with no consequences worse than a reluctant finger-wagging, and spent a couple days there, alternately getting wet in the first rain they'd had since spring, which arrived just in time to greet us, or hanging out in an abandoned building near the tracks with a doorway nearly barricaded with old radiators, torn-off wood paneling, that sort of junk. When we finally found a rideable train west one afternoon, we were so eager to board a nice grainer we found that we didn't stop to fill our water bottles.
 
 So only two crew changes further down the line, after a thrilling and ultimately sort of anticlimactic game of hiding from the brakemen in unfriendly Havre during the train's "thousand-mile check" (we didn't hear anyone get even very close to us before the train moved on), we bailed off to fill our bottles and wait for the next train in Whitefish, a ritzy tourist town just outside Glacier National Park, where people on vacation stop to buy all that nice gear they forgot to bring, at nicely inflated prices, before tramping on out into the wilderness. Again we hung out for a couple days, this time setting up camp near the tracks, on the verandahed loading dock of a disused blue building near the tracks, fenced off on three-and-a-half sides and sitting in the middle of a former gravel parking lot now grown chest-high with grass. During the day we stashed our backpacks in the neighboring empty lot and wandered around town, waiting until dark when we might be able to get on a train unseen.
 
-{% include fig.html src="P82A0281" %}
+{% include fig.html src="P82A0281.jpg" %}
 
 The third morning we slept a little late, and woke up to a drizzle, and just sat there on the loading dock failing to work up the motivation to pack up our sleeping bags. And then a white truck drove into the little abandoned lot, and concealed police lights lit up from inside it. Busted.
 
@@ -76,7 +76,7 @@ It's a very snazzy charity. Forbes ranks it as one of the "Most Efficient Large 
 
 I sorted paint. Donated paint comes in from hardware stores around the city, and we volunteers open up each can, check if it's usable, and then sort it by color into some big barrels nearby. I also sorted clothing donations, and moved pallets full of T-shirts around, and sorted new incontinence pads---busted-open ones from usable ones---so they could be used to mop up spills or as gauze or for anything else a hospital in (someone suggested) Jamaica might be able to use them for. And within two ten-hour days, I had enough hours to satisfy Kalispell. And you know, I suppose it was pretty satisfying. Even though I didn't get to see the faces of anyone who benefited from my efforts, I know I actually did do something positive. Rather than just buy Flathead County a few yards of pavement.
 
-{% include fig.html src="SAM_1806" %}
+{% include fig.html src="SAM_1806.jpg" %}
 
 [^1]: Matthew chapter 25, if you're curious, is where you'll find the phrase "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me" [KJV, 40]. Incidentally, Jesus was in an apocalyptic mood when He said this, and immediately went on to tell those who *didn't* do anything for the least of us that come Judgement Day they'd have to "Depart from me, ye cursed, into everlasting fire" [KJV, 41]. (And a little earlier on, takes a bit of a departure from His usual advocation for the poor to let us know that "whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth" [NIV, 29--30]. The chapter as a whole seems decidedly not the best one to single out in the Bible.)
 
@@ -87,12 +87,12 @@ Nothing's not rectilinear. If not physically, then philosophically. The second d
 
 If I lived in Ohio I would probably get in trouble for needing constant booster shots of this knowledge. On my way into Cincinnati, when I got dropped off in Toledo, the guy left me at a bad interstate onramp, all local Toledo traffic. I walked south parallel to the interstate on the Dixie Highway (also all local), five miles past a sand supplier and a pet daycare and the construction of a megachurch and a giant greenhouse surrounded by crew-cut lawn on "Progress Drive",
 
-{% include fig.html src="SAM_1804" %}
+{% include fig.html src="SAM_1804.jpg" %}
 
 then turned left and walked another mile and a half to get to the next  I-75 exit, Middle of Nowhere. When the slow dribble of cars there declined to stop for me for three hours in a row (mostly sorry-I-can't big-company truckers and, for some reason, people in nice cars amid the farms, who all seemed embarrassed to be there, like the balding white guy with a license plate that said SUCESFL---well I didn't want to ride with you *either*, how's *that*?), I gave up on Middle of Nowhere.
 {: .run-in }
 
-{% include fig.html src="SAM_1805" %}
+{% include fig.html src="SAM_1805.jpg" %}
 
 Another six miles south I knew there was a town, Bowling Green, where at least I could get ignored by more people, some of them college students. But the thought of walking a mile and a half back to the Dixie Highway just to even get started, when I already had blisters, just filled my head with a cloud of no's. So I went cross-country. Skied down the onramp's embankment and skirted along some tilled brown acres not yet sprouting, cars brumbling past on the interstate a couple dozen yards away all safely contained by a metal deer fence and a windrow of pines along the edge of the farm. At the far side of the farm I hit a difficulty, a deep drainage ditch separating this farm from the next one, but neatly got around it by climbing up on the fence, which stretched across the ditch, my 50lb backpack dangling off my back as my weight twisted the fence toward horizontal, and crabbing across. After another couple farms, I reached a railroad track, which I followed diagonally toward Bowling Green, getting confirmation that it headed there from a man whose small fluffy dog attempted to intimidate me away from his front yard. I found another road that went due south and attempted to shortcut into town, but when I disbelieved a <span class="small-caps">no outlet</span> sign (I can climb over whatever the obstacle is at the end of the road) I was disappointed to find the obstacle was an airport, the one thing I wasn't willing to trespass across. So I backtracked and ended up following a road that ran along the tracks anyway, right into town. I found the interstate, but I wasn't on a street with an onramp, but I waded a creek and, still barefoot, headed south dodging goose poop through a golf course, and that problem was soon solved too. I had walked, all told, sixteen miles in the day by the time I reached a gas station at the Bowling Green onramp and flopped down to eat hot dogs and a milkshake that, I felt, I richly deserved. But damn if I wasn't happy as a clam for all that. (And I got a ride nearly as far as Columbus that evening, too.) 
 
@@ -151,6 +151,6 @@ But on the way, I had an amazing time. The first day was a shake-out period for 
 
 I've been at ARC a few days, at first just recovering, then hanging out and giving tattoos. It's become known that I do tattoos. I gave one yesterday to Medora, another ARC community member, an epic ten-hour fern (stick-and-poke is much slower than with a machine), and after I finish writing here it's Misty's turn. <a name="fern"></a>
 
-{% include fig.html src="SAM_1812" caption="“I feel like it's always been there, but now other people can see it too.”"%}
+{% include fig.html src="SAM_1812.jpg" caption="“I feel like it's always been there, but now other people can see it too.”"%}
 
 So I guess I'd better get to it.

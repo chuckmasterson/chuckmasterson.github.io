@@ -32,13 +32,13 @@ In any case, now where’d I leave off?
 
 There was this bike trip I was taking.
 
-{% include fig.html src="arc-ohio-minnbike-2017" %}
+{% include fig.html src="arc-ohio-minnbike-2017.jpg" %}
 
 Last time I wrote, I’d just gotten to Bemidji. That was more or less the halfway point of the trip, timewise. Even though I’ve ostensibly written about the first half, all you know about it is that I worked at a farm and wrote some haiku and it rained at least once. Be that as it may, I believe I’m still going to leave the first half to cover another time, mainly because of Pine River, which at some point will probably be figuring prominently in a whole other post. Right now I’m going to tell about what I did in Bemidji and afterwards.
 
 ### Bemidji
 
-{% include fig.html src="arc-ohio-minnbike-1893" %}
+{% include fig.html src="arc-ohio-minnbike-1893.jpg" %}
 
 I came into Bemidji on a rainy Saturday afternoon and was drawn, much like a moth, to the prospect of light and warmth, in my case in a coffee shop that looks out over the length of Lake Bemidji. I’d given up coffee a week or two prior, but coffee shops still have a gravitational pull on me. There’s always tea. Inside I found a computer, free to use, and made use of this rare amenity to post my [haiku][]. When the place closed I was like Jell-O removed from a pan, and hustled up the lake to make a damp camp. I figured I’d get to know the town tomorrow. But as it turned out, everything in Bemidji is closed Sundays, and instead of actually making effort to meet anyone, I wasted the day good and proper with the coffee shop computer and a book.
 
@@ -52,7 +52,7 @@ When I arrived there was just one guy fishing. He was doing the kind of fishing 
 
 I left to wander around aimlessly, hang out some more at the coffee shop. When I came back in the evening a crowd had gathered, Lakota plus another eight or so guys casting off of every available railing of the pier. I posted up at an unlikely spot and proceeded to happily catch nothing. Eventually someone left a good spot and I took it. After a long time I caught a walleye. I talked with the guys. I’d been full of a feeling of aloneness, but it started to leave me. The guy next to me was Turtle Mountain Ojibwe and lived near the Red Lake Reservation to the north, and told me about it a little. The kids he was with were goofy and distractable. Lakota borrowed leeches from me. I enjoyed my night.
 
-{% include fig.html src="arc-ohio-minnbike-1903" %}
+{% include fig.html src="arc-ohio-minnbike-1903.jpg" %}
 
 ### Red Lake
 
@@ -60,9 +60,9 @@ I pressed on the next day, now with a clear conscience, up due north to Red Lake
 
 On the reservation I saw hand-stenciled signs for tribal election candidates, signs to encourage people not to do drugs, signs about the bygone *ogimaaban*[^og] who decreed the rez should be dry, a tribal college and government center sheltering under two giant eagles sculpted onto their roofs. But even where there weren’t signs I felt like I was *somewhere*, somewhere cared for. When I crossed the boundary back into Anglo Country, I felt suddenly betrayed; it was fields and tractors and pillaging, and I realized I hadn’t seen any of that for twenty miles. Hi, cattle. Now I was in land left behind,[^1] forfeit, no one’s using this so I’ll go ahead and ugly it up with a lot of mowing and machining. It was a hard return.
 
-{% include fig.html src="arc-ohio-minnbike-1909" %}
-{% include fig.html src="arc-ohio-minnbike-1911" %}
-{% include fig.html src="arc-ohio-minnbike-1919" caption="This bridge showed the seven original clan animals in the railings. Here, sturgeon, *name*." %}
+{% include fig.html src="arc-ohio-minnbike-1909.jpg" %}
+{% include fig.html src="arc-ohio-minnbike-1911.jpg" %}
+{% include fig.html src="arc-ohio-minnbike-1919.jpg" caption="This bridge showed the seven original clan animals in the railings. Here, sturgeon, *name*." %}
 
 [^og]: Late chief (*ogimaa*, “chief, leader”; *-ban*, “deceased”.)
 [^1]: Interesting, too, that Anglo Country should feel that way to me, since the Ojibwe word for “reservation”, *ishkonigan*, literally means “left over” or “put aside”.
@@ -75,20 +75,20 @@ When the last of the sun went below the horizon and left only its dim echoes of 
 
 Just after I entered Red Cliff an old guy had talked with me a little at the gas station where I’d stopped for a breather. He mentioned that rain was expected. Hard to believe from that sunset, but I put up the rain fly anyhow. Well, if I ever learned anything true from a Native American elder, that was it. It rained and the wind came ripping through. The tent developed an alarming lean. Water seeped in. But for the most part, I stayed dry.
 
-{% include fig.html src="arc-ohio-minnbike-1926" %}
+{% include fig.html src="arc-ohio-minnbike-1926.jpg" %}
 
 ### International Falls & Fort Frances
 
 US Route 71 runs straight northeast from Northome to International Falls through bright green low country, lined with little yellow and white flowers. I sometimes went ten minutes without seeing a car. All alongside me were bogs, popple forests, regrowing clearcuts. Next to the highway there ran a little drainage, which I discovered beavers had dammed---so I went high-stepping down into the grass for a look. The water was such a clear brown---I hadn’t realized it could be both at once. Everything so alive. I was amazed how deep the matted grass from previous years went. I felt like a cat in a room full of pillows. Later I stopped at a big stack of logs and climbed up it. I stopped here and three all day, letting my curiosity direct. Biking is good for views but to actually get to know a place I still have to dismount and go walk and touch things. My body requires variety.
 
-{% include fig.html src="arc-ohio-minnbike-1932" %}
-{% include fig.html src="arc-ohio-minnbike-1929" %}
+{% include fig.html src="arc-ohio-minnbike-1932.jpg" %}
+{% include fig.html src="arc-ohio-minnbike-1929.jpg" %}
 
 After Pelland, things took a turn for the worse. Lawns! Everywhere! They were massive, sprawling, unconscionable! Where did my woods go? Where are the red-winged blackbirds? Then the big box stores set in, and then the concrete, and here we are in International Falls. I ate, found a camping spot in a vacant lot I’d camped in the previous year, and slept, trying not to let it get to me too badly.
 
 The next day I stashed my stuff in some brush and biked to the border. I only had one goal for the day: get some Canadian postcards. When I found them at an all-and-sundry store in downtown Fort Frances, they were at least ’70s vintage, the kind of postcards old enough that the printing company touted its ability to print in color. But having thus achieved what I set out for, I felt reluctant to just leave the country again. Fort Frances has narrow streets with pedestrians milling about, lined with old-fashioned storefronts. It bustles, in its modest way; it looks lived-in. International Falls seemed like a drab gray prospect.
 
-{% include fig.html src="arc-ohio-minnbike-1943" %}
+{% include fig.html src="arc-ohio-minnbike-1943.jpg" %}
 
 I found a coffee shop in Fort Frances. I ordered a London fog and talked with the proprietor, a caffeine-powered individual named Ben. I told him Fort Frances seemed so much nicer to me than its counterpart across the stinkybridge. (Those of you who haven’t been there will be interested to learn that the two towns share a paper mill that stretches across the Rainy River; huge pipes full of wood chips or pulp or something run down the center of the narrow bridge that cars pass, and the whole town, in certain winds, smells like pulp, with an epicenter at the bridge.) “That’s funny,” he said, “it seems like just the other way around to me.”[^ben] Maybe the grass is always greener, but I humbly believe I’m right. He told me International Falls seems to be paved much better. I suppose that’s true, but the thing is the whole town is covered in that pavement, vast stretches of it for no reason. When you’re in the northwoods, where trees take over any bare ground with stunning vigor, it seems like there’s no reason not to have some green in your town, but the folks there have chosen to hollow out a little island of dinginess in the sea of lively green around them, and now they’re living inside that decision, their unfinished basement of a town.
 
@@ -102,7 +102,7 @@ In the evening it was time to check out the switchyard.
 
 I had decided to save a little time on my return trip by, if I could, catching a freight from I-Falls to Duluth. In fact I prepared for this possibility before I even left Minneapolis. Part of my gear was an old hiking backpack frame, across which I had strung a couple cables. The cables were for hanging my bike panniers; then I’d tie everything else on, and bungee the whole mess together, giving me a way to carry everything on my back and then heave it onto a train car in one go (and then the bike in a second go), rather than fiddling with clips and bungees and tossing bags on individually while the train airs up and leaves without me.
 
-{% include fig.html src="arc-ohio-minnbike-1953" %}
+{% include fig.html src="arc-ohio-minnbike-1953.jpg" %}
 
 The International Falls switchyard is actually a few miles east of town in a place called Ranier. I crossed above the tracks on an under-construction highway bridge and then rolled the bike back through the dormant ground-level part of the construction, following along the highway, through boglike squish, until I got to the tracks where they go under the bridge.
 
@@ -112,7 +112,7 @@ Around 9:00 a southbound came in, an intermodal,[^im] on the track closest to me
 
 I lay the bike flat on one side, and my stuff and me flat on the other side (sleeping pad under me to keep something between me and the cold steel), and waited.
 
-{% include fig.html src="arc-ohio-minnbike-1947" %}
+{% include fig.html src="arc-ohio-minnbike-1947.jpg" %}
 
 It was a weird train. Around 10:00 it started moving---but not very far. The sky darkened, the stars came out. It moved again, this time into the first floodlights of the yard. From that point on it would move forward a hundred yards or so, then stop dead for ten or twenty minutes, then repeat the drill. Meanwhile, I got treated to a tour of lots of different floodlit spots along the course of the switchyard. Sometimes I would dare to crane my neck up for a few seconds to see where I was. Still next to the bull run, was the answer, still in the lights. No one seemed to be paying much attention to my train, but one small slip-up can ruin a trip and a day very effectively, and I stayed hunkered down, in a constant heart-pounding fight-or-flight state. Yard workers walked around just one track away, blocked from seeing me only by a train that they could choose to climb over anytime. The train moved forward again. An engine was on the next track over, only two or three carlengths back, and its various mechanisms powered up and down automatically but nervewrackingly, continually making me wonder if a conductor was getting on board. I lay very flat. Sleep was out of the question. The train moved forward; more floodlights. This yard was endless. Every time I figured we were finally pulling out onto the road I landed in more floodlights. 
 
@@ -124,8 +124,8 @@ Just to give the whole thing a good climax, when my train finally did get moving
 
 For a while I couldn’t sleep because I was too excited. Eventually I settled down and consoled myself with the knowledge that I could watch these woods go by in the day too. But by 5:00 or so I was up again, packing up my stuff to a less visible configuration while the train crept by a siding, which luckily turned out not to have a passing train on it. Now woken up but good, I hung out the rest of the morning watching and marveling. Pristine, all of it! Most train tracks have had a highway built alongside them, crammed with buttinski motorists who would love to report any unapproved thrill-seeking to the authorities, which means you have to keep hidden for most of your ride. These tracks, at least starting from where I woke up (near Cook or Orr), barely get near a highway. What they do go near is peaceful tannin-brown creeks through lush bogs, thick bristling northland forests, and the occasional little town like Melrude or Shaw where there has never been a paved road. This was a rare ride. I paid close attention to appreciating it: the mist rising off a river rarely seen by any humans besides train conductors; a bog at dawn, chilly and like it was just thought into existence. I got deeply and viscerally cold in the humid dawn chill, but I didn’t mind; I just jumped up and down like a lunatic to keep the blood flowing, and smiled maniacally.
 
-{% include fig.html src="arc-ohio-minnbike-1946" %}
-{% include fig.html src="arc-ohio-minnbike-1950" %}
+{% include fig.html src="arc-ohio-minnbike-1946.jpg" %}
+{% include fig.html src="arc-ohio-minnbike-1950.jpg" %}
 
 As the sun was starting to clear the treetops, the train stopped, for the first time since it’d left, under a highway bridge. I’d seen enough town name signs to figure I was close to Duluth. And I made a snap decision: since I had a bicycle, I would skip the whole fun drama of pulling into the yard while staying out of sight, then dodging around over and between strings[^st] to find a low-profile way out to the world. I could just bike into town. The beauty of the combination of bike and train impressed itself on me. This is something I could get used to.
 
@@ -135,7 +135,7 @@ As the sun was starting to clear the treetops, the train stopped, for the first 
 
 I plummeted (breaking the speed limit) down Route 53 into Duluth, which was a tangled confusion and a bigger city than I’d been in for a month. It freaked me out, but it wasn’t too long before I got safely out the other side of it onto the Willard Munger Trail, a bike path artfully punched through Canadian Shield granite and draped across the crashing of the St Louis River’s waterfall. In the early evening I found a clearing off the side of the trail and set up my tent, and before the sun was down I was.
 
-{% include fig.html src="arc-ohio-minnbike-1969" caption="The St Louis River crashes down below the Willard Munger trail bridge." %}
+{% include fig.html src="arc-ohio-minnbike-1969.jpg" caption="The St Louis River crashes down below the Willard Munger trail bridge." %}
 
 The Munger Trail took me as far as Hinckley and then left me to get to ARC of my own devices. I brought Misty one of Tobie’s world-famous cinnamon rolls, a Hinckley compulsory, and we talked about ARC’s mass exodus. Seems while I was gone, everyone living there decided that, for one reason or another, they had to leave. Only one person would be left (Medora, the one I gave the [fern tattoo][fern] to). Misty, for their part, was heading to the Cities to start a job doing exterior house painting.
 
@@ -147,8 +147,8 @@ Turned out that, after staying at ARC for a few days and helping Misty move stuf
 
 But you know what, I biked 600 miles. I just measured it with Google Maps, so I know. But while I was clicking from point to point on the map, anatomizing the trip, there were spots where I almost couldn’t bear to do it. I dragged the map and my Pine River campsite came into view. I marked it and then it seemed just so callous to drag the map on over to the next place. Like a betrayal of the week I spent there, drinking water straight from the river, writing, and dissolving and purifying myself into nature. Or how about that Little Free Library out in the middle of nowhere on the bike trail south of Cass Lake, where I stopped in the drizzle and left the copy of *The Dharma Bums* that I’d just finished? How about the little museum in Cass Lake where there was just one old lady running the whole place, but she turned on all the lights for me and let me dry off and look around at the incredible miscellany of the town’s history, and I forgot to sign the guestbook even though she reminded me five times? How about the Ush-Kab-Wan River, which I didn’t even get to breeze over because I saw it from the train and didn’t count any train miles, but which keeps calling to me to canoe its entire length someday, to experience its serenity? How about the old depot in Finlayson where after they renovated it birds still got back in and built a nest on a desk? (Of which pictures below, since I don’t know where else I’d ever put them.) I’m filled up with these moments now, hundreds of them; this bike trip was one of them strung after another, and it took me a month to gather them all into me, but I can’t sit here typing stories for a month, nor could you spare the time to read them, so I can only give you these little nibbles of what I found.
 
-{% include fig.html src="arc-ohio-minnbike-1979" %}
-{% include fig.html src="arc-ohio-minnbike-1981" %}
+{% include fig.html src="arc-ohio-minnbike-1979.jpg" %}
+{% include fig.html src="arc-ohio-minnbike-1981.jpg" %}
 
 ## Crowduck
 
@@ -166,7 +166,7 @@ At the lake that last night there was no hustle left to bustle. Just silence and
 
 ## Ashland & the Chequamegon Bay
 
-{% include fig.html src="arc-ohio-minnbike-1998" caption="Awesome storm clouds near Washburn." %}
+{% include fig.html src="arc-ohio-minnbike-1998.jpg" caption="Awesome storm clouds near Washburn." %}
 
 Dan dropped me off south of Duluth where Route 2 leaves Route 53, and I hitched a patchouli-scented ride to Ashland, Wisconsin, where I arrived two days before anyone expected me. I was there to talk about the Lake Superior bike trip with the other people I’d be biking around it with, Katie and Maria.
 
