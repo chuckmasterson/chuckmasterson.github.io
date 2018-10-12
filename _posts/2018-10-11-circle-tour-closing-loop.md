@@ -62,11 +62,11 @@ They started this bakery eighteen years ago, after Paul had had his fill of work
 
 That settled, we bought three loaves of sourdough and a little bottle of olive oil and went out into the yard, where before anything else we sat down on the ground and devoured an entire loaf like four puppies eating from the same bowl. We set up camp and our night was charged with the bread smell wafting out of the chimney until a morning rain came and washed it away.
 
+### Warm and cozy
+
 The next day we saved ourselves fifteen miles and a trip away from the lakeshore by shortcutting down the Grand Marais Truck Trail, which follows the shore for eighteen miles, twelve of them unpaved. It seemed like an eminently reasonably decision, and we came to the edge of the pavement in high spirits. Then it turned out the road wasn’t gravel but sand. And it was consistently washboarded. And then it started raining. As the sand worked its way up from the road in wet globs into our chains, brakes, and gears, our spirits and our faces sagged. The smiles you can see here were possible only because we had just made it back to asphalt:
 
 {% include fig.html src="cyclecircle-2218.jpg" caption="L→R: Maria, Ava, Katie, me. Taken by a guy who drove by in his pickup and stopped to offer us pity." %}
-
-### Warm and cozy
 
 We ground our gears the last mile into Grand Marais, soggy and caked in sand, and stopped at the corner gas station, a little been-there-forever building, to be somewhere warm and figure out what to do next. There was a campground, we’d heard, but we’d also been getting grave warnings since Tahquamenon Falls about a storm that was supposed to bring gale-force winds soon, and, well, we were kind of miserable too at this point. The guy at the counter, a good-natured talker unperturbed by four cyclists dripping wet sand onto his floor and using the bathroom without buying anything, told us about the campground a mile away with sites around $35---and then pointed out the hotel just across the street with rooms starting at $40. “They’re real nice people there,” he told us.
 
@@ -115,7 +115,7 @@ Just outside the little town of L’Anse (/laanss/) we happened upon a farmers�
 
 Houghton (/**hōt**·’n/) is built more or less onto the side of a cliff, with the help of engineers from its mining college who weren’t working on building copper mines nearby, and the streets run precariously up it, and at the top we found Jeremy’s house. Katie found Jeremy through [Warmshowers](https://www.warmshowers.org/), a website specifically for cyclists looking for someone willing to host them for a night on long tours. We got to his house before he did, and decided we liked him when we found that he’d put post-its all over his house (“Dishes in dishwasher are clean,” “This counter is not strong enough to support a human’s weight,” and on his bedroom door, “Back off hippie!”). We liked him when he got home too, and a night in his house was just what we needed after another cold wet day.
 
-### That spiky bit
+### That spiky bit on the map
 
 We’d been looking forward to the Keweenaw Peninsula (/kē·wĭ·naw/) since the beginning of the trip. I'd never heard of it, but the others had, and had always wanted to visit it, and when after a rough day in Canada someone---probably Katie, who’s famously a fount of conversation-starting questions---asked, “What place are you looking forward to?” I remember everyone being excited about the Keweenaw. Which made me excited too. It’s a hitchhiker-crooked thumb that juts almost halfway across the lake, the kind of place where you can’t hustle or bustle because there’s too much silence blowing in off the water. It welcomed us with the first real tailwind of our trip and roads we got practically to ourselves through impossibly picturesque farms and some of the first spectacular colors of fall. 
 
