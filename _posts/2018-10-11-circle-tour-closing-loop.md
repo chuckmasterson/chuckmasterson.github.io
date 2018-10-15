@@ -15,13 +15,13 @@ tags:
 
 ### What are we doing
 
-We rolled into Houghton, Michigan, wet with drizzle and burnt out from four straight days averaging fifty miles. A fifty-mile day isn’t any particular achievement as bike touring goes---a hundred would be---but being out in the wind, the occasional drizzle, the kind of autumn chill that soaks into your core, it was enough, and when we passed a coffee shop we unanimously decided to park the bikes and sit down. Cradling hot mugs full of comfort, we played cribbage and talked. “You guys,” Ava said. “We’re biking around *Lake Superior.* It’s so far. What are we doing.”
+We rolled into Houghton, Michigan, wet with drizzle and burnt out from four straight days averaging fifty miles. A fifty-mile day isn’t any particular achievement as bike touring goes---a hundred would be---but being out in the wind, the occasional rain, the kind of autumn chill that soaks into your core, it was enough, and when we passed a coffee shop we unanimously decided to park the bikes and sit down. Cradling hot mugs full of comfort, we played cribbage and talked. “You guys,” Ava said. “We’re biking around *Lake Superior.* It’s so far. What are we doing.”
 
 <!--sep-->
 
 “You know, I was kind of thinking about that last night,” I said. Last night we’d camped out at a roadside park where two tannic waterfalls of the Tioga Creek crash down on their way to Sturgeon River and the Lake. The nice picnic tables and lawn were guarded only by a sign that said <span class="small-caps">No overnight camping</span>, which naturally none of us saw. “Why *are* we biking around the Lake? We never really talked about it when we started.”
 
-It turned out we all had different reasons. *[This section under construction. —Ed.]* Ava, meanwhile, was riding to push herself: Ava is always attempting to do something more than she’s ever done, be better than she’s ever been. Before this trip the farthest she’d ever ridden a bike was about fifty miles. The trip ended up 1,425. When the question got around the table to Katie, she said: “Because I wanted to? And because I like riding my bike, and I like being with my friends.” And ever since she moved to Ashland for college (and then stayed), Katie’s held a pure and unironic love for the Chequamegon Bay’s little towns full of earnest hippies and other weirdos just figuring it out day by day, and the Lake that anchors them.
+It turned out we all had different reasons. Maria, for instance, after a tumultuous last year, had started settling back into a sense of balance in life, in part with the guidance and inspiration of the Lake, one presence she could be sure of, and was riding to spend closer time with a good friend. Ava, meanwhile, was riding to push herself: Ava is always attempting to do something more than she’s ever done, be better than she’s ever been. Before this trip the farthest she’d ever ridden a bike was about fifty miles. The trip ended up 1,425. When the question got around the table to Katie, she said: “Because I wanted to? And because I like riding my bike, and I like being with my friends.” And ever since she moved to Ashland for college (and then stayed), Katie’s held a pure and unironic love for the Chequamegon Bay’s little towns full of earnest hippies and other weirdos just figuring it out day by day, and the Lake that anchors them.
 
 As for me, I was riding to learn---Lake Superior, it seemed, had been calling me, and to properly answer the call I wanted to see the *whole* lake, so I could begin to understand this massive spirit that’s drawn people inexorably to its shores ever since the glaciers left it. I’d seen a couple bays and a few towns, but stare as I might at maps, I knew I couldn’t begin to comprehend the true nature of the Lake without exposing myself to its size and all the places around it, as rawly as possible. When I first saw Lake Superior, it scared me, as big water always has since I first found my way from my landlocked origins to shores that had no visible opposite side. Biking all the way around the Lake taught me that fear is only one of many proper responses to it, including awe, love, humility, gratitude, and whatever feeling it is that a kitten has when it burrows into its mother’s fur. I was also biking to practice being a human: what better way to dig into the messiness of human relationships and the all-directions emotional winds that push them around, than to do something giant with three people I barely knew and just rely on my ability to listen to my own inborn humanity and everyone else’s?
 
@@ -31,11 +31,11 @@ And of course the reasons we talked about in the coffeehouse weren’t our only 
 
 I should say something about the crossing. Lake Superior is a sort of inverse Iceland. If you go to Iceland, I’m told, and take the roads that travel the circumference of the island, every few miles you come to a waterfall making its way down from the glacial heights, waterfall after waterfall, little brooks and massive rivers all tumbling on down to the ocean. All around Lake Superior you find the same thing happening, only crossing under the road the other direction, all the water rushing toward this three-quarters-Iceland-sized hole. By the time we reached Sault Ste. Marie, we’d stopped and spent time at
 
-{% include fig.html src="cyclecircle-2045.jpg" caption="Gooseberry Falls, halfway up the Minnesota north shore, where we arrived the day before Memorial Day and found that about one in every five Minnesotans had come too, with their family, for one last summer hurrah," %}
+{% include fig.html src="cyclecircle-2045.jpg" caption="Gooseberry Falls, halfway up the Minnesota north shore, where we arrived the day before Memorial Day and found that about one in every five Minnesotans had come too, with their family, for one last summer hurrah;" %}
 
-{% include fig.html src="cyclecircle-2081.jpg" caption="Temperance River Falls, where the river tilts sideways and churns through cauldrons of rock," %}
+{% include fig.html src="cyclecircle-2081.jpg" caption="Temperance River Falls, where the river tilts sideways and churns through cauldrons of rock;" %}
 
-{% include fig.html src="cyclecircle-2145.jpg" caption="Aguasabon Falls, which must’ve been twice as impressive before they diverted half of it through a turbine (elsewhere), but still gives you a little attack of vertigo from the top," %}
+{% include fig.html src="cyclecircle-2145.jpg" caption="Aguasabon Falls, which must’ve been twice as impressive before they diverted half of it through a turbine (elsewhere), but still gives you a little attack of vertigo from the top;" %}
 
 {% include fig.html src="cyclecircle-2157.jpg" caption="and Mink Creek Falls, a secret waterfall we’d learned about from Frank in Thunder Bay, which you come to by pulling off at an unmarked gravel parking lot in the middle of nowhere near kilometer 821 on the highway and hiking down a steep trail, and where everyone but me saw a bear crossing the stream down below the falls (I was exploring rocks slightly too far upstream, but it was okay, I’d seen a different bear earlier that day)." %}
 
@@ -117,7 +117,7 @@ Houghton (/**hōt**·’n/) is built more or less onto the side of a cliff, with
 
 ### That spiky bit on the map
 
-We’d been looking forward to the Keweenaw Peninsula (/kē·wĭ·naw/) since the beginning of the trip. I'd never heard of it, but the others had, and had always wanted to visit it, and when after a rough day in Canada someone---probably Katie, who’s famously a fount of conversation-starting questions---asked, “What place are you looking forward to?” I remember everyone being excited about the Keweenaw. Which made me excited too. It’s a hitchhiker-crooked thumb that juts almost halfway across the lake, the kind of place where you can’t hustle or bustle because there’s too much silence blowing in off the water. It welcomed us with the first real tailwind of our trip and roads we got practically to ourselves through impossibly picturesque farms and some of the first spectacular colors of fall. 
+We’d been looking forward to the Keweenaw Peninsula (/**kē**·wĭ·naw/) since the beginning of the trip. I'd never heard of it, but the others had, and had always wanted to visit it, and when after a rough day in Canada someone---probably Katie, who’s famously a fount of conversation-starting questions---asked, “What place are you looking forward to?” I remember everyone being excited about the Keweenaw. Which made me excited too. It’s a hitchhiker-crooked thumb that juts almost halfway across the lake, the kind of place where you can’t hustle or bustle because there’s too much silence blowing in off the water. It welcomed us with the first real tailwind of our trip and roads we got practically to ourselves through impossibly picturesque farms and some of the first spectacular colors of fall. 
 
 {% include fig.html src="cyclecircle-2275.jpg" %}
 
@@ -125,7 +125,7 @@ We’d been looking forward to the Keweenaw Peninsula (/kē·wĭ·naw/) since th
 
 {% include fig.html src="cyclecircle-2280.jpg" %}
 
-In the town of Gay, we stopped off at the Gay Bar, which makes a little bit of side money selling raunchy T-shirts but mostly caters to old locals who sit around the bar talking about ATV engine specifications. We got kicked out for not buying drinks, by the sole employee, who evidently had decided we weren’t going to buy anything even though we were planning to. Thought they’d be more understanding at the Gay Bar. Instead we ate in a pavilion next to an apple tree and the Gay School.
+In the town of Gay, we stopped off at the Gay Bar, which makes a little bit of side money selling raunchy T-shirts but mostly caters to old locals who sit around the bar talking about ATV engine specifications. We got kicked out for not buying drinks, by the sole employee, an irritable woman who evidently had decided we weren’t going to buy anything even though we were planning to. Thought they’d be more understanding at the Gay Bar. Instead we ate in a pavilion next to an apple tree and the Gay School.
 
 {% include fig.html src="cyclecircle-2281.jpg" %}
 
@@ -143,13 +143,13 @@ On the last leg of the trip, we rendezvoused in the Porcupine Mountains with Ava
 
 As mountain ranges go, the Porkies just barely merit the name, at twelve miles long and a highest peak not quite 2,000 feet high. But they’ve got some other things going for them: for one, they’re covered in the largest virgin stand of hemlock-hardwood forest west of the Adirondacks, preserved from the ax, as Maria tells it, through the efforts of one far-sighted conservationist in the early 1900s who put down his foot and told the loggers that they’d taken everything else but they must not take this place. I dimly knew hemlock trees can get big, but I’d never seen one I couldn’t wrap the fingers of my two hands around. Here they shared the rule of the forest with maples, and I felt strangely proud to see them doing it. The old trees cast a quiet, eternal shadow on the mossy forest floor. Also, there’s the Presque Isle River, which descends to the lake through a series of three frothing, leaf-brown falls named after Anishinaabe spirits, and clearly holy places, cutting sharply through the rock, with cedars leaning out over them. 
 
-{% include fig.html src="cyclecircle-2300.jpg" caption="Wenabezho Falls (Wenabozho is an alias for Nanaboozhoo)." %}
+{% include fig.html src="cyclecircle-2300.jpg" caption="Wenabezho Falls (Wenabezho is an alias for Nanaboozhoo)." %}
 
 Tim, with the help of a nifty new electric-assist bike, kept up with us younguns plenty well enough to leaven our usual conversation topics with dad jokes, and built fires for us at night, and made the continuing dim raininess a little bit brighter for the last couple days.
 
 Despite the overcast, the fall colors reached yet unseen intensity and the empty back roads carried us on invitingly. We finally rolled into Ashland, through the bike trail, around 3:00 on the drizzly first of October, the five of us, and went straight to the Black Cat, the coffeehouse, the mecca of all that is good in Ashland, and did what we’d been needing to do for a long time now: settled our cribbage tournament.
 
-{% include fig.html src="cyclecircle-2309.jpg" caption="Katie at her second home, the Black Cat." %}
+{% include fig.html src="cyclecircle-2309.jpg" caption="Outside the Black Cat, spiritual terminus of the journey." %}
 
 With the eight final miles back to the country house we started from, we closed the loop we’d been tracing for the last thirty-four days, a fourteen-hundred-twenty-five-mile circle around the biggest lake in the world, through two countries, three states, one province, over billion-year-old gneiss and granite, across uncountable waterfalling streams, out from one season and deep into another, acquainting ourselves with vast swaths of perfectly unknown land, and crunched our tires back across the same gravel we’d crunched out on.
 
