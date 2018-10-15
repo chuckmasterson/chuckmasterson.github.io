@@ -50,3 +50,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: /blog/:year/:month/:day/:title
+
+staticman:
+  api: "https://staticchuck.herokuapp.com/v3/entry/github/chuckmasterson/chuckmasterson.github.io/staticman-dev/comments"
+  path: "_data/comments/test-slug"
