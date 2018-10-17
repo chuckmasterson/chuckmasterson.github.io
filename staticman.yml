@@ -29,5 +29,5 @@ comments:
 
   path: "_data/comments/{options.slug}"
   requiredFields: ["author", "text"]
-  #  transforms:
-  #    authoremail: md5
+  transforms:
+    authoremail: md5
