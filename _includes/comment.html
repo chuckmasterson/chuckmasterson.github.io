@@ -46,7 +46,7 @@ class="js-comment comment {% if p %}{% unless p == commentslug %}child{% endunle
   {% assign email    = reply[1].authoremail %}
   {% assign name     = reply[1].author %}
   {% assign url      = reply[1].authorurl %}
-  {% assign date     = reply[1].date %}
+  {% assign date     = reply[1].timestamp %}
   {% assign message  = reply[1].text %}
   {% if p == include.id %}
     {% include comment.html filename=filename index=index id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message %}
