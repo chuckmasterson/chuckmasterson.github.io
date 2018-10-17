@@ -323,6 +323,8 @@ $(document).ready(function(){
       $('#comment-form').trigger("reset").removeClass('disabled');
       grecaptcha.reset();
       $('#comment-form input, #comment-form button, #comment-form textarea').prop('disabled', '');
+      $('#comment-form .js-notice').addClass('hidden');
+      $('#comment-form [id^="js-notice-"]').addClass('hidden');
       $('#comment-form-submit').removeClass('hidden');
       $('#comment-form-reset').addClass('hidden');
     }
