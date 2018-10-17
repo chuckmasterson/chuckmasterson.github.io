@@ -298,8 +298,9 @@ $(document).ready(function(){
             contentType: 'application/x-www-form-urlencoded',
             success: function (data) {
                 $('#comment-form-submit').html('Submit Comment').addClass('btn--disabled hidden');
+                $('#comment-form-reset').removeClass('hidden');
                 $('#comment-form .js-notice').removeClass('notice--danger').addClass('notice--success');
-                $('#comment-form input, #comment-form button, #comment-form textarea').attr('disabled', 'disabled');
+                $('#comment-form input, #comment-form button, #comment-form textarea').prop('disabled', 'disabled');
                 showAlert('success');
             },
             error: function (err) {
@@ -307,7 +308,7 @@ $(document).ready(function(){
                 $('#comment-form-submit').html('Submit Comment');
                 $('#comment-form .js-notice').removeClass('notice--success').addClass('notice--danger');
                 showAlert("failure");
-                $(form).removeClass('disabled');
+                $('#comment-form').removeClass('disabled');
             }
         });
 
@@ -321,6 +322,8 @@ $(document).ready(function(){
     function resetCommentForm(){
       $('#comment-form').trigger("reset");
       grecaptcha.reset();
+      $('#comment-form input, #comment-form button, #comment-form textarea').prop('disabled', '');
+      $(form).removeClass('disabled');
       $('#comment-form-submit').removeClass('hidden');
       $('#comment-form-reset').addClass('hidden');
     }
