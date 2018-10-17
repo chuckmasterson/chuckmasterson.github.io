@@ -297,7 +297,7 @@ $(document).ready(function(){
             data: $(this).serialize(),
             contentType: 'application/x-www-form-urlencoded',
             success: function (data) {
-                $('#comment-form-submit').html('Submitted!').addClass('btn--disabled');
+                $('#comment-form-submit').html('Submit Comment').addClass('btn--disabled hidden');
                 $('#comment-form .js-notice').removeClass('notice--danger').addClass('notice--success');
                 $('#comment-form input, #comment-form button, #comment-form textarea').attr('disabled', 'disabled');
                 showAlert('success');
@@ -318,6 +318,16 @@ $(document).ready(function(){
         $('#comment-form .js-notice').removeClass('hidden');
         $('#comment-form #js-notice-' + result).removeClass('hidden');
     }
+    function resetCommentForm(){
+      $('#comment-form').trigger("reset");
+      grecaptcha.reset();
+      $('#comment-form-submit').removeClass('hidden');
+      $('#comment-form-reset').addClass('hidden');
+    }
+    $('#comment-form-reset').click(function(e){
+      e.preventDefault();
+      resetCommentForm();
+    });
 });
 
 // Staticman comment replies

@@ -248,7 +248,7 @@ article.comment p.text-right {
   text-indent: 0;
 }
 .hidden {
-  display: none;
+  display: none !important;
 }
 .small {
   font-size: $small-font-size;

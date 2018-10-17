@@ -957,6 +957,7 @@ ul.dated-list {
   color: $pale-pop-color;
   cursor: pointer;
   font-family: $title-font-family;
+  line-height: normal;
   &.button-compact {
     padding: 2px 8px;
   }
