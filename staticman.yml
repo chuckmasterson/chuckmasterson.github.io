@@ -7,10 +7,10 @@ comments:
   format: "yaml"
   commitMessage: "Comment from {fields.author}."
 
-  #  reCaptcha:
-  #    enabled: true
-  #    siteKey: 6LegP10UAAAAALfwVp5egDucrcQRjDtzAIYZ74A7
-  #    secret: Sqa6LF00BXBvdxDjmnPdygRmCD6nlMeGZt2mvb/uPxk+M1Z0q3eaqAjm36Ffipb7mMTT1hv9cSqxaKwXQ/wVi2nmBzXy+LyDY3uM7k4R5vLitZt0tzn4sLnLHXRxwoTTz7mFsk3PdNUjbnQ/WonegI3drMgOvfKgL0wJZ79O3Vs=
+  reCaptcha:
+    enabled: true
+    siteKey: 6LegP10UAAAAALfwVp5egDucrcQRjDtzAIYZ74A7
+    secret: Sqa6LF00BXBvdxDjmnPdygRmCD6nlMeGZt2mvb/uPxk+M1Z0q3eaqAjm36Ffipb7mMTT1hv9cSqxaKwXQ/wVi2nmBzXy+LyDY3uM7k4R5vLitZt0tzn4sLnLHXRxwoTTz7mFsk3PdNUjbnQ/WonegI3drMgOvfKgL0wJZ79O3Vs=
 
   generatedFields:
     timestamp:
