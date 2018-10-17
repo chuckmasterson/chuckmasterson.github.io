@@ -320,10 +320,9 @@ $(document).ready(function(){
         $('#comment-form #js-notice-' + result).removeClass('hidden');
     }
     function resetCommentForm(){
-      $('#comment-form').trigger("reset");
+      $('#comment-form').trigger("reset").removeClass('disabled');
       grecaptcha.reset();
       $('#comment-form input, #comment-form button, #comment-form textarea').prop('disabled', '');
-      $(form).removeClass('disabled');
       $('#comment-form-submit').removeClass('hidden');
       $('#comment-form-reset').addClass('hidden');
     }
