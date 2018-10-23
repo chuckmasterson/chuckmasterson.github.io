@@ -7,11 +7,14 @@ tags:
 categories:
   - Chequamegon
   - Minnesota
+excerpt_separator: "<!--sep-->"
 ---
 
 ### Trappers' Ed
 
 Shortly after we finished the Lake Superior circle, I was at the Black Cat Coffeehouse. The Black Cat, I've mentioned obliquely, is the crossroads of interesting people on the Chequamegon; it's rare to go there and not meet someone you know, if you've lived in town long enough. That day I went with Maria, and a couple friends of hers showed up. One of them, Jeff, mentioned that he was going to be taking a trapping education course soon. Eh? I got interested.
+
+<!--sep-->
 
 The poster said it was put on by the Wisconsin DNR, in cooperation with the Bad River and Red Cliff Reservations nearby, and some other organizations too. I figured it was a class on how the Ojibwe trapped historically and still do today. Turned out it was a class on how people (Ojibwe and not) trap now, and it was a big production. There was a trailer the DNR had bought at some point specifically to haul around trapper education supplies. There were about a dozen different teachers over the course of the week, all just donating their time this weekend, people who'd been trapping since they were kids, people who'd trapped as a career for the state and tribal DNRs (relocating coyotes, trapping beavers from abundant areas to restore them where they'd disappeared, and such). 
 
