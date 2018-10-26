@@ -1,10 +1,10 @@
 ---
 title: "Learning to Read"
-tags:
+categories:
   - nature
   - Year of Listening
   - plans
-categories:
+tags:
   - Chequamegon
   - Minnesota
 excerpt_separator: "<!--sep-->"
