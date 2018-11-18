@@ -24,7 +24,7 @@ $(document).ready(function(){
 });
 </script>
 
-{% assign topics = site.categories | sort %}
+{% assign topics = site.categories | sort_natural %}
 <section class="wayfinding-block">
 
   <div class="wayfinding-choices">
@@ -58,7 +58,7 @@ $(document).ready(function(){
   </div>
 </section>
 
-{% assign places = site.tags | sort %}
+{% assign places = site.tags | sort_natural %}
 <section class="wayfinding-block">
   <div class="wayfinding-choices">
     <h2 id="place-archive">By Place</h2>
