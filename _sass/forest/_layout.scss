@@ -759,6 +759,9 @@ aside#sidebar {
 .wayfinding-block {
   @extend %clearfix;
   display: table-row;
+  -webkit-hyphens: none;
+     -moz-hyphens: none;
+          hyphens: none;
   & + .wayfinding-block {
     border-top: $green-border-thin;
     margin-top: 20px;
