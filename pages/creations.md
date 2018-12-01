@@ -9,9 +9,7 @@ A repository for creative things I have created.
 
 ### Stories
 
-So I said I write stories, but so far there are just two here that I think are
-decent enough to share. I’m slowly figuring out how to piece together the free
-time to write in, so more will come.  
+Occasionally I write stories. My rate of coming out with new material has been pretty slow, so there's not a lot here, and some of it is pretty old, but then you didn't come here to read excuses.  
 
 *   **[The Old Main
     Line]({{ site.baseurl }}/assets/pdf/MainLine.pdf): **The pacing
@@ -20,7 +18,8 @@ time to write in, so more will come.
     well, but all in all I like it. 25 pp., 2012.
 *   **[What Happened
     Next]({{ site.baseurl }}/assets/pdf/What Happened Next.pdf):** A short,
-    weird little story about the internet. 5pp., 2015–16.
+    weird little story about the internet. 5 pp., 2015–16.
+*   **The No-Account:** A young bureaucrat-in-training is sent on a mission from a future version of Pittsburgh circa 2220, to propose an alliance with a village in the Appalachians. It's supposed to be pretty simple, but he discovers he and the people there can't quite seem to understand each other, and on the way to figuring out why, he'll learn things he never suspected anyone out here could teach him. 38 pp., 2018; published in the Fall 2018 issue of [*Into the Ruins*](https://intotheruins.com).
 
 ### Fonts
 
