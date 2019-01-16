@@ -51,6 +51,7 @@ body {
 blockquote,
 ul, ol, dl, figure,
 %vertical-rhythm {
+  margin-top: $spacing-unit / 4; /* Discovered that with indents I need it above too */
   margin-bottom: $spacing-unit / 4;
 }
 pre {
