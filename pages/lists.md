@@ -22,30 +22,33 @@ permalink: /lists/
     an electric light.
 
     He was a poet. His poetry is inexplicable and somehow extremely compelling.
-    > #### The Happening
-    > - I put my hand in my pocket
-    > - To see what was happening there.
-    {: .poem }
+    <section class="poem" markdown="1">
+    #### The Happening
+    - I put my hand in my pocket
+    - To see what was happening there.
+    </section>
 
-    > #### The Forgetful Fowl
-    > - Today, absentmindedly, I laid a Granny Smith.
-    > - It was sold as a *extra-large egg*,
-    > - Two and thruppence for six.
-    > - The lady took it back.
-    > - "This is a Granny Smith!"
-    > - "It is a extra-large egg," he said. "Look at the marks."
-    > - She boiled it.
-    > - Then she took it back again.
-    {: .poem }
+    <section class="poem" markdown="1">
+    #### The Forgetful Fowl
+    - Today, absentmindedly, I laid a Granny Smith.
+    - It was sold as a *extra-large egg*,
+    - Two and thruppence for six.
+    - The lady took it back.
+    - "This is a Granny Smith!"
+    - "It is a extra-large egg," he said. "Look at the marks."
+    - She boiled it.
+    - Then she took it back again.
+    </section>
 
-    > #### Wow
-    > - "Why don't you sit down and go away?"
-    > - "I can't sit down and go away!"
-    > - "Yes you can," I said,
-    > - And sat down and went away.
-    > - She was too shocked to follow me.
-    > - "Wow!" I thought.
-    {: .poem }
+    <section class="poem" markdown="1">
+    #### Wow
+    - "Why don't you sit down and go away?"
+    - "I can't sit down and go away!"
+    - "Yes you can," I said,
+    - And sat down and went away.
+    - She was too shocked to follow me.
+    - "Wow!" I thought.
+    </section>
 
     And he sang it as songs, too, like [this rendition of "Shoplifters"][sl] and [this one
     of "I Worn My Elbows"][elb].
