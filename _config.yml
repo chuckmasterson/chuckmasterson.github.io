@@ -15,7 +15,7 @@ image_dirs:
   cloudinary:
     root: "http://res.cloudinary.com/chuckmasterson/image/upload"
     large: "/"
-    small: "/c_limit,h_450,w_450/"
+    small: "/c_limit,h_800,w_800/"
 
 imageroot: "http://res.cloudinary.com/chuckmasterson/image/upload"
                                     # local: "/assets/images"
