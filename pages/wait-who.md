@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-{% include fig.html src="/assets/images/design/WeirdTurnPro.jpg"
+{% include fig.html src="/assets/images/design/SawhorseSmile.jpg"
     elsewhere="true" %}
 
 Hi. My name is Chuck Masterson. (Well, no it isn’t really, but I use that name to blog here for
