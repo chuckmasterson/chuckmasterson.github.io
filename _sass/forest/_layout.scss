@@ -762,10 +762,8 @@ aside#sidebar {
   -webkit-hyphens: none;
      -moz-hyphens: none;
           hyphens: none;
-  & + .wayfinding-block {
-    border-top: $green-border-thin;
-    margin-top: 20px;
-    padding-top: 20px;
+  &.fullwidth {
+    display: block;
   }
 }
 .wayfinding-choices, .wayfinding-results {
@@ -819,6 +817,7 @@ h2.opener {
     z-index: -1;
   }
 }
+/* Old calendar
 .calendar.closed {
   display: none;
 }
@@ -857,6 +856,36 @@ li.jul, li.aug, li.sep {
 
 li.oct,li.nov,li.dec {
   top: 75%;
+}
+*/
+
+/* New calendar */
+
+.calendar.closed {
+  display: none;
+}
+
+table.calendar {
+  width: 100%
+}
+
+table.calendar td:first-of-type {
+  text-align: right;
+  padding-right: 10px;
+  vertical-align: top;
+  width: 25%;
+}
+
+table.calendar td:last-of-type {
+  padding-left: 10px;
+  border-bottom: $green-border-thin;
+}
+
+table.calendar tr:last-of-type td {
+  border-bottom: none;
+}
+table.calendar ul {
+  margin-top: 0;
 }
 
 /**

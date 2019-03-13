@@ -15,14 +15,13 @@ $(document).ready(function(){
   });
   $(".calendar").addClass("closed");
   $(".opener").click(function(){
-    console.log( $(this).attr("id").split("-"));
     var target = $( "#calendar-" + $(this).attr("id").split("-")[1] );
-    console.log( target )
-    target.siblings("ul").addClass("closed");
+    target.siblings("table").addClass("closed");
     target.removeClass("closed");
   });
 });
 </script>
+
 
 {% assign topics = site.categories | sort %}
 <section class="wayfinding-block">
@@ -58,6 +57,8 @@ $(document).ready(function(){
   </div>
 </section>
 
+<hr class="visible" />
+
 {% assign places = site.tags | sort %}
 <section class="wayfinding-block">
   <div class="wayfinding-choices">
@@ -91,65 +92,45 @@ $(document).ready(function(){
   </div>
 </section>
 
+<hr class="visible" />
 
-<section class="wayfinding-block">
-  <div class="wayfinding-choices">
-    <h2 id="date-archive">By Date</h2>
-
-    {% for post in site.posts  %}
-      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-      {% capture this_month %}{{ post.date | date: "%b" | downcase }}{% endcapture %}
-      {% capture prev_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-      {% capture prev_month %}{{ post.previous.date | date: "%b" | downcase }}{% endcapture %}
-      {% if forloop.first %}
-        <h2 class="opener" id="opener-{{ this_year }}"><span>{{ this_year }}</span></h2>
-        <ul class="calendar choice-list" id="calendar-{{ this_year }}">
-          <li class="{{ this_month }}"><a href="#date-{{ this_year }}-{{ this_month }}">{{ this_month }}</a></li>
+<section class="wayfinding-block fullwidth">
+<h2>By Date</h2>
+{% for post in site.posts  %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+  {% capture prev_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+  {% capture prev_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+  {% if forloop.first %}
+  <h2 class="opener" id="opener-{{ this_year }}"><span>{{ this_year }}</span></h2>
+  <table class="calendar" id="calendar-{{ this_year }}"><tbody><tr>
+    <td><h4>{{ this_month }}</h4></td>
+    <td><ul class="dated-list">
+  {% endif %}
+  <li>
+    <span class="li-date">{{ post.date | date: '%b %-d, %Y' }}</span>
+    <a href="{{ post.url }}">{{ post.title | markdownify | replace: "<p>","" |
+    replace: "</p>","" }}</a>
+  </li>
+  {% if forloop.last %}
+    </ul></td></tr></tbody></table>
+  {% else %}
+    {% if this_month != prev_month %}
+      </ul></td></tr>
+      {% if this_year != prev_year %}
+  </tbody></table>
+  <h2 class="opener" id="opener-{{ prev_year }}"><span>{{ prev_year }}</span></h2>
+  <table class="calendar" id="calendar-{{ prev_year }}"><tbody>
       {% endif %}
-      {% if forloop.last %}
-        </ul>
-      {% else %}
-        {% if this_year != prev_year %}
-        </ul>
-        <h2 class="opener" id="opener-{{ prev_year }}"><span>{{ prev_year }}</span></h2>
-        <ul class="calendar choice-list" id="calendar-{{ prev_year }}">{{ next_year }}
-          <li class="{{ prev_month}}"><a href="#date-{{ prev_year }}-{{ prev_month }}">{{ prev_month }}</a></li>
-        {% else %}
-          {% if this_month != prev_month %}
-          <li class="{{ prev_month}}"><a href="#date-{{ this_year }}-{{ prev_month }}">{{ prev_month }}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endif %}
-      {% endfor %}
+      <tr><td><h4>{{ prev_month }}</h4></td>
+        <td><ul class="dated-list">
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-  </div>
-
-  <div class="wayfinding-results">
-
-    {% for post in site.posts %}
-      {% assign currentdate = post.date | date: "%Y-%m" %}
-      {% if currentdate != date %}
-        {% unless forloop.first %}
-          </ul>
-        </div>
-        {% endunless %}
-        <div class="wayfinding-section" id="date-{{post.date | date: "%Y-%b" | downcase }}">
-          <h4>{{ post.date | date: "%B %Y" }}</h4>
-          <ul class="dated-list">
-        {% assign date = currentdate %}
-      {% endif %}
-            <li>
-              <span class="li-date">
-                {{ post.date | date: '%b %-d, %Y' }}
-              </span>
-              <a href="{{ post.url }}">{{ post.title | markdownify | replace: "<p>","" | replace: "</p>","" }}</a></li>
-      {% if forloop.last %}
-          </ul>
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
 </section>
+
+<hr class="visible" />
 
 <section class="wayfinding-block">
 <h2>By Searching</h2>
@@ -160,10 +141,18 @@ $(document).ready(function(){
     var googUrl = "https://encrypted.google.com/#q=" + encodeURI(query) + "+site:{{ site.url }}";
     location.href = googUrl;
   });
+
+  $("input").keypress(function(event) {
+    if (event.which == 13) {
+      event.preventDefault();
+      $("#search-submit").click();
+      //$("form").submit();
+    }
+  });
 });
 </script>
-<div class="text-center">
-  <input type="text" placeholder="Type here to search" id="search-input" id="js-super-search__input">
+<div class="text-center" style="width: 100%;">
+  <input type="text" style="min-width: 50%;" placeholder="Type here to search" id="search-input" id="js-super-search__input">
   <button id="search-submit" class="button">Search</button>
 </div>
 </section>
