@@ -817,49 +817,8 @@ h2.opener {
     z-index: -1;
   }
 }
-/* Old calendar
-.calendar.closed {
-  display: none;
-}
 
-ul.calendar {
-  margin: 15px 5px 10px 5px;
-  position: relative;
-  height: 10em;
-}
-ul.calendar li {
-  display: inline-block;
-  width: 31%;
-  position: absolute;
-  text-transform: uppercase;
-  text-align: center;
-  background-color: $text-background-color-dark;
-  font-family: $title-font-family;
-  a {
-    color: $pale-pop-color;
-  }
-}
-li.nov, li.aug, li.may, li.feb {
-  left: 34.5%;
-}
-li.mar, li.jun, li.sep, li.dec {
-  left: 69%;
-}
-
-li.apr, li.may, li.jun {
-  top: 25%;
-}
-
-li.jul, li.aug, li.sep {
-  top: 50%;
-}
-
-li.oct,li.nov,li.dec {
-  top: 75%;
-}
-*/
-
-/* New calendar */
+/* Calendar */
 
 .calendar.closed {
   display: none;
@@ -879,6 +838,7 @@ table.calendar td:first-of-type {
 table.calendar td:last-of-type {
   padding-left: 10px;
   border-bottom: $green-border-thin;
+  font-size: $small-font-size;
 }
 
 table.calendar tr:last-of-type td {
