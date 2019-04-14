@@ -287,7 +287,7 @@ a project came and installed a solar panel in a hollow tree). I’m talking abou
 
 {% include fig.html src="migizi-solar.jpg" caption="These are the kids from Migizi, a high school
   equivalency program that brought them down to camp and got them all interested enough to build
-  this kick-ass solar charging station. (All sugarbush photos by Deb, I believe.)" %}
+  this kick-ass solar charging station." %}
 
 {% include fig.html src="jayden.jpg" caption="This 5-year-old kid, who’s in a Lakota immersion
   class, blew my mind by showing me his collection of Pokémon cards. I collected those things *twenty
