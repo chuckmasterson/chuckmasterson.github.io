@@ -24,7 +24,7 @@ anything more than my backpack. I’ve had a few meaningful projects to keep me 
 sugarbush, which I’ll get to in a bit, but in between them I’ve led a wandering, wraithlike
 existence in which I’ve crashed on friends’ couches some nights, wearing through a series of
 welcomes, and other nights slept outside in a variety of locations next to the river and under
-bridges, depending on where I was the evening before and where I want to be the next day. I’ve built
+bridges, depending on where I was the evening before and where I wanted to be the next day. I’ve built
 up a mental list of places that are open long hours, and I’ve been delicately rotating which one
 I loiter in during the waking hours of each day, so I don’t start getting dirty looks from the
 proprietors.
@@ -77,8 +77,8 @@ feeling like I’m taking up a bunch of space in someone else’s home. I’d li
 to be able to go somewhere a couple miles away with just what’s in my pockets and not have to find
 a place to hide the backpack that contains everything I use on a day-to-day basis lest it vanish.
 There’s a reason people have houses. People imagine my lifestyle as the archetype of freedom. But it
-turns out there’s no such thing as just “freedom”, only the freedom to do certain things, and when
-you pick up a new set of freedoms, you have to lay down another set you were carrying.
+turns out there’s no such thing as general “freedom”, only specific freedoms to do certain things;
+and when you pick up a new set of freedoms, you have to lay down another set you were carrying.
 
 {% include fig.html src="cyclecircle-2024.jpg" caption="Even camping out on beaches as beautiful as
 this one (on Lake Superior during Traditional Ways---a traditional skills gathering I haven’t gotten
@@ -215,7 +215,7 @@ all about throwing off the Earthly shackles of our bodies and coming to our true
 kingdom.) I’m reminded of a conversation I had with a classmate in high school. I asked if she
 thought much about global warming and what people could do about it. “Oh, I don’t worry about that,”
 she said. “The Rapture will be coming before any of that happens.” Those of us who have scrapped
-Christianity in favor of more secural eschatologies have kept the same story but in slightly
+Christianity in favor of more secular eschatologies have kept the same story but in slightly
 different garb: Heaven has been swapped out for a vaguely scientific version of the same, a “true”
 home in interplanetary colonies (witness Russian rocket scientist Konstantin Tsiolkovsky’s
 pseudo-profound and often-repeated inanity, “The Earth is humanity’s cradle, but mankind cannot stay
@@ -306,10 +306,10 @@ but the most hardcore addicts in the presence of five, ten, or dozens of people 
 interesting stories and friendly welcome. This was the 44th year of Porky’s sugarbush, and those
 who’ve been coming for a long time told stories, more I think this year than I remember, about
 people who used to come but have moved on or passed on. Porky White has been gone for 18 years now,
-but during one of the songs at the last Sunday ceremony, Deb---his wife and the owner of the
+but during one of the songs at the last Sunday ceremony, Deb---his widow and the owner of the
 land---welled up with tears because his spirit had come back for a visit while she was singing
 a song he taught her. Elders came who were known and loved by the whole community, like AIM great
-Clyde Bellecourt, who made time for camp between hospital visits; and there were babies who one day
+Clyde Bellecourt, who made time for camp between hospital visits; and babies came who one day
 will hopefully be known and loved the same way. We had ceremonies and we shared sacred
 teachings---at the Sunday ceremonies that drew dozens of people, in Pebaam’s “&thinsp;’Baam
 Shelter”, and while sitting around the sap kettles on the fire. We goofed off and told jokes; Deb
@@ -334,7 +334,7 @@ the snow and cold.
 It’s not necessarily a single place that makes home. It’s a land you have a deep, let’s even say
 spiritual, relation with, even if that relation is spread out over hundreds of miles of territory.
 It’s people you work together with, even if some of those people annoy you (I don’t have in mind
-anyone specefic, in case my sugarbush friends read this, just the idea that any healthy community is
+anyone specific, in case my sugarbush friends read this, just the idea that any healthy community is
 one where people can disagree but still work together). It’s a common goal, even something as simple
 as a harvest. It’s a history, it’s stories---I know no word specifically to mean *history* in
 Ojibwe, but I suspect to express that notion one would in fact use the word for “stories”,
