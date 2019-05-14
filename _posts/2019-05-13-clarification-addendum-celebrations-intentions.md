@@ -92,7 +92,7 @@ Train I’ve only seen sitting around in the neighborhood, where different secti
 ominously near punk residences. I can show you pictures (like the one above), but this time I have
 a video, and that’s the way to really understand.
 
-{% include video.html src="https://youtu.be/42Hfkavnr-o" %}
+{% include video.html src="https://youtube.com/embed/42Hfkavnr-o" %}
 
 People go *crazy* for MayDay. Remember, these Minnesotans have been pent up all winter with
 worsening cases of cabin fever, and today is the day everyone lets loose and yells it out. If the
