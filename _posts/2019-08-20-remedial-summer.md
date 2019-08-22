@@ -148,7 +148,7 @@ that was a longstanding Anishinaabe village site.
 And it’s also only a fraction of what an old local, or even a curious-minded young one, could tell
 me about the history written on this land. It’s not just history, either---it leaves behind traces
 both obvious and subtle, from the behemoth concrete footing of the Ashland Oredock that still
-remains after the superstructure was torn down in 2007, to my house’s vestigial pumphouse now
+remains after the superstructure was torn down in 2012, to my house’s vestigial pumphouse now
 obsolete because the water’s being piped in instead, to the routes of the local snowmobile trails
 along the old train tracks. One day I hope to be, among other things, the kind of knowledgeable old
 fart who really knows the land he lives on. I have thirty years of catching up if I’m going to know
