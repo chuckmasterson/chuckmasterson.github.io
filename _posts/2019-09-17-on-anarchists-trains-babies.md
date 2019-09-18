@@ -8,11 +8,24 @@ categories:
   - 
 tags:
   - The West
+excerpt: |
+  ### Weirdo report
+
+  First off, this is your annual report on a gathering of radicals off in the mountains of Colorado.
+  Now, we’re all living in a time when everyone wants the world to change drastically---not the only
+  such time, but certainly such a one. For a lot of people, that desire can be satisfied by the
+  occasional trip to a voting booth interspersed with a lot of complaining and expressing opinions
+  that seem self-evident, especially on Facebook. Okay. Everyone has their path, and I’m only
+  obliquely attacking that complacency here (partly because it’s a target that requires a large attack
+  and partly because I still feel uncomfortably like part of the problem myself). The point, here, is
+  that those self-evident opinions percolate up to the clicktivist armies *from* somewhere, and one
+  such source is to be found in places like a mountain meadow in southwestern Colorado over the week
+  of the summer solstice.
 ---
 
-[Part 1: early July to mid-August](% post_url 2019-08-20-remedial-summer %}) ·
-**Part 2: mid-June to early July** ·
-Part 3: mid-May to mid-June *(to come)* ·
+[Part 1: early July to mid-August](% post_url 2019-08-20-remedial-summer %})  
+**Part 2: mid-June to early July**  
+Part 3: mid-May to mid-June *(to come)*  
 Part 4: Traditional Ways, mid-August *(to come)*
 {: .prefatory .text-center }
 
@@ -386,5 +399,5 @@ a large percentage of novels and movies and the creative output of humanity deal
 I am, a voyeuristic alien peeking over my friends’ and cousins’[^2] shoulders for the first time.
 It’s so much fun.
 
-[^2]: Plural possessive on purpose; I’ve also tried with less success to spy on my other cousin
-    Katie.
+[^2]: Plural possessive on purpose; I've also taken a quick look or two at my other cousin Katie
+    with her babies.
