@@ -22,7 +22,8 @@ $(document).ready(function(){
 });
 </script>
 
-
+<i>This section currently down for maintenance.</i>
+{% comment %}
 {% assign topics = site.categories | sort %}
 <section class="wayfinding-block">
 
@@ -56,6 +57,7 @@ $(document).ready(function(){
     {% endfor %}
   </div>
 </section>
+{% endcomment %}
 
 <hr class="visible" />
 
