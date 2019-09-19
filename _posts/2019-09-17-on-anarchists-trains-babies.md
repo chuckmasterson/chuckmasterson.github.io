@@ -165,7 +165,7 @@ the information you have about their departure time comes from the Crew Change G
 compiled by people actually watching the trains, not by dispatchers giving the time they hope the
 trains will be ready, you still have to figure your train will very likely be a number of hours
 late, or possibly on a schedule that bears no relation whatsoever to what’s predicted. I alternately
-picked my way through my Carl Jung book with a brain far too sleep-fogged for this, climbed around
+picked my way through my Carl Jung book with a brain far too sleepiness-fogged for this, climbed around
 on the bridge’s exposed girders desultorily, and stared around sleepily. There was a convenience
 store half a mile away, but I didn’t dare go too far from my spot, because when you leave is when
 the train comes, and worse, if you’re alone, you never even know whether it left without you or not.
@@ -204,7 +204,7 @@ trees they’d mercifully planted until suddenly my train aired up again and I r
 two different grainers further back the train. Suddenly I was eating ice cream on a moving freight
 train and feeling like I was winning at life in the grandest way.
 
-The feeling didn’t last too long. This train was a rotten piece of junk, rarely breaking cracking
+The feeling didn’t last too long. This train was a rotten piece of junk, rarely cracking twenty
 miles an hour, stopping for no reason all the time. At one point after dark it stopped on the
 mainline and cut air with a sudden violent PFFSHH!, and the engines took off down a spur line with
 the front half of the train, leaving me sitting there in the back half in the middle of nowhere and
@@ -214,18 +214,18 @@ willed the train to go faster, but finally it pulled into a godforsaken little t
 switchyard somewhere past Fort Collins and cut air.
 
 But I didn’t go to sleep just yet; I wanted to keep an eye on developments just a little longer. And
-thus it was that I saw that my train’s engines had treacherously picked up a different train sitting
+that's how I saw that my train’s engines had treacherously picked up a different train sitting
 in the yard, and were taking off with it. Quickly I found something passable to ride on the new
 train and rode off with it to wherever it was going.
 
 Luckily, that was Cheyenne. I discovered this around dawn from a gentleman who told me, “Get off my
 train, man.” We were in the middle of fields that carried on to the horizon, next to a nondescript
 warehouse’s spur track. Not the sort of place one expects to see railroad personnel. But there he
-was, radioing to his partner in the cab to stop my car opposite him. “Cheyenne’s about four miles
+was, radioing to his partner in the cab to stop my car next to him. “Cheyenne’s about four miles
 that way,” he said, and also, “I didn’t see you,” and he gave me his blessing to walk along the
 tracks, as long as I was careful. “We’ve got a lot of trains coming through here.” As it happened,
 most of what he told me was bullshit; Cheyenne was nearly six miles, and not one train went by the
-whole time. But when I finally saw the placid lanes of Alternate Interstate 80 in the Cheyenne
+whole time I walked it. But when I finally saw the placid lanes of Alternate Interstate 80 in the Cheyenne
 morning, along them was something I needed: a hotel with continental breakfast.
 
 Free hotel breakfasts are one of the great unsung scams, and functionally a victimless crime since
@@ -248,9 +248,9 @@ shoulders and planted a weird kiss on my cheek, and then, inviting herself to fo
 me breathily, “God was Aztec, though.” Cheyenne has nowhere decent to get a milkshake, and in a hot
 town like that, I think that speaks volumes about the derangement of their priorities. I read more
 of that Carl Jung down the embankment, and slept a night, and waited for the next morning’s train.
-Well, at least I got to sleep, anyhow.
+Well, at least I got some sleep.
 
-I caught the train successfully the next morning, hand-over-handing my way back it over the narrow
+I caught the train successfully the next morning, hand-over-handing my way back it across the narrow
 bridge while drivers below paid me no attention. Finally I was home free: whatever I’d been riding
 to get here wasn’t the M-DENLAU, but this far out of Denver and at this time of the morning, this
 train clearly was. I rode very evasively through the Air Force base, then found myself free again in
