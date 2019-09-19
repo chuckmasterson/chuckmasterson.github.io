@@ -23,7 +23,7 @@ excerpt: |
   of the summer solstice.
 ---
 
-[Part 1: early July to mid-August](% post_url 2019-08-20-remedial-summer %})  
+[Part 1: early July to mid-August]({% post_url 2019-08-20-remedial-summer %})  
 **Part 2: mid-June to early July**  
 Part 3: mid-May to mid-June *(to come)*  
 Part 4: Traditional Ways, mid-August *(to come)*
