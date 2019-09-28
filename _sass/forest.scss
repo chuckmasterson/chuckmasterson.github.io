@@ -1,13 +1,14 @@
 // Define defaults for each variable.
 
-$base-font-family: "Merriweather", Georgia, "Liberation Serif", serif !default;
+$base-font-family: "SourceSerifPro", Georgia, "Liberation Serif", serif !default;
 $title-font-family:"Spinnaker", Trebuchet, Arial, sans-serif;
 $fancy-font-family:"Fanwood", "Californian", "Californian FB", Georgia, serif;
 $mono-font-family: "Consolas", "Menlo", Courier, monospace;
 $base-font-size:   14px !default;
+$copy-font-size:   17px !default;
 $base-font-weight: 400 !default;
 $heavy-font-weight:700 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size:  14px !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;

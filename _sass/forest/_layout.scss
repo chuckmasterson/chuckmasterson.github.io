@@ -1,5 +1,5 @@
-// Temporary hide while this gets debugged or finally abandoned as hopeless.
 .hide-when-emails-busted {
+  // Temporary hide while this gets debugged or finally abandoned as hopeless.
   display: none;
 }
 /**
@@ -24,7 +24,7 @@
 
   .tagline {
     color: $grey-color;
-    font-size: $small-font-size;
+    // font-size: $small-font-size;
     margin: 0 $spacing-unit;
   }
 
@@ -224,7 +224,7 @@ article.post {
   background-color: $container-background-color;
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
-  line-height: 1.9;
+  line-height: 1.7;
   width: 100%;
   margin-bottom: $spacing-unit/2;
   -webkit-hyphens: auto;
@@ -232,7 +232,7 @@ article.post {
           hyphens: auto;
 }
 .post-content, section.comments-section {
-
+  font-size: $copy-font-size;
   p {
     margin: 0;
     text-indent: 25px;
@@ -280,9 +280,9 @@ article.post {
   > .prefatory + p:not(.prefatory) {
     text-indent: 0;
     &:first-letter {
-      font-size: 52px;
+      font-size: 58px;
       font-family: $fancy-font-family;
-      line-height: 45px;
+      line-height: 47px;
       float: left;
       margin: 11px 2px -5px 0;
     }
@@ -516,7 +516,7 @@ nav.post-to-post-nav {
 
 #respond {
   .instruct {
-    font-size: $small-font-size;
+    font-size: $base-font-size;
     margin-bottom: $spacing-unit/2;
   }
   header {
@@ -541,6 +541,7 @@ nav.post-to-post-nav {
   }
 }
 article.comment header {
+  font-size: $base-font-size;
   line-height: 1.5;
   .comment__source-link {
     display: none;

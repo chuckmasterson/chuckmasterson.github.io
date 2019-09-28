@@ -12,10 +12,11 @@
 
   <link rel="stylesheet" href="{{ "/assets/fonts/Fanwood/web fonts/stylesheet.css" | absolute_url }}">
   {% if jekyll.environment == 'local' %}
-    <link rel="stylesheet" href="{{ "/assets/fonts/Merriweather-webfont/css/stylesheet.css" | absolute_url }}">
+    <link rel="stylesheet" href="{{ "/assets/fonts/SourceSerif-webfont/stylesheet.css" | absolute_url }}">
     <link rel="stylesheet" href="{{ "/assets/fonts/Spinnaker/stylesheet.css" | absolute_url }}">
   {% else %}
-    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Spinnaker" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Spinnaker" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/fonts/SourceSerif-webfont/stylesheet.css" | absolute_url }}">
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
