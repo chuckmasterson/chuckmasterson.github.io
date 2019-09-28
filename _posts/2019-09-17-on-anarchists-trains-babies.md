@@ -5,7 +5,6 @@ categories:
   - Feral
   - trains
   - family
-  - 
 tags:
   - The West
 excerpt: |
@@ -126,7 +125,7 @@ tantalize but nowhere near enough to satisfy, and while I was out west for Feral
 the most of it by putting in some long miles staring out of a freight car at mountains and plains.
 As far as freights go, this trip was practically a straight shot---thirteen hundred miles with only
 one transfer. BNSF’s M-DENLAU takes off from Denver somewhere within six hours either side of
-9 <span class="smcp">a.m.</span> daily and takes thirty hours to chug on up to Laurel, Montana,
+9 <span class="small-caps">a.m.</span> daily and takes thirty hours to chug on up to Laurel, Montana,
 where any of several westbounds each day will get you across the state to Missoula.
 
 I had the underside of the bridge almost to myself, though other train riders had been here not too

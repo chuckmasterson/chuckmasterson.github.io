@@ -18,7 +18,7 @@ excerpt: |
 ---
 
 **Part 1: early July to mid-August**  
-[Part 2: mid-June to early July]({% post_url 2019-09-17-on-anarchists-trains-babies %})*  
+[Part 2: mid-June to early July]({% post_url 2019-09-17-on-anarchists-trains-babies %})  
 Part 3: mid-May to mid-June *(to come)*  
 Part 4: Traditional Ways, mid-August *(to come)*
 {: .prefatory .text-center }
