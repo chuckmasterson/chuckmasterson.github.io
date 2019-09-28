@@ -224,7 +224,7 @@ article.post {
   background-color: $container-background-color;
   box-shadow: 0 0 5px #000;
   border-radius: 10px 10px 0 0;
-  line-height: 1.7;
+  line-height: 1.8;
   width: 100%;
   margin-bottom: $spacing-unit/2;
   -webkit-hyphens: auto;
@@ -904,6 +904,9 @@ table.calendar ul {
     @include media-query($on-tablet) {
       font-size: 14.5px;
     }
+  }
+  button {
+    font-size: $base-font-size;
   }
 }
 
