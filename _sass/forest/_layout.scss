@@ -269,7 +269,10 @@ article.post {
           content: ']';
       }
   }
-  // .footnotes (the list) is later down in a more convenient place
+  .footnotes p {
+    text-align: left;
+  }
+  // more of .footnotes (the list) is down a bit
 }
 .post-content {
   > .prefatory + p:not(.prefatory) {
