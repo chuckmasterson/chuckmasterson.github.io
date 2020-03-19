@@ -269,6 +269,11 @@ article.post {
           content: ']';
       }
   }
+  h1, h2, h3 {
+    .footnote {
+      font-size: $small-font-size;
+    }
+  }
   .footnotes p {
     text-align: left;
   }

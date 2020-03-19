@@ -154,7 +154,11 @@ blockquote {
 .small-caps {
   font-variant: small-caps;
   font-feature-settings: "smcp" 1;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
+}
+abbr {
+  font-feature-settings: "c2sc" 1;
+  letter-spacing: .5px;
 }
 
 /**
