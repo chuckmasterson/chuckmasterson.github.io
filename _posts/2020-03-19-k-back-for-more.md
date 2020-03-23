@@ -197,7 +197,7 @@ Indian Student Cultural Center, most of them on their first fast, looking as inn
 puppies. There was also Joseph from Bad River, who was only 24 but already learning to hold
 ceremonies, and planning to start an immersion school back home. Later on two teenage girls from Lac
 Courte Oreilles showed up, students at the Waadookodaading immersion school. Not only were they fluent
-in Ojibwe, they were also quick-witted and already more skilled at questioning approved storiesout of
+in Ojibwe, they were also quick-witted and already more skilled at questioning approved stories out of
 textbooks than I was at age twenty. Everyone pitched in to make the camp run. And Pebaam took us all to
 see local sights. On one powerhouse day I rode with him and three of the U of M students to see the
 Nigigoonsiminikaaning powwow grounds, then cross the water border into Minnesota and see Ober’s Island,
@@ -229,7 +229,7 @@ of community was certainly thriving and feeding all of us there. It’s a spirit
 important or real just because it’s makes itself clearly known. It’s the spirit that allows
 knowledge of all the other spirits to be passed on. While I was there in that pop-up community
 pitched on ancient foundations, I felt at my most alive, and though I don’t know what the people
-I met there are like outside camp, I believe I could tell most of them did to.
+I met there are like outside camp, I believe I could tell most of them did too.
 
 It was hard to leave. In fact I was the last to leave; after everyone else went home, I sat Pebaam and
 Laura’s dog Ziinzibaakwad (‘Sugar’) for a couple days before catching a ride to Fort Frances with Pebaam

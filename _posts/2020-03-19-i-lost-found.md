@@ -128,7 +128,7 @@ name as a reminder to *trust the process*.[^ttp]
 
 When Pebaam dropped me off after the teaching lodge, on the correct island, I suddenly found that I had
 no more arts and crafts projects left to keep me busy, nothing left to do but watch the island and mull
-over things. Here, on the last day, I would finally exprience something like a typical fast, one not
+over things. Here, on the last day, I would finally experience something like a typical fast, one not
 consumed by anticipating and then attending an important ceremony. I spent some of the rest of my fast
 thinking myself into circles about various questions, and some of it having a series of ambiguous and
 amorphous moments that could possibly, with some squinting, be construed as spiritual contact. 
