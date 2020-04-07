@@ -7,8 +7,9 @@ categories:
 ---
 
 My partner Misty is moving up to the Chequamegon Bay. The news here isn't that we're getting back
-together---we never entirely broke up---but that Misty is moving house in the middle of a global
-pandemic.
+together (we never really formally broke up, nor are we formally announcing we’re back together: all our
+relationship status changes are sort of *de facto*). Rather, it’s that Misty is moving house in the
+middle of a global pandemic.
 
 It may seem, at first blush, that there are few stupider things Misty could do. But they[^pr] have every
 reason to get out of their current situation. A place that appeared to be pretty decent with low rent
