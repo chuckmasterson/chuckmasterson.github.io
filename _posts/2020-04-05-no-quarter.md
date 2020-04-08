@@ -176,12 +176,12 @@ traditional Mayans all had to go down to the office supply store for new calenda
 a nonevent. Before that we had Y2K, during which all the world’s computers tragically failed to stop.
 The pattern goes back and back, from the mass suicide of the Jonestown Massacre, to 1844’s Great
 Disappointment in which the Millerites failed to be raptured, on to various communes that were founded
-during spates millenarianism through the 1800s and 1900s. That’s just the mass movements; lone Biblical
-*gematria*-hounds and extraterrestrial message-receivers have been convincing themselves for just as
-long that some entity is about to come along and relieve us all of the bother of paying taxes by ending
-the world. With <abbr>COVID</abbr> we didn’t have much advance warning time to get the wheels of the old
-apocalypse myth engine turning, but the machine has proven perfectly up to the challenge, and furnished
-us with an end-of-days narrative in what must be record time.
+during spates of millenarianism through the 1800s and 1900s. That’s just the mass movements; lone
+Biblical *gematria*-hounds and extraterrestrial message-receivers have been convincing themselves for
+just as long that some entity is about to come along and relieve us all of the bother of paying taxes by
+ending the world. With <abbr>COVID</abbr> we didn’t have much advance warning time to get the wheels of
+the old apocalypse myth engine turning, but the machine has proven perfectly up to the challenge, and
+furnished us with an end-of-days narrative in what must be record time.
 
 Not only that, but it’s a story with a distinct advantage over all those other apocalypses: it involves
 something that’s actually happening. You don’t have to take it on faith or on authority that the
@@ -211,14 +211,17 @@ myth, because we’ve never lost a war against humans---in Vietnam we merely fai
 still undefeated and will surely remain so.) 
 
 [^ce]: Eisenstein, Charles. [“The Coronation”](charleseisenstein.org/essays/the-coronation/). At Charles
-Eisenstein (blog), Mar., 2020.
+    Eisenstein (blog), Mar., 2020.
 
 Acting as though we’re at war, of course, does have its uses: some legal provisions meant for wartime
-use are being dusted off to get factories to convert their production over from consumer crap to new
-necessities. A factory in Michigan has stopped making cars and started making ventilators, for example,
-although they did it not at the behest of the government but at the demand of the workers.[^npr] The war
-analogy also leads to harm and nonsense, though, like the expanded powers police have been given in some
-jurisdictions to arrest people for violating orders to stay at home and socially distance.[^int] For
+use are being dusted off to get factories to convert their production over from consumer crap to
+newfound necessities. A factory in Michigan has stopped making cars and started making ventilators, for
+example, although they did it not at the behest of the government but at the demand of the
+workers.[^npr] The war analogy also leads to harm and nonsense, though, like the expanded powers police
+have been given in some jurisdictions to arrest people for violating orders to stay at home and socially
+distance[^int]---which would be iffy even if we could trust the police with extra power, because
+arresting someone involves getting rather socially proximate, but of course I and a lot of people with
+skin darker than mine don’t have enough faith to issue every officer even an extra Roman candle. For
 better or for worse, though, memories of Victory Gardens, ration stamps, and Rosie the Riveter are
 starting to resurface, along with less helpful ones, like Agent Orange, fear of strangers (spies?
 disease-carriers?), and internment facilities.
