@@ -28,7 +28,7 @@ prescriptive you like your grammar, your reaction to that declaration could be
 anywhere from “That’s a travesty against English grammar and practically
 against all logic!” to “About damn time we had a pronoun that doesn’t force
 everyone to decide whether they’re all-or-nothing female <span
-class="small-caps"><a
+class="smallcaps"><a
 href="https://en.wikipedia.org/wiki/Exclusive_or">xor</a></span> male!” to
 “Whatever, so I guess that means now I can use that instead of ‘he or she’?”
 

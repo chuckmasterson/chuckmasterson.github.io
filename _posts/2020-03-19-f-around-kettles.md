@@ -16,7 +16,7 @@ excerpt: |
   gracefully decaying downtown of tiny Maple Plain, and north of town I found
   Lake Independence, its mostly forested shore studded with occasional two- and
   three-stories. I rode a ways up the road that encircles it until I found a
-  handmade wooden sign saying <span class='small-caps'>Porky’s Sugar
+  handmade wooden sign saying <span class='smallcaps'>Porky’s Sugar
   Camp</span>.
 ---
 
@@ -49,7 +49,7 @@ exurbs, where incongruous little clusters of commuters’ and retirees’ houses
 fields. I passed through the gracefully decaying downtown of tiny Maple Plain, and north of town I found
 Lake Independence, its mostly forested shore studded with occasional two- and three-stories. I rode
 a ways up the road that encircles it until I found a handmade wooden sign saying <span
-class="small-caps">Porky’s Sugar Camp</span>. Three tin squirrels were perched on top of the sign, busy
+class="smallcaps">Porky’s Sugar Camp</span>. Three tin squirrels were perched on top of the sign, busy
 tending tiny little kettles full of sap. Behind the sign, the land sloped down into forty acres of
 forest between the road and the lake, a hushed study in brown and white, accented by bright blue bags
 hanging off the maples. A muddy trail led to the only other sign of human activity, a fire pit

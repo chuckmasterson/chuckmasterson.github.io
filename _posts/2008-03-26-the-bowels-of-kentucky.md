@@ -72,7 +72,7 @@ out why at all. There are dead trees growing in the middle of it. Why? We
 approached it from two different angles but neither offered answers.  
 
 We took a trail that promised to take us to the <span
-class="small-caps">Campground</span>. It ascended the hill we’d descended,
+class="smallcaps">Campground</span>. It ascended the hill we’d descended,
 through a series of switchback and oxbows. We saw some standoffish deer.
 “They’re Ohio deer,” Dad said. “They’ve got an O on the license tag.” At the
 top of the hill, the trail diverged with no clues, both ways leading off into

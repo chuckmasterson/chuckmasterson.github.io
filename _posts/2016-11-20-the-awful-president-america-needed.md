@@ -407,7 +407,7 @@ Misty how they were doing, and they said, “Well, I was slipping into my usual
 fall depression.” (This usually involves several months of heavy Netflix usage,
 in my experience.) “But then after I found out about the election, I suddenly
 had a *rush* of energy. ‘I have something to *fight* against! I have something
-to <span class="small-caps">live</span> for!!’&nbsp;” My housemate Emily says
+to <span class="smallcaps">live</span> for!!’&nbsp;” My housemate Emily says
 that the more she reads about Trump the worse it seems, and she realizes that
 the only sane response is to start fighting. “I really just want to do
 *something* every day.” My inbox has been filling up with letters from every

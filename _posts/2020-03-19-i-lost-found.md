@@ -165,8 +165,8 @@ so fast, so hazy and bewildering and even, possibly, enlightening.
 
 After a while I let it fade. I stood up: no boat. I cleaned my multitool very thoroughly. When
 I finished, Pebaam was arriving. It transpired that he was going to come get everyone at 6:30 <span
-class="small-caps">a.m.</span>, but various things had happened, and now it was 5 <span
-class="small-caps">p.m.</span> I tossed my stuff into the boat with him and Liz, and he took us to
+class="smallcaps">a.m.</span>, but various things had happened, and now it was 5 <span
+class="smallcaps">p.m.</span> I tossed my stuff into the boat with him and Liz, and he took us to
 Misty’s little island, where he helped us both break our fasts. 
 
 He brought out a copper cup and poured in water. Except at the shaking tent, I hadn’t drunk anything but

@@ -135,8 +135,8 @@ the bonus of learning from James about the more wonderful points of country life
 was time to move on. James dropped us off one evening at the I-44 onramp and we pointed ourselves
 toward The Draw.
 
-We had a sign saying <span class="small-caps">Illinois</span>, but I didn't even have time to finish
-making our second sign---<span class="small-caps">just showered</span>---before a truck cab pulled
+We had a sign saying <span class="smallcaps">Illinois</span>, but I didn't even have time to finish
+making our second sign---<span class="smallcaps">just showered</span>---before a truck cab pulled
 onto the shoulder in front of us.
 
 Inside we met Luria. Lu transports trucks, and this truck was bound all the way for

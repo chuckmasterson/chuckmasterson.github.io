@@ -140,7 +140,7 @@ Portage.
 We stopped at Evergreen Lodge, and a nice guy there let us fill up our water
 and use his picnic table. The second two-mile half had no Vietnam, but here’s
 the thing: we started a little after 7 <span
-class="small-caps">PM</span>. So, by the time
+class="smallcaps">PM</span>. So, by the time
 we got our first half to Boulder Lake, it was 8:15, and then we started off
 with the other half right around 9. The result -- we did half the second load
 in darkness, using flashlights and headlamps. But we did it.  

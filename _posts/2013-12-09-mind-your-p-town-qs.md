@@ -118,8 +118,8 @@ few years prior. But the hub, of course, would be the poorly-named Saturday
 Market (I suggest: “Weekend Market”). Will and I went there on a
 Sunday and admired knit hats, wood-veneer barrettes, refillable oil lamps made
 from slabs of stone, homemade barbecue sauces, and T-shirts saying <span
-class="small-caps">Breakfast: the most important beer of the day</span> and
-<span class="small-caps">Gluten: the new al-Qaeda</span>.
+class="smallcaps">Breakfast: the most important beer of the day</span> and
+<span class="smallcaps">Gluten: the new al-Qaeda</span>.
 
 Stuff like this has been going on for a while. Even the city’s cherished
 institutions are a little off-the-wall, not very much so, but definitely when

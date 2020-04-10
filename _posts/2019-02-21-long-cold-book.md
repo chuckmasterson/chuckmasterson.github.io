@@ -46,7 +46,7 @@ I’d underestimated how long six miles might feel in this kind of snow. After a
 done  
 9  
 to the line
-{: .text-center .small-caps }
+{: .text-center .smallcaps }
 
 I adjusted my expectations.
 

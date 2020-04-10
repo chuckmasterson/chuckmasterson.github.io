@@ -106,7 +106,7 @@ nowhere isn’t quite the same as other places in the world. Sometimes it means
 forest and undeveloped mountains, but just as often it means mountains covered
 in army bases. Such was the case; we drove past two or three bases on the way
 to the trail. Ben let us out at a muddy turnaround next to a sign that said
-개조심 (<span class="small-caps">Beware of Dog</span>) and we started walking
+개조심 (<span class="smallcaps">Beware of Dog</span>) and we started walking
 uphill along a nice cobblestoned trail.
 
 Within three minutes we ran out of cobblestones and ended up at someone’s

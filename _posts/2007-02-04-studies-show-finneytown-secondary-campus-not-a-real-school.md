@@ -20,8 +20,8 @@ Up until my junior year, we had a wooden sign out front that animatedly
 proclaimed, FINNEYTOWN HIGH SCHOOL. Then they renamed the school to “Finneytown
 Secondary Campus” and received a new sign: it’s stone and has engraved (in
 Times New Roman, small, and aligned to the left, not centered as it should be)
-<span class="small-caps">Finneytown Secondary Campus,</span> and, below that
-and almost the same size, <span class="small-caps">Gift of the Class of
+<span class="smallcaps">Finneytown Secondary Campus,</span> and, below that
+and almost the same size, <span class="smallcaps">Gift of the Class of
 2005</span>. it’s an exceedingly disheartening and half-assed sign. Another
 clue is that the State of Ohio rated us “effective”, not “excellent”. So that
 means I’m learning effectively. That explains why Mrs Otten was loath to teach

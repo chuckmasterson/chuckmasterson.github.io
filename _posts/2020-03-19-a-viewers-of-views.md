@@ -111,7 +111,7 @@ world. It was uninterpreted. It had grown woolly and feral since its last human 
 bridges had collapsed, carefully bulldozed slopes had turned into tangly thickets of honeysuckle,
 discarded chunks of metal had rusted into unrecognizable shapes, old bottles poked up out of the dirt
 and seemed to have been lost from a Spanish galleon (even if on closer inspection they said <span
-class="small-caps">7-up</span>). Up above in the world we’d stepped out of, every place was planned out
+class="smallcaps">7-up</span>). Up above in the world we’d stepped out of, every place was planned out
 by some human mind to have one interpretation, more or less: House. Store. Gas station. But here, often
 not fifty yards from that world, everything we looked at was an infinite matryoshka of interpretations,
 bug on grass blade on dirt in forest, each with their universe of meanings, and the minds that devised

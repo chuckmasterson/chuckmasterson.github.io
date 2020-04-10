@@ -20,7 +20,7 @@ We rolled into Houghton, Michigan, wet with drizzle and burnt out from four stra
 
 <!--sep-->
 
-“You know, I was kind of thinking about that last night,” I said. Last night we’d camped out at a roadside park where two tannic waterfalls of the Tioga Creek crash down on their way to Sturgeon River and the Lake. The nice picnic tables and lawn were guarded only by a sign that said <span class="small-caps">No overnight camping</span>, which naturally none of us saw. “Why *are* we biking around the Lake? We never really talked about it when we started.”
+“You know, I was kind of thinking about that last night,” I said. Last night we’d camped out at a roadside park where two tannic waterfalls of the Tioga Creek crash down on their way to Sturgeon River and the Lake. The nice picnic tables and lawn were guarded only by a sign that said <span class="smallcaps">No overnight camping</span>, which naturally none of us saw. “Why *are* we biking around the Lake? We never really talked about it when we started.”
 
 It turned out we all had different reasons. Maria, for instance, after a tumultuous last year, had started settling back into a sense of balance in life, in part with the guidance and inspiration of the Lake, one presence she could be sure of, and was riding to spend closer time with a good friend. Ava, meanwhile, was riding to push herself: Ava is always attempting to do something more than she’s ever done, be better than she’s ever been. Before this trip the farthest she’d ever ridden a bike was about fifty miles. The trip ended up 1,425. When the question got around the table to Katie, she said: “Because I wanted to? And because I like riding my bike, and I like being with my friends.” And ever since she moved to Ashland for college (and then stayed), Katie’s held a pure and unironic love for the Chequamegon Bay’s little towns full of earnest hippies and other weirdos just figuring it out day by day, and the Lake that anchors them.
 
@@ -156,7 +156,7 @@ With the eight final miles back to the country house we started from, we closed 
 
 And that was it. All done. Thanks for playing. It’ll be time for dinner soon.
 
-It was weird to be back, weirder still, I’m sure, for Katie and Maria, who actually live in the Chequamegon, to have done this big thing, and now be back where everything is normal and familiar and there’s a next day to be contended with that doesn’t involve any more pedaling and <span class="small-caps">hey,</span> isn’t someone going to congratulate us or something?!
+It was weird to be back, weirder still, I’m sure, for Katie and Maria, who actually live in the Chequamegon, to have done this big thing, and now be back where everything is normal and familiar and there’s a next day to be contended with that doesn’t involve any more pedaling and <span class="smallcaps">hey,</span> isn’t someone going to congratulate us or something?!
 
 Turned out, yes. Some friends of Katie’s and Maria’s pulled together a last-minute potluck that was surprisingly well attended. We got to sit around a campfire with friends, talk about our favorite moments along the trip, compare notes with a guy who’d ridden the same ride (*and* jogged it a few years later, holy shit), drink beer and wine and eat good food, talk about things entirely unrelated to the bike trip, and get the warmth of home we’d been hoping to find.
 

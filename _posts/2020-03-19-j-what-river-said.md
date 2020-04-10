@@ -8,7 +8,7 @@ categories:
   - Deep Island
 excerpt: |
   If I hadn’t been looking for the sign, I probably would’ve gone right past it---a little brown one by
-  the side of the trail that said <span class='small-caps'>walk in campsite</span>. I slowed to a stop
+  the side of the trail that said <span class='smallcaps'>walk in campsite</span>. I slowed to a stop
   and took my bike by the handlebars down off the pavement and into woods that fairly sighed with
   spring.
 ---
@@ -34,7 +34,7 @@ excerpt: |
 {% include fig.html src="arc-ohio-minnbike-1836" class="prefatory" %}
 
 If I hadn’t been looking for the sign, I probably would’ve gone right past it---a little brown one by
-the side of the trail that said <span class="small-caps">walk in campsite</span>. I slowed to a stop and
+the side of the trail that said <span class="smallcaps">walk in campsite</span>. I slowed to a stop and
 took my bike by the handlebars down off the pavement and into woods that fairly sighed with spring.
 
 It was May of 2018 now. As it turned out, in the year since I’d been given my name, I hadn’t experienced

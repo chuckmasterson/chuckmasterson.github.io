@@ -219,7 +219,7 @@ So if you imagine that I’ve moved to permanent-vacation land, well, you’re o
 I do intend, as much as possible, to enjoy every day as though I were on vacation. And yes, this
 place is astonishingly beautiful. It amuses me that I live in a place people drive hours to visit;
 I still giggle inwardly when I see a tourist taking a selfie with the <span
-class="small-caps">Welcome to Ashland</span> sign or walking down the streets of Washburn with an
+class="smallcaps">Welcome to Ashland</span> sign or walking down the streets of Washburn with an
 ice cream cone (tourists are known here as “conelickers”). But I have a job. And more importantly,
 a vacation is when you go *away*, and I’m not *away* out here. I’m right where I am---or getting
 there. Finally.

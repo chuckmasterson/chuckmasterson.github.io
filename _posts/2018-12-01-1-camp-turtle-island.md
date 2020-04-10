@@ -13,7 +13,7 @@ excerpt_separator: <!--sep-->
 
 About twelve miles east of Waubun, Highway 4 comes off of Highway 113 and heads up toward Nay-Tah-Waush. There at the corner, there's something unusual going on. Down in the grass there's a scattering of tipis, two huge army tents, and a trailer, spread among a selection of cars ranging from serviceable to dead and an uneven layer of debris like chainsaws, old doors, and cinder blocks. Come down off the road and go down the hill toward the nearby banks of Gull Lake, and the theme holds and intensifies, with a half-dozen wigwams lining the trail, some covered with layers of tarps, some no more than a dome-shaped frame of bent saplings, flanking a yard full of old boards, scrap wire, insulation, a blue ’60s flatbed dually. Facing toward the road is a big banner that says
 
-<span class="small-caps">MikinaakMinis  
+<span class="smallcaps">MikinaakMinis  
 Camp Turtle Island</span>
 {: .text-center }
 

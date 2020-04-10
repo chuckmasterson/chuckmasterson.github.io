@@ -71,7 +71,7 @@ understimulation and overstimulation. We found their driveway several miles
 down a narrow, hilly, wet, old highway, narrowed further sometimes with snow
 that hadn’t melted yet from their nine-inch storm last week. We pulled over
 next to their gate, with its signpost stacked with different handmade signs
-(<span class="small-caps">The Draw / Permaculture Sanctuary / Waters Edge /
+(<span class="smallcaps">The Draw / Permaculture Sanctuary / Waters Edge /
 Nursery / Garden</span>), and discovered to our mild shock that we could
 actually stand and walk. I don’t remember any other occasions when I’ve been
 quite so thankful to get out of a car.
