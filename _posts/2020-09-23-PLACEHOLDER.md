@@ -3,6 +3,7 @@ title:
 categories:
   - 
 
+published: false
 ---
 
 A few months ago, I found myself with a sudden longing to get a little truck. It was a surprise to
