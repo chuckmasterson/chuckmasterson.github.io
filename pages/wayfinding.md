@@ -2,6 +2,7 @@
 title: Wayfinding
 layout: page
 permalink: /wayfinding/
+published: false
 ---
 
 {::nomarkdown}
