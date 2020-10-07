@@ -57,10 +57,10 @@ used to great advantage with any spiritual system; he uses it himself as a pilla
 practice (which is, in fact, a real thing, as are modern Heathenry, Wicca, and Hellenism).
 
 [^dm]: Greer, John Michael. “Discursive Meditation” (5-part series). *Toward Ecosophy* (blog).
-<https://ecosophia.dreamwidth.org/65232.html> (pt. 1), <https://ecosophia.dreamwidth.org/66287.html>
-(pt. 2), <https://ecosophia.dreamwidth.org/67579.html> (pt. 3),
-<https://ecosophia.dreamwidth.org/68294.html> (pt. 4), <https://ecosophia.dreamwidth.org/69547.html>
-(pt. 5). 
+    <https://ecosophia.dreamwidth.org/65232.html> (pt. 1), <https://ecosophia.dreamwidth.org/66287.html>
+    (pt. 2), <https://ecosophia.dreamwidth.org/67579.html> (pt. 3),
+    <https://ecosophia.dreamwidth.org/68294.html> (pt. 4), <https://ecosophia.dreamwidth.org/69547.html>
+    (pt. 5). 
 
 Before I started, hints had been accumulating in my life for a while that I would probably get a lot out
 of a meditation routine, but I’d been only half-inspired by Buddhist-style meditation. That, and I kept
@@ -100,7 +100,7 @@ Ojibway’s Meditations*:
 > a prayer of gratitude for all the blessings that are present in my life....[^wag]
 
 [^wag]: Wagamese, Richard. *Embers: One Ojibway’s Meditations*, p. 11. Madeira Park, B.C.: Douglas
-and McIntyre, 2016.
+    and McIntyre, 2016.
 
 Since I started meditating, I’ve been working my way through some of the lessons of the Medicine Wheel.
 It’s a simple shape: a circle divided into four quarters of four different colors, usually yellow,
@@ -170,7 +170,7 @@ I belong here on Earth with the rest of the life around me, from prokaryotes to
 [Pando](https://en.wikipedia.org/wiki/Pando_(tree)), and all the spirits they entail.
 
 [^bj]: Johnston, Basil. *Ojibway Ceremonies*, p. 30*n*. Lincoln, Neb.: University of Nebraska Press,
-1982.
+    1982.
 
 Does this mean that the religion I practice is now the obscure, animistic spirituality of a people
 I have no familial relation to, who I’ve known for only a few years? Yes and no, I suppose. It’s more
