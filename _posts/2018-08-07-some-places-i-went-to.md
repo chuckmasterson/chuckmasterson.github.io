@@ -9,6 +9,7 @@ tags:
   - Minnesota
   - Canada
   - Chequamegon
+comments_locked: true
 ---
 
 It’s summertime! Don’t you just feel like going outside, exploring, spending time with friends, jumping into lakes?
