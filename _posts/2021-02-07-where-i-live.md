@@ -6,6 +6,8 @@ categories:
   - homesteading
 ---
 
+*Note: this post is unfinished. I stopped working on it partway through, when I realized it substantially repeated things I'd written about already. But before I set aside the time to get out the redundancy, I accidentally published it... so here it is. The section "The Power" at the end was meant to be about solar electricity. Perhaps I'll finish this in some form.*
+
 I’ve now lived in the same general area of the Chequamegon Bay for almost two years. I intend to
 live here for many more years: I thought of Minneapolis, by comparison, as an extended stopover,
 from the beginning of my time there, and I ended up living there only a little under three years

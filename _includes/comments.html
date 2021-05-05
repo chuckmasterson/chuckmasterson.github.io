@@ -1,4 +1,6 @@
 <section class="comments-section">
+  <p><strong>Note: comments are temporarily disabled because Google’s spam-blocking software cannot withstand spammers’ resolve.</strong></p>
+
 {% if page.legacyslug.size > 0 %}
 {% capture commentslug %}{{ page.legacyslug }}{% endcapture %}
 {% else %}
@@ -153,7 +155,7 @@
             </div>
             <!-- End comment form alert messaging -->
             <fieldset>
-                <button type="submit" id="comment-form-submit" class="button">Submit Comment</button>
+                <button type="submit" disabled="disabled" id="comment-form-submit" class="button">Submit Comment</button>
                 <a href="#" id="comment-form-reset" class="button hidden">Write Another Comment</a>
             </fieldset>
         </form>
